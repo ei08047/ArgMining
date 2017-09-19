@@ -1,7 +1,7 @@
 from nltk.corpus.reader import XMLCorpusReader
 from nltk.corpus.reader.xmldocs import XMLCorpusView
 
-from Comarg import Comarg
+from ComArg import ComArg
 
 import os,os.path
 corpus_path = os.path.expanduser('~/nltk_data')
@@ -17,9 +17,9 @@ comarg= corpus_path+'/comarg/GM.xml'
 
 #help(XMLCorpusReader)
 XMLCorpusReader = XMLCorpusReader(corpus_path,'/comarg/GM.xml')
-
 raw = XMLCorpusReader.raw(comarg)
 xml = XMLCorpusReader.xml(comarg)
+
 print(type(raw),type(xml))
 print(xml)
 words= XMLCorpusReader.words(comarg)
@@ -46,21 +46,17 @@ XMLCorpusView = XMLCorpusView(comarg,'document/unit/comment/text')
 
 
 
-unitList = []
-itemList = []
-
 print(type(xml),xml.tag)
-for unit in xml:
-    #print('enter unit',type(unit),unit.tag, unit.attrib)
-    unitList.append(unit)
-    for item in unit:
-        print('enter item',item.tag, item.attrib)
-        itemList.append(item)
+
+Comarg = ComArg(xml)
+Comarg.test()
+##Comarg.divideComments()
 
 
-Comarg = Comarg(unitList)
 
-print('numUnits',len(unitList), 'numItems',len(itemList))
+
+
+
 
 
 
