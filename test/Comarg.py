@@ -1,11 +1,26 @@
+from nltk.tokenize import sent_tokenize
+import nltk
+
+
 class Item(object):
     def __init__(self,id,type,stance,text):
         self.id = id
         self.type = type ## comment/argument
         self.stance = stance ## Pro / Con
         self.text = text
+        self.tokenize_list = sent_tokenize(self.text) ##this only makes sence IF
+        self.pos_tag = nltk.pos_tag(self.text)
+        self.view()
+
+
     def view(self):
-        print(self.id, self.type,self.stance, self.text)
+        print(self.id, self.type,self.stance,len(self.tokenize_list))
+        ##print('original::',self.text)
+        print('token list::', self.tokenize_list)
+        ##print('pos tagged original text::',self.pos_tag)
+        fdist = nltk.FreqDist(self.pos_tag)
+        print(fdist.items())
+
 
 class Pair(Item):
     def __init__(self,Argument,Comment):
@@ -56,6 +71,7 @@ class ComArg(object):
                 tempUnit.addItem(TempItem)
             self.unitList.append(tempUnit)
         print(type(self.unitList), len(self.unitList), 'units')
+
     def generatePairs(self):
         for unit in self.unitList:
             unit.createPair()
@@ -65,8 +81,10 @@ class ComArg(object):
         for unit in self.unitList:
             for item in unit.itemList:
                 allItems.append(item)
-
         print('all items::',len(allItems))
+        return allItems
+
+    def aggregateItems(self,allItems):
         self.comments = [item for item in allItems if item.type == 'comment']
         self.arguments = [item for item in allItems if item.type == 'argument']
         self.proComments = [comment for comment in self.comments if comment.stance == 'Pro']
