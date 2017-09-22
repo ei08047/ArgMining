@@ -1,112 +1,84 @@
-import nltk
-
-
-
 class Item(object):
-    def __init__(self,id):
+    def __init__(self,id,type,stance,text):
         self.id = id
-    def setStanceText(self,comarg,stancetext,text):
-        self.comarg = comarg ## comment/argument
-        self.stancetext = stancetext ## text / stance
-        if(self.stancetext == 'stance'):
-            self.stance = text ## raw
-        if(self.stancetext == 'text'):
-            self.text = text
-        ##self.tokens = nltk.word_tokenize(self.text)
-        ##self.tagged = nltk.pos_tag(self.tokens)
-        ##self.entities = nltk.chunk.ne_chunk(self.tagged)
+        self.type = type ## comment/argument
+        self.stance = stance ## Pro / Con
+        self.text = text
     def view(self):
-        print(self.id, self.comarg, self.stancetext)
-
-
-    def getText(self):
-        return self.text
+        print(self.id, self.type,self.stance, self.text)
 
 class Pair(Item):
     def __init__(self,Argument,Comment):
         self.argument = Argument
         self.comment = Comment
-
-
-
-
-
+    def view(self):
+        print(self.argument.view() , self.comment.view() )
 
 class Unit(object):
-    itemList = []
     def __init__(self,id):
         self.id = id
+        self.itemList = []
     def getId(self):
         return self.id
-    def setId(self,id):
-        self.id = id
     def addItem(self,item):
         self.itemList.append(item)
-    def getComStance(self):
-        for item in self.itemList:
-            if(item.isComment() and item.isStance()):
-                return item
-    def getComText(self):
-        for item in self.itemList:
-            if(item.isComment() and not item.isStance()):
-                return item
-    def getArgStance(self):
-        for item in self.itemList:
-            if(item.isStance() and item.isArgument()):
-                return item
-    def getArgText(self):
-        for item in self.itemList:
-            if(not item.isStance() and item.isArgument()):
-                return item
+    def getArgItem(self):
+        for i in self.itemList:
+            if i.type == 'argument':
+                return i
+                break
+    def getComItem(self):
+        for i in self.itemList:
+            if i.type == 'comment':
+                return i
+                break
+    def createPair(self):
+        self.pair = Pair(self.getArgItem(), self.getComItem())
     def getPair(self):
-        return self.itemList
+        return self.pair
 
+    def view(self):
+        print('Unit:', self.getId(),'of',len(self.itemList))
 
 class ComArg(object):
-    unitList = []
-    proComments = []
-    conComments = []
-    proArguments = []
-    conArguments = []
     def __init__(self,document):
+        self.unitList = []
         self.document = document
         for unit in self.document:  ##unit id
             ##print('0::tag:',unit.tag,'|| attrib:',unit.attrib['id'])
             tempUnit = Unit(unit.attrib['id'])
             for item in unit:  ## argument/comment
-                ##create new Item
-                TempItem = Item(tempUnit.getId())
-                ##print('1::tag:',element.tag,'|| attrib:',element.attrib)
-
-                for comArg in item:  ##text / stance
-                    #print('2::tag:', comArg.tag, '||Value:', comArg.text)
-                    ##item = Item(item.tag, comArg.tag, comArg.text)
-                    TempItem.setStanceText(item.tag, comArg.tag, comArg.text)
-                    tempUnit.addItem(TempItem)
+                if item.tag == 'label':
+                    continue
+                textNode = item.find('text')
+                stanceNode = item.find('stance')
+                TempItem = Item(tempUnit.getId(), item.tag, stanceNode.text, textNode.text)
+                tempUnit.addItem(TempItem)
             self.unitList.append(tempUnit)
+        print(type(self.unitList), len(self.unitList), 'units')
+    def generatePairs(self):
+        for unit in self.unitList:
+            unit.createPair()
 
-        for item in self.unitList[0].getPair():
-            print(item.view())
+    def getAllItems(self):
+        allItems = []
+        for unit in self.unitList:
+            for item in unit.itemList:
+                allItems.append(item)
 
+        print('all items::',len(allItems))
+        self.comments = [item for item in allItems if item.type == 'comment']
+        self.arguments = [item for item in allItems if item.type == 'argument']
+        self.proComments = [comment for comment in self.comments if comment.stance == 'Pro']
+        self.conComments = [comment for comment in self.comments if comment.stance == 'Con']
+        self.proArguments = [argument for argument in self.arguments if argument.stance == 'Pro']
+        self.conArguments = [argument for argument in self.arguments if argument.stance == 'Con']
 
-    def test(self):
-        print('numUnits',len(self.unitList))
-
-
-    def divideComments(self):
-        if False:
-            for unit in self.unitList:
-                if(unit.getComStance().getText() == 'Pro'):
-                    self.proComments.append(unit.getComText())
-                elif(unit.getComStance().getText() == 'Con'):
-                    self.conComments.append(unit.getComText())
-                if (unit.getArgStance().getText() == 'Pro'):
-                    self.proArguments.append(unit.getArgText())
-                elif (unit.getArgStance().getText() == 'Con'):
-                    self.conArguments.append(unit.getArgText())
-        print( 'pro:', len(self.proComments), '|| cons:', len(self.conComments))
-        print( 'pro:', len(self.proArguments), '|| cons:', len(self.conArguments))
-
+    def view(self):
+        print('ComArg info:::')
+        print('num units:', len(self.unitList))
+        print('num pro || con || arguments' ,len(self.proArguments), len(self.conArguments), len(self.arguments)  )
+        print('num pro || con || comments' ,len(self.proComments), len(self.conComments), len(self.comments) )
 
 
 
