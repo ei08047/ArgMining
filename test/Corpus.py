@@ -15,6 +15,13 @@ class Corpus:
     def readCorpus(self):
         self.xml = self.xmlCorpusReader.xml( self.dataPath + self.corpusPath)
         self.raw = self.xmlCorpusReader.raw(self.dataPath + self.corpusPath)
+<<<<<<< HEAD
+        self.num_chars = len(self.raw)
+        self.num_words = len(self.xmlCorpusReader.words(self.dataPath + self.corpusPath))
+
+    def view(self):
+        print('num_chars', self.num_chars , 'num_words', self.num_words )
+=======
         self.words = self.xmlCorpusReader.words(self.dataPath + self.corpusPath)
         self.num_chars = len(self.raw)
         self.num_words = len(self.words)
@@ -28,6 +35,7 @@ class Corpus:
     def lexical_diversity(self,text):
         print('set', len(set(text)), 'all', len(text))
         return len(set(text)) / len(text)
+>>>>>>> 43a2baec1da877126ce2d62d633a83f171175370
 
 
 ##sents(): list of (list of str)
