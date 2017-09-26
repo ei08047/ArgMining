@@ -1,19 +1,24 @@
 from nltk.tokenize import sent_tokenize
 import nltk
 
-
 class Item(object):
     def __init__(self,id,type,stance,text):
         self.id = id
         self.type = type ## comment/argument
         self.stance = stance ## Pro / Con
         self.text = text
-    def view(self):
-        print(self.id, self.type,self.stance, self.text)
-
-        self.tokenize_list = sent_tokenize(self.text) ##this only makes sence IF
+        self.tokenize_list = sent_tokenize(self.text)
         self.pos_tag = nltk.pos_tag(self.text)
-        self.view()
+
+    def preprocess(self):
+        #sentence segmenter
+        self.segmented_sentences = sent_tokenize(self.text)
+        #word tokenizer
+        self.tokenized_words = [nltk.word_tokenize(sent) for sent in self.segmented_sentences]
+        #part-pf-speech tagger
+        self.tagged_sent = [nltk.pos_tag(sent) for sent in self.tokenized_words]
+
+
     def view(self):
         print(self.id, self.type,self.stance,len(self.tokenize_list))
         ##print('original::',self.text)
@@ -22,28 +27,27 @@ class Item(object):
         fdist = nltk.FreqDist(self.pos_tag)
         print(fdist.items())
 
+    def test_features(self):
+        return {'text_len': len(self.text)}
+
+
 class Unit(object):
     def __init__(self,id):
         self.id = id
         self.itemList = []
+
     def getId(self):
         return self.id
+
     def addItem(self,item):
         self.itemList.append(item)
-    def getArgItem(self):
-        for i in self.itemList:
-            if i.type == 'argument':
-                return i
-                break
-    def getComItem(self):
-        for i in self.itemList:
-            if i.type == 'comment':
-                return i
-                break
+
     def view(self):
-        print('Unit:', self.getId(),'of',len(self.itemList))
+        print('Unit:', self.getId())
+
 
 class ComArg(object):
+
     def __init__(self,document):
         self.unitList = []
         self.document = document
@@ -58,15 +62,19 @@ class ComArg(object):
                 TempItem = Item(tempUnit.getId(), item.tag, stanceNode.text, textNode.text)
                 tempUnit.addItem(TempItem)
             self.unitList.append(tempUnit)
-        print(type(self.unitList), len(self.unitList), 'units')
+
     def getAllItems(self):
         allItems = []
         for unit in self.unitList:
             for item in unit.itemList:
                 allItems.append(item)
-        print('all items::',len(allItems))
-        print('all items::',len(allItems))
         return allItems
+
+    def getCommentById(self,id):
+        for com in self.comments:
+            if(com.id == id):
+                return com
+
     def aggregateItems(self,allItems):
         self.comments = [item for item in allItems if item.type == 'comment']
         self.arguments = [item for item in allItems if item.type == 'argument']
@@ -74,11 +82,11 @@ class ComArg(object):
         self.conComments = [comment for comment in self.comments if comment.stance == 'Con']
         self.proArguments = [argument for argument in self.arguments if argument.stance == 'Pro']
         self.conArguments = [argument for argument in self.arguments if argument.stance == 'Con']
+
     def view(self):
-        print('ComArg info:::')
-        print('num units:', len(self.unitList))
-        print('num pro || con || arguments' ,len(self.proArguments), len(self.conArguments), len(self.arguments)  )
-        print('num pro || con || comments' ,len(self.proComments), len(self.conComments), len(self.comments) )
+        print('     ComArg info:::','num units:', len(self.unitList))
+        print('    Arguments', len(self.arguments),'|| pro',len(self.proArguments), '|| con:',len(self.conArguments) )
+        print('    Comments', len(self.comments), '|| pro', len(self.proComments), '|| con:', len(self.conComments))
 
 
 
