@@ -83,6 +83,7 @@ class ComArg(object):
         self.proArguments = [argument for argument in self.arguments if argument.stance == 'Pro']
         self.conArguments = [argument for argument in self.arguments if argument.stance == 'Con']
 
+
     def view(self):
         print('     ComArg info:::','num units:', len(self.unitList))
         print('    Arguments', len(self.arguments),'|| pro',len(self.proArguments), '|| con:',len(self.conArguments) )

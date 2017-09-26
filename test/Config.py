@@ -11,8 +11,10 @@ class Config:
         print(' created a DataFolder',file=sys.stdout)
 
     def getCorpusPath(self,name):
-        if(name == 'comArg'):
+        if(name == 'GM'):
             return '/comarg/GM.xml'
+        if(name == 'UGIP'):
+            return '/comarg/UGIP.xml'
         elif(name == 'other'):
             return '/path/file.xml'
 
