@@ -6,8 +6,13 @@ import random
 import pickle
 import os.path
 
+data = {'GM' : 'ComArg', 'UGIP':'ComArg'}
+
 def saveToFile(obj,name):
-    filehandler = open("data/ComArg/"+name+".obj", "wb")
+    if(name=='GM'):
+        filehandler = open("data/ComArg/GM.obj", "wb")
+    elif(name=='UGIP'):
+        filehandler = open("data/ComArg/UGIP.obj", "wb")
     pickle.dump(obj, filehandler)
     filehandler.close()
 
@@ -29,16 +34,16 @@ if(not os.path.exists("data/ComArg/GM.obj")):
     #gm_corpus.view()
 
     print('3:parsing info')
-    GM = ComArg.ComArg(gm_corpus.xml)
-    GM.getAllItems()
-    all = GM.getAllItems()
-    GM.aggregateItems(all)
+    gm = ComArg.ComArg(gm_corpus.xml)
+    gm.getAllItems()
+    all = gm.getAllItems()
+    gm.aggregateItems(all)
     #GM.view()
     print('4:saving to file')
-    saveToFile(GM,'GM')
+    saveToFile(gm, 'GM')
 else:
-    print('2:load GM from file')
-    GM=loadFromFile('GM')
+    print('load GM from file')
+    gm=loadFromFile('GM')
 
 
 if(not os.path.exists("data/ComArg/UGIP.obj")):
@@ -60,7 +65,7 @@ else:
     UGIP=loadFromFile('UGIP')
 
 print('4:building stance classifier')
-comments = GM.comments
+comments = gm.comments
 
 labeled_comments = [(com.id,com.stance) for com in comments]
 random.shuffle(labeled_comments)
@@ -70,9 +75,9 @@ devtest_comments = labeled_comments[685:985]
 test_comments = labeled_comments[:300]
 
 
-train_set = [(GM.getCommentById(id).test_features(), stance) for (id, stance) in train_comments]
-devtest_set = [(GM.getCommentById(id).test_features(), stance) for (id, stance) in devtest_comments]
-test_set = [(GM.getCommentById(id).test_features(), stance) for (id, stance) in test_comments]
+train_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in train_comments]
+devtest_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in devtest_comments]
+test_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in test_comments]
 
 print('     len train_set::', len(train_set), '|| len test_set::',len(test_set),'|| len devtest_set::',len(devtest_set),)
 classifier = nltk.NaiveBayesClassifier.train(train_set)
@@ -82,7 +87,7 @@ print('     accuracy::',nltk.classify.accuracy(classifier, devtest_set))
 
 errors = []
 for(id,stance) in devtest_comments:
-    guess = classifier.classify(GM.getCommentById(id).test_features())
+    guess = classifier.classify(gm.getCommentById(id).test_features())
     if (guess != stance):
         errors.append((stance,guess,id) )
 

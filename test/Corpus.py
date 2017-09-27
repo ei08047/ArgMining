@@ -7,9 +7,6 @@ class Corpus:
         self.corpusPath=corpusPath
         self.xmlCorpusReader = XMLCorpusReader(self.dataPath, self.corpusPath)
 
-    def downloadNltk(self):
-        print('download nltk corpus')
-        nltk.download()
 
     def readCorpus(self):
         self.xml = self.xmlCorpusReader.xml( self.dataPath + self.corpusPath)
