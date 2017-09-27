@@ -1,12 +1,21 @@
 from nltk.tokenize import sent_tokenize
 import nltk
 
+class hashabledict(dict):
+    def __hash__(self):
+        return hash(tuple(sorted(self.items())))
+
+
 class Item(object):
     def __init__(self,id,type,stance,text):
         self.id = id
+        temp = self.id.split('arg')
+        self.comment_id = temp[0]
+        self.argument_id= temp[1]
         self.type = type ## comment/argument
         self.stance = stance ## Pro / Con
         self.text = text
+        self.tokens = nltk.word_tokenize(self.text)
         self.tokenize_list = sent_tokenize(self.text)
         self.pos_tag = nltk.pos_tag(self.text)
 
@@ -26,6 +35,14 @@ class Item(object):
         #part-pf-speech tagger
         self.tagged_sent = [nltk.pos_tag(sent) for sent in self.tokenized_words]
 
+    def calcUnigrams(self):
+        unigrams = {}
+        for token in self.tokens:
+            if token not in unigrams:
+                unigrams[token] = 1
+            else:
+                unigrams[token] += 1
+        return hashabledict(unigrams)
 
     def view(self):
         print(self.id, self.type,self.stance,len(self.tokenize_list))
@@ -38,7 +55,10 @@ class Item(object):
     def test_features(self):
         features = {}
         features['text_len'] = len(self.text)
-        #features['bigrams'] = self.bigrams
+        features['unigrams'] =  self.calcUnigrams()
+        features['bigrams'] = nltk.bigrams(self.tokens)
+        features['trigrams'] = nltk.trigrams(self.tokens)
+        features['pos_tags'] = hashabledict(self.pos_tag)
         return features
 
 
@@ -71,6 +91,9 @@ class ComArg(object):
                 textNode = item.find('text')
                 stanceNode = item.find('stance')
                 TempItem = Item(tempUnit.getId(), item.tag, stanceNode.text, textNode.text)
+                ##pre process
+                TempItem.preprocess()
+
                 tempUnit.addItem(TempItem)
             self.unitList.append(tempUnit)
 
@@ -87,12 +110,27 @@ class ComArg(object):
                 return com
 
     def aggregateItems(self,allItems):
-        self.comments = [item for item in allItems if item.type == 'comment']
-        self.arguments = [item for item in allItems if item.type == 'argument']
-        self.proComments = [comment for comment in self.comments if comment.stance == 'Pro']
-        self.conComments = [comment for comment in self.comments if comment.stance == 'Con']
-        self.proArguments = [argument for argument in self.arguments if argument.stance == 'Pro']
-        self.conArguments = [argument for argument in self.arguments if argument.stance == 'Con']
+        #self.comments = [item for item in allItems if item.type == 'comment']
+
+        used_ids= []
+        temp_comments = []
+        for item in allItems:
+            if(item.type == 'comment'):
+                if(item.comment_id in used_ids):
+                    pass
+                else:
+                    used_ids.append(item.comment_id)
+                    temp_comments.append(item)
+
+        print('len comments:' , len(temp_comments), ' || expected 198 ')
+        self.comments = temp_comments
+
+
+        #self.arguments = [item for item in allItems if item.type == 'argument']
+        #self.proComments = [comment for comment in self.comments if comment.stance == 'Pro']
+        #self.conComments = [comment for comment in self.comments if comment.stance == 'Con']
+        #self.proArguments = [argument for argument in self.arguments if argument.stance == 'Pro']
+        #self.conArguments = [argument for argument in self.arguments if argument.stance == 'Con']
 
 
     def view(self):

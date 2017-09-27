@@ -5,6 +5,9 @@ import nltk
 import random
 import pickle
 import os.path
+import nltk.metrics
+
+
 
 data = {'GM' : 'ComArg', 'UGIP':'ComArg'}
 
@@ -45,24 +48,26 @@ else:
     print('load GM from file')
     gm=loadFromFile('GM')
 
+if(False):
+    if(not os.path.exists("data/ComArg/UGIP.obj")):
+        print('2:reading corpus')
+        ugip_corpus = Corpus.Corpus(config.data_path, config.getCorpusPath(config.corpusList[1]))
+        ugip_corpus.readCorpus()
+        #ugip_corpus.view()
 
-if(not os.path.exists("data/ComArg/UGIP.obj")):
-    print('2:reading corpus')
-    ugip_corpus = Corpus.Corpus(config.data_path, config.getCorpusPath(config.corpusList[1]))
-    ugip_corpus.readCorpus()
-    #ugip_corpus.view()
+        print('3:parsing info')
+        UGIP = ComArg.ComArg(ugip_corpus.xml)
+        UGIP.getAllItems()
+        all = UGIP.getAllItems()
+        UGIP.aggregateItems(all)
+        #UGIP.view()
+        print('4:saving to file')
+        saveToFile(UGIP,'UGIP')
+    else:
+        print('load UGIP from file')
+        UGIP=loadFromFile('UGIP')
 
-    print('3:parsing info')
-    UGIP = ComArg.ComArg(ugip_corpus.xml)
-    UGIP.getAllItems()
-    all = UGIP.getAllItems()
-    UGIP.aggregateItems(all)
-    #UGIP.view()
-    print('4:saving to file')
-    saveToFile(UGIP,'UGIP')
-else:
-    print('load UGIP from file')
-    UGIP=loadFromFile('UGIP')
+
 
 print('4:building stance classifier')
 comments = gm.comments
@@ -70,9 +75,10 @@ comments = gm.comments
 labeled_comments = [(com.id,com.stance) for com in comments]
 random.shuffle(labeled_comments)
 
-train_comments = labeled_comments[600:]
-devtest_comments = labeled_comments[685:985]
-test_comments = labeled_comments[:300]
+## gm: 198 comments
+train_comments = labeled_comments[100:]
+devtest_comments = labeled_comments[50:100]
+test_comments = labeled_comments[:50]
 
 
 train_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in train_comments]
@@ -82,7 +88,16 @@ test_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in 
 print('     len train_set::', len(train_set), '|| len test_set::',len(test_set),'|| len devtest_set::',len(devtest_set),)
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 
+
+
 print('     accuracy::',nltk.classify.accuracy(classifier, devtest_set))
+
+
+
+
+classifier.show_most_informative_features(5)
+
+
 
 
 errors = []
