@@ -1,10 +1,24 @@
 from nltk.tokenize import sent_tokenize
+from nltk.sentiment import vader
+
 import nltk
 
 class hashabledict(dict):
     def __hash__(self):
         return hash(tuple(sorted(self.items())))
 
+
+def extract_entity_names(t):
+    entity_names = []
+
+    if hasattr(t, 'node') and t.node:
+        if t.node == 'NE':
+            entity_names.append(' '.join([child[0] for child in t]))
+        else:
+            for child in t:
+                entity_names.extend(extract_entity_names(child))
+
+    return entity_names
 
 class Item(object):
     def __init__(self,id,type,stance,text):
@@ -59,6 +73,13 @@ class Item(object):
         features['bigrams'] = nltk.bigrams(self.tokens)
         features['trigrams'] = nltk.trigrams(self.tokens)
         features['pos_tags'] = hashabledict(self.pos_tag)
+        features['negated'] = vader.negated(self.text,True)
+        features['all_caps'] = vader.allcap_differential(self.text)
+
+        sentiment_intensity_analyzer = vader.SentimentIntensityAnalyzer()
+        polarity_scores = sentiment_intensity_analyzer.polarity_scores(self.text)
+
+        features['polarity_scores'] =  polarity_scores['compound']
         return features
 
 

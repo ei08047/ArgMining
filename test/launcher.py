@@ -95,7 +95,8 @@ print('     accuracy::',nltk.classify.accuracy(classifier, devtest_set))
 
 
 
-classifier.show_most_informative_features(5)
+#classifier.show_most_informative_features(5)
+print(classifier.most_informative_features(5))
 
 
 
