@@ -1,6 +1,7 @@
 from nltk.tokenize import sent_tokenize
 from nltk.sentiment import vader
 
+
 import nltk
 
 class hashabledict(dict):
@@ -76,6 +77,10 @@ class Item(object):
         features['negated'] = vader.negated(self.text,True)
         features['all_caps'] = vader.allcap_differential(self.text)
 
+
+
+
+
         sentiment_intensity_analyzer = vader.SentimentIntensityAnalyzer()
         polarity_scores = sentiment_intensity_analyzer.polarity_scores(self.text)
 
@@ -145,6 +150,9 @@ class ComArg(object):
 
         print('len comments:' , len(temp_comments), ' || expected 198 ')
         self.comments = temp_comments
+        self.pro_coments = [com for com in self.comments if com.stance=='Pro']
+        print('len pro comments:', len(self.pro_coments), ' || expected 100? ')
+
 
 
         #self.arguments = [item for item in allItems if item.type == 'argument']
@@ -153,11 +161,17 @@ class ComArg(object):
         #self.proArguments = [argument for argument in self.arguments if argument.stance == 'Pro']
         #self.conArguments = [argument for argument in self.arguments if argument.stance == 'Con']
 
+    def create_sents(self):
+        self.sents = [sent_tokenize(com.text) for com in self.comments]
+
+
+    def sents(self):
+        return self.sents
 
     def view(self):
         print('     ComArg info:::','num units:', len(self.unitList))
-        print('    Arguments', len(self.arguments),'|| pro',len(self.proArguments), '|| con:',len(self.conArguments) )
-        print('    Comments', len(self.comments), '|| pro', len(self.proComments), '|| con:', len(self.conComments))
+        #print('    Arguments', len(self.arguments),'|| pro',len(self.proArguments), '|| con:',len(self.conArguments) )
+        #print('    Comments', len(self.comments), '|| pro', len(self.proComments), '|| con:', len(self.conComments))
 
 
 
