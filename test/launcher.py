@@ -1,5 +1,6 @@
 import Config
 import Corpus
+from Claim import Claim_data
 import ComArg
 import nltk
 import random
@@ -9,12 +10,9 @@ import nltk.metrics
 
 
 import logging
-from gensim import  corpora,models,similarities
-from gensim.models import Word2Vec
 
 logging.basicConfig(format='%(asctime)s', level=logging.INFO)
-
-data = {'GM' : 'ComArg', 'UGIP':'ComArg'}
+data = {'GM' : 'ComArg', 'UGIP':'ComArg', 'claim-annotations':'livejournal' ,'claim-annotations':'wikipedia'}
 
 def saveToFile(obj,name):
     if(name=='GM'):
@@ -32,8 +30,58 @@ def loadFromFile(name):
 
 
 print('1:config step..')
-config = Config.Config(['GM','UGIP'])
+config = Config.Config(['GM','UGIP','livejournal','wikipedia'])
 config.run()
+
+print('reading live_journal corpus')
+live_journal_corpus = Corpus.Corpus_csv(config.data_path,config.getCorpusPath(config.corpusList[2]),config.corpusList[2])
+
+t = live_journal_corpus.read_text()
+c = live_journal_corpus.read_claim()
+a = live_journal_corpus.read_annotation()
+
+print(len(t), len(c), len(a))
+live_journal = Claim_data(t,c,a)
+
+
+print('building claim detection classifier')
+
+comments = live_journal.sent_list
+labeled_comments = [(com.id, com.claim) for com in comments]
+random.shuffle(labeled_comments)
+
+train_comments = labeled_comments[500:]
+devtest_comments = labeled_comments[:250]
+test_comments = labeled_comments[250:500]
+
+train_set = [(live_journal.getCommentById(id).claim_features(), claim) for (id, claim) in train_comments]
+devtest_set = [(live_journal.getCommentById(id).claim_features(), claim) for (id, claim) in devtest_comments]
+test_set = [(live_journal.getCommentById(id).claim_features(), claim) for (id, claim) in test_comments]
+
+print('     len train_set::', len(train_set), '|| len test_set::', len(test_set), '|| len devtest_set::', len(devtest_set) )
+
+classifier = nltk.NaiveBayesClassifier.train(train_set)
+print('     accuracy::', nltk.classify.accuracy(classifier, devtest_set))
+
+
+
+
+###############################################################################
+
+print('reading wikipedia corpus')
+wikipedia_corpus = Corpus.Corpus_csv(config.data_path,config.getCorpusPath(config.corpusList[3]), config.corpusList[3])
+
+t = wikipedia_corpus.read_text()
+c = wikipedia_corpus.read_claim()
+a = wikipedia_corpus.read_annotation()
+
+print(len(t), len(c), len(a))
+wikipedia = Claim_data(t,c,a)
+
+
+
+
+
 
 if(not os.path.exists("data/ComArg/GM.obj")):
     print('2:reading corpus')
@@ -57,7 +105,6 @@ else:
     print('load GM from file')
     gm=loadFromFile('GM')
     print(len(gm.sents))
-    #b = Word2Vec(gm.sents())
 
 if(False):
     if(not os.path.exists("data/ComArg/UGIP.obj")):
@@ -77,7 +124,6 @@ if(False):
     else:
         print('load UGIP from file')
         UGIP=loadFromFile('UGIP')
-
 ##res
 gm.view()
 

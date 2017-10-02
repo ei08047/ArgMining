@@ -15,6 +15,8 @@ class Config:
             return '/comarg/GM.xml'
         if(name == 'UGIP'):
             return '/comarg/UGIP.xml'
+        if(name == 'livejournal' or name == 'wikipedia'):
+            return '/sara/claim-annotations/train'
         elif(name == 'other'):
             return '/path/file.xml'
 

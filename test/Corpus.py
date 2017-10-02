@@ -1,12 +1,67 @@
 import nltk
+import csv
 from nltk.corpus.reader import XMLCorpusReader,XMLCorpusView
+from nltk.corpus.reader import PlaintextCorpusReader
 import os
 from nltk.tokenize import sent_tokenize,word_tokenize,wordpunct_tokenize
 from nltk.corpus import brown
 from nltk.corpus.reader.util import ConcatenatedCorpusView
-from gensim.models import Word2Vec
+
 
 import xml.etree.ElementTree
+
+class Corpus_csv:
+    def __init__(self,dataPath,corpusPath,name):
+        self.dataPath = dataPath
+        self.corpusPath=corpusPath
+        self.path_text = str(self.dataPath + '/' + self.corpusPath + '/'+ name+ '_text.csv')
+        self.path_claim = str(self.dataPath + '/' + self.corpusPath + '/'+ name + '_claim.csv')
+        self.path_annotation = str(self.dataPath + '/' + self.corpusPath + '/'+ name + '_annotation.csv')
+
+    def read_text(self):
+        text_list = []
+        print('entered test')
+        text_file = open(self.path_text, "r", encoding='utf8')
+        with text_file as infile:
+            rows = csv.reader(infile, delimiter='\n')
+            for row in rows:
+                row = row[:len(row)-1]
+                text_list.append(row)
+        return text_list
+
+    def read_claim(self):
+        claim =0
+        claim_list = []
+        claim_file = open(self.path_claim, "r", encoding='utf8')
+        with claim_file as infile:
+            rows = csv.reader(infile, delimiter='\n')
+            for row in rows :
+                if(row[0] == 'N'):
+                    claim = 0
+                else:
+                    claim = 1
+                claim_list.append(claim)
+        return claim_list
+
+    def read_annotation(self):
+        annotation_list = []
+        annotation_file = open(self.path_annotation,"r", encoding='utf8')
+        with annotation_file as f:
+            data = f.read()
+        new_data = data.replace('"', '')
+        for row in csv.reader(new_data.splitlines(), delimiter='|'):
+            row = row[:len(row)-1]
+            annotation_list.append(row)
+        return annotation_list
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,7 +78,7 @@ class Corpus:
         self.xmlCorpusView = XMLCorpusView(path ,'.*/text')
 
         self.ccv = ConcatenatedCorpusView(self.xmlCorpusView)
-        b = Word2Vec(self.ccv)
+        ##b = Word2Vec(self.ccv)
 
         #b.most_similar('god')
 
