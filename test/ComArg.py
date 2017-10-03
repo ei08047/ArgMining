@@ -1,25 +1,10 @@
 from nltk.tokenize import sent_tokenize
 from nltk.sentiment import vader
-
-
 import nltk
 
 class hashabledict(dict):
     def __hash__(self):
         return hash(tuple(sorted(self.items())))
-
-
-def extract_entity_names(t):
-    entity_names = []
-
-    if hasattr(t, 'node') and t.node:
-        if t.node == 'NE':
-            entity_names.append(' '.join([child[0] for child in t]))
-        else:
-            for child in t:
-                entity_names.extend(extract_entity_names(child))
-
-    return entity_names
 
 class Item(object):
     def __init__(self,id,type,stance,text):
@@ -77,31 +62,23 @@ class Item(object):
         features['negated'] = vader.negated(self.text,True)
         features['all_caps'] = vader.allcap_differential(self.text)
 
-
-
-
-
         sentiment_intensity_analyzer = vader.SentimentIntensityAnalyzer()
         polarity_scores = sentiment_intensity_analyzer.polarity_scores(self.text)
 
         features['polarity_scores'] =  polarity_scores['compound']
         return features
 
-
 class Unit(object):
+
     def __init__(self,id):
         self.id = id
         self.itemList = []
-
     def getId(self):
         return self.id
-
     def addItem(self,item):
         self.itemList.append(item)
-
     def view(self):
         print('Unit:', self.getId())
-
 
 class ComArg(object):
 
@@ -122,22 +99,17 @@ class ComArg(object):
 
                 tempUnit.addItem(TempItem)
             self.unitList.append(tempUnit)
-
     def getAllItems(self):
         allItems = []
         for unit in self.unitList:
             for item in unit.itemList:
                 allItems.append(item)
         return allItems
-
     def getCommentById(self,id):
         for com in self.comments:
             if(com.id == id):
                 return com
-
     def aggregateItems(self,allItems):
-        #self.comments = [item for item in allItems if item.type == 'comment']
-
         used_ids= []
         temp_comments = []
         for item in allItems:
@@ -147,27 +119,18 @@ class ComArg(object):
                 else:
                     used_ids.append(item.comment_id)
                     temp_comments.append(item)
-
-        print('len comments:' , len(temp_comments), ' || expected 198 ')
         self.comments = temp_comments
         self.pro_coments = [com for com in self.comments if com.stance=='Pro']
-        print('len pro comments:', len(self.pro_coments), ' || expected 100? ')
-
-
 
         #self.arguments = [item for item in allItems if item.type == 'argument']
         #self.proComments = [comment for comment in self.comments if comment.stance == 'Pro']
         #self.conComments = [comment for comment in self.comments if comment.stance == 'Con']
         #self.proArguments = [argument for argument in self.arguments if argument.stance == 'Pro']
         #self.conArguments = [argument for argument in self.arguments if argument.stance == 'Con']
-
     def create_sents(self):
         self.sents = [sent_tokenize(com.text) for com in self.comments]
-
-
     def sents(self):
         return self.sents
-
     def view(self):
         print('     ComArg info:::','num units:', len(self.unitList))
         #print('    Arguments', len(self.arguments),'|| pro',len(self.proArguments), '|| con:',len(self.conArguments) )

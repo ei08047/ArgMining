@@ -1,15 +1,8 @@
-import nltk
 import csv
 from nltk.corpus.reader import XMLCorpusReader,XMLCorpusView
-from nltk.corpus.reader import PlaintextCorpusReader
-import os
-from nltk.tokenize import sent_tokenize,word_tokenize,wordpunct_tokenize
-from nltk.corpus import brown
 from nltk.corpus.reader.util import ConcatenatedCorpusView
 
-
-import xml.etree.ElementTree
-
+##used to parse the claim-annotation Corpus
 class Corpus_csv:
     def __init__(self,dataPath,corpusPath,name):
         self.dataPath = dataPath
@@ -20,12 +13,12 @@ class Corpus_csv:
 
     def read_text(self):
         text_list = []
-        print('entered test')
         text_file = open(self.path_text, "r", encoding='utf8')
         with text_file as infile:
             rows = csv.reader(infile, delimiter='\n')
             for row in rows:
-                row = row[:len(row)-1]
+                if('' in row):
+                    row.remove('')
                 text_list.append(row)
         return text_list
 
@@ -54,52 +47,24 @@ class Corpus_csv:
             annotation_list.append(row)
         return annotation_list
 
-
-
-
-
-
-
-
-
-
-
-
-
+##used to parse the comArg corpus
 class Corpus:
     def __init__(self,dataPath,corpusPath):
         self.dataPath = dataPath
         self.corpusPath=corpusPath
         path = str(self.dataPath + '/' + self.corpusPath)
-        print('exists ', os.path.exists(path))
-
         self.xmlCorpusReader = XMLCorpusReader(path, self.corpusPath)
-
         self.xmlCorpusView = XMLCorpusView(path ,'.*/text')
-
         self.ccv = ConcatenatedCorpusView(self.xmlCorpusView)
-        ##b = Word2Vec(self.ccv)
-
-        #b.most_similar('god')
-
-
-        print(type(self.xmlCorpusView), type(brown.sents()), type(self.ccv))
-
-
-
-
-
     def readCorpus(self):
         self.xml = self.xmlCorpusReader.xml( self.dataPath + self.corpusPath)
         self.raw = self.xmlCorpusReader.raw(self.dataPath + self.corpusPath)
         self.num_chars = len(self.raw)
         self.words = self.xmlCorpusReader.words(self.dataPath + self.corpusPath)
         self.num_words = len(self.words)
-
     def view(self):
         print('raw',type(self.raw), 'xml', type(self.xml), 'xml corpus reader:',type(self.xmlCorpusReader))
         print('num_chars', self.num_chars , 'num_words', self.num_words,'lexical_diversity', self.lexical_diversity(self.words) )
-
     def lexical_diversity(self,text):
         print('     set', len(set(text)), 'all', len(text))
         return len(set(text)) / len(text)

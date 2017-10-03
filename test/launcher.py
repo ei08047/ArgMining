@@ -1,8 +1,6 @@
 import Config
 import Corpus
-from Claim import Claim_data
 import ComArg
-import nltk
 import random
 import pickle
 import os.path
@@ -12,7 +10,7 @@ import nltk.metrics
 import logging
 
 logging.basicConfig(format='%(asctime)s', level=logging.INFO)
-data = {'GM' : 'ComArg', 'UGIP':'ComArg', 'claim-annotations':'livejournal' ,'claim-annotations':'wikipedia'}
+data = {'GM' : 'ComArg', 'UGIP':'ComArg'}
 
 def saveToFile(obj,name):
     if(name=='GM'):
@@ -30,57 +28,8 @@ def loadFromFile(name):
 
 
 print('1:config step..')
-config = Config.Config(['GM','UGIP','livejournal','wikipedia'])
+config = Config.Config(['GM','UGIP'])
 config.run()
-
-print('reading live_journal corpus')
-live_journal_corpus = Corpus.Corpus_csv(config.data_path,config.getCorpusPath(config.corpusList[2]),config.corpusList[2])
-
-t = live_journal_corpus.read_text()
-c = live_journal_corpus.read_claim()
-a = live_journal_corpus.read_annotation()
-
-print(len(t), len(c), len(a))
-live_journal = Claim_data(t,c,a)
-
-
-print('building claim detection classifier')
-
-comments = live_journal.sent_list
-labeled_comments = [(com.id, com.claim) for com in comments]
-random.shuffle(labeled_comments)
-
-train_comments = labeled_comments[500:]
-devtest_comments = labeled_comments[:250]
-test_comments = labeled_comments[250:500]
-
-train_set = [(live_journal.getCommentById(id).claim_features(), claim) for (id, claim) in train_comments]
-devtest_set = [(live_journal.getCommentById(id).claim_features(), claim) for (id, claim) in devtest_comments]
-test_set = [(live_journal.getCommentById(id).claim_features(), claim) for (id, claim) in test_comments]
-
-print('     len train_set::', len(train_set), '|| len test_set::', len(test_set), '|| len devtest_set::', len(devtest_set) )
-
-classifier = nltk.NaiveBayesClassifier.train(train_set)
-print('     accuracy::', nltk.classify.accuracy(classifier, devtest_set))
-
-
-
-
-###############################################################################
-
-print('reading wikipedia corpus')
-wikipedia_corpus = Corpus.Corpus_csv(config.data_path,config.getCorpusPath(config.corpusList[3]), config.corpusList[3])
-
-t = wikipedia_corpus.read_text()
-c = wikipedia_corpus.read_claim()
-a = wikipedia_corpus.read_annotation()
-
-print(len(t), len(c), len(a))
-wikipedia = Claim_data(t,c,a)
-
-
-
-
 
 
 if(not os.path.exists("data/ComArg/GM.obj")):
@@ -106,60 +55,52 @@ else:
     gm=loadFromFile('GM')
     print(len(gm.sents))
 
-if(False):
-    if(not os.path.exists("data/ComArg/UGIP.obj")):
-        print('2:reading corpus')
-        ugip_corpus = Corpus.Corpus(config.data_path, config.getCorpusPath(config.corpusList[1]))
-        ugip_corpus.readCorpus()
-        #ugip_corpus.view()
 
-        print('3:parsing info')
-        UGIP = ComArg.ComArg(ugip_corpus.xml)
-        UGIP.getAllItems()
-        all = UGIP.getAllItems()
-        UGIP.aggregateItems(all)
-        #UGIP.view()
-        print('4:saving to file')
-        saveToFile(UGIP,'UGIP')
-    else:
-        print('load UGIP from file')
-        UGIP=loadFromFile('UGIP')
-##res
+if(not os.path.exists("data/ComArg/UGIP.obj")):
+    print('2:reading corpus')
+    ugip_corpus = Corpus.Corpus(config.data_path, config.getCorpusPath(config.corpusList[1]))
+    ugip_corpus.readCorpus()
+
+    print('3:parsing info')
+    UGIP = ComArg.ComArg(ugip_corpus.xml)
+    UGIP.getAllItems()
+    all = UGIP.getAllItems()
+    UGIP.aggregateItems(all)
+    #UGIP.view()
+    print('4:saving to file')
+    saveToFile(UGIP,'UGIP')
+else:
+    print('load UGIP from file')
+    UGIP=loadFromFile('UGIP')
+
 gm.view()
+print('4:building stance classifier')
+comments = gm.comments
+labeled_comments = [(com.id,com.stance) for com in comments]
+random.shuffle(labeled_comments)
+
+## gm: 198 comments
+train_comments = labeled_comments[50:]
+devtest_comments = labeled_comments[25:50]
+test_comments = labeled_comments[:25]
 
 
-if(False):
-    print('4:building stance classifier')
-    comments = gm.comments
+train_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in train_comments]
+devtest_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in devtest_comments]
+test_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in test_comments]
+classifier = nltk.NaiveBayesClassifier.train(train_set)
+print('     accuracy::',nltk.classify.accuracy(classifier, devtest_set))
 
-    labeled_comments = [(com.id,com.stance) for com in comments]
-    random.shuffle(labeled_comments)
+print(classifier.most_informative_features(5))
 
-    ## gm: 198 comments
-    train_comments = labeled_comments[50:]
-    devtest_comments = labeled_comments[25:50]
-    test_comments = labeled_comments[:25]
+errors = []
+for(id,stance) in devtest_comments:
+    guess = classifier.classify(gm.getCommentById(id).test_features())
+    if (guess != stance):
+        errors.append((stance,guess,id) )
 
-
-    train_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in train_comments]
-    devtest_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in devtest_comments]
-    test_set = [(gm.getCommentById(id).test_features(), stance) for (id, stance) in test_comments]
-
-    print('     len train_set::', len(train_set), '|| len test_set::',len(test_set),'|| len devtest_set::',len(devtest_set),)
-    classifier = nltk.NaiveBayesClassifier.train(train_set)
-    print('     accuracy::',nltk.classify.accuracy(classifier, devtest_set))
-
-    #classifier.show_most_informative_features(5)
-    print(classifier.most_informative_features(5))
-
-    errors = []
-    for(id,stance) in devtest_comments:
-        guess = classifier.classify(gm.getCommentById(id).test_features())
-        if (guess != stance):
-            errors.append((stance,guess,id) )
-
-    for (stance, guess, id) in sorted(errors):
-        print('correct={:<8} guess={:<8s} id={:<30}'.format(stance, guess, id))
+for(stance, guess, id) in sorted(errors):
+    print('correct={:<8} guess={:<8s} id={:<30}'.format(stance, guess, id))
 
 
 
