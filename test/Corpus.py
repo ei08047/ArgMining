@@ -1,10 +1,33 @@
+import os
 import csv
-from nltk.corpus.reader import XMLCorpusReader,XMLCorpusView
-from nltk.corpus.reader.util import ConcatenatedCorpusView
+from nltk.corpus.reader import XMLCorpusReader,PlaintextCorpusReader,XMLCorpusView,ConcatenatedCorpusView
+
+
+
+class Corpus:
+    #name can be
+    def __init__(self,dataPath,corpusPath,name):
+        self.dataPath = dataPath
+        self.corpusPath=corpusPath
+        self.path = str(self.dataPath + self.corpusPath)
+        self.name = name
+        self.path_read_me = str(self.dataPath + '/' + self.corpusPath + 'readme.txt')
+        self.path_to_training = str(self.dataPath + '/' + self.corpusPath  + name)
+
+
+
+    def read(self):
+        print('enter read_me')
+        corpus = PlaintextCorpusReader(self.path , ".*" )
+        files = corpus.fileids()
+        print( corpus.raw('readme.txt'))
+
+
 
 ##used to parse the claim-annotation Corpus
 class Corpus_csv:
     def __init__(self,dataPath,corpusPath,name):
+        ##name == livejournal or wikipedia
         self.dataPath = dataPath
         self.corpusPath=corpusPath
         self.path_text = str(self.dataPath + '/' + self.corpusPath + '/'+ name+ '_text.csv')
@@ -48,14 +71,16 @@ class Corpus_csv:
         return annotation_list
 
 ##used to parse the comArg corpus
-class Corpus:
+class Corpus_xml:
     def __init__(self,dataPath,corpusPath):
         self.dataPath = dataPath
         self.corpusPath=corpusPath
-        path = str(self.dataPath + '/' + self.corpusPath)
+        path = str(self.dataPath  + self.corpusPath)
         self.xmlCorpusReader = XMLCorpusReader(path, self.corpusPath)
         self.xmlCorpusView = XMLCorpusView(path ,'.*/text')
         self.ccv = ConcatenatedCorpusView(self.xmlCorpusView)
+
+
     def readCorpus(self):
         self.xml = self.xmlCorpusReader.xml( self.dataPath + self.corpusPath)
         self.raw = self.xmlCorpusReader.raw(self.dataPath + self.corpusPath)
@@ -82,3 +107,7 @@ class Corpus:
 ##chunked_sents(): list of (Tree w/ (str,str) leaves)
 ##parsed_sents(): list of (Tree with str leaves)
 ##parsed_paras(): list of (list of (Tree with str leaves))
+
+
+
+

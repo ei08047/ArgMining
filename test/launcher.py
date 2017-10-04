@@ -34,7 +34,7 @@ config.run()
 
 if(not os.path.exists("data/ComArg/GM.obj")):
     print('2:reading corpus')
-    gm_corpus = Corpus.Corpus(config.data_path, config.getCorpusPath(config.corpusList[0]))
+    gm_corpus = Corpus.Corpus_xml(config.data_path, config.getCorpusPath(config.corpusList[0]))
     gm_corpus.readCorpus()
     #gm_corpus.view()
     gm_corpus.view()
@@ -58,7 +58,7 @@ else:
 
 if(not os.path.exists("data/ComArg/UGIP.obj")):
     print('2:reading corpus')
-    ugip_corpus = Corpus.Corpus(config.data_path, config.getCorpusPath(config.corpusList[1]))
+    ugip_corpus = Corpus.Corpus_xml(config.data_path, config.getCorpusPath(config.corpusList[1]))
     ugip_corpus.readCorpus()
 
     print('3:parsing info')

@@ -31,7 +31,7 @@ config.run()
 ###############################################################################
 
 print('reading wikipedia corpus')
-wikipedia_corpus = Corpus.Corpus_csv(config.data_path,config.getCorpusPath(config.corpusList[1]), config.corpusList[1])
+wikipedia_corpus = Corpus.Corpus_csv(config.data_path, config.getCorpusPath(config.corpusList[1]), config.corpusList[1])
 
 t = wikipedia_corpus.read_text()
 c = wikipedia_corpus.read_claim()
@@ -40,7 +40,7 @@ a = wikipedia_corpus.read_annotation()
 wikipedia = Claim_data(t,c,a)
 
 print('reading live_journal corpus')
-live_journal_corpus = Corpus.Corpus_csv(config.data_path,config.getCorpusPath(config.corpusList[0]),config.corpusList[0])
+live_journal_corpus = Corpus.Corpus_csv(config.data_path, config.getCorpusPath(config.corpusList[0]), config.corpusList[0])
 t = live_journal_corpus.read_text()
 c = live_journal_corpus.read_claim()
 a = live_journal_corpus.read_annotation()
