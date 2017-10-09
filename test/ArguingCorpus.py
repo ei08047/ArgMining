@@ -1,10 +1,11 @@
-from nltk.corpus.reader import PlaintextCorpusReader
-from nltk.corpus import reader
-import os
 import Config
 from Corpus import Corpus
 
 
+doclist_healthcare_train_anti='doclist_healthcare_train_anti.txt'
+doclist_healthcare_train_pro='doclist_healthcare_train_pro.txt'
+anti_list = []
+pro_list = []
 class Text(object):
     def __init__(self, name, raw ):
         self.name=name
@@ -22,7 +23,15 @@ config.run()
 
 print('reading arguing_corpus corpus')
 arguing_corpus = Corpus(config.data_path, config.getCorpusPath(config.corpusList[0]), '/training')
-arguing_corpus.read()
+arguing_corpus.read_me()
+
+anti_list = arguing_corpus.parse_doc_list('anti')
+pro_list = arguing_corpus.parse_doc_list('pro')
+
+print('num pro:',len(pro_list), 'num anti:', len(pro_list))
+
+
+
 
 
 

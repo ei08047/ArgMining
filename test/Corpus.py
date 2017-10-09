@@ -1,8 +1,6 @@
-import os
 import csv
-from nltk.corpus.reader import XMLCorpusReader,PlaintextCorpusReader,XMLCorpusView,ConcatenatedCorpusView
-
-
+from nltk.corpus.reader import CategorizedPlaintextCorpusReader,XMLCorpusReader,PlaintextCorpusReader,XMLCorpusView,ConcatenatedCorpusView
+import os
 
 class Corpus:
     #name can be
@@ -12,16 +10,42 @@ class Corpus:
         self.path = str(self.dataPath + self.corpusPath)
         self.name = name
         self.path_read_me = str(self.dataPath + '/' + self.corpusPath + 'readme.txt')
+        self.path_anti_doc_list = str(self.dataPath + '/' + self.corpusPath + '/doclist_healthcare_train_anti.txt')
+        self.path_pro_doc_list = str(self.dataPath + '/' + self.corpusPath + '/doclist_healthcare_train_pro.txt')
         self.path_to_training = str(self.dataPath + '/' + self.corpusPath  + name)
+        ##self.corpus = CategorizedPlaintextCorpusReader(self.path, ".*")
 
+    def list_files(self,corpus):
 
-
-    def read(self):
-        print('enter read_me')
-        corpus = PlaintextCorpusReader(self.path , ".*" )
         files = corpus.fileids()
-        print( corpus.raw('readme.txt'))
+        print('listing files: ')
+        for f in files:
+            print(f)
 
+
+    def parse_doc_list(self,sel):
+        print('parsing ', sel , 'doclist')
+        temp =[]
+        if(sel== 'anti'):
+            print('path_anti_doc_list::',self.path_anti_doc_list)
+            print('anti exists:' ,os.path.exists(self.path_anti_doc_list))
+            with open(self.path_anti_doc_list,'r') as open_anti:
+                for anti in open_anti.readlines():
+                    if(not anti.__contains__('#')):
+                        temp.append(anti)
+        else:
+            print('path_pro_doc_list::',self.path_pro_doc_list)
+            print('pro exists:' ,os.path.exists(self.path_pro_doc_list))
+            with open(self.path_pro_doc_list,'r') as open_pro:
+                for pro in open_pro.readlines():
+                    if(not pro.__contains__('#')):
+                        temp.append(pro)
+            return temp
+
+    def read_me(self):
+        corpus = PlaintextCorpusReader(self.path, ".*")
+        print('enter read_me')
+        print( corpus.raw('readme.txt'))
 
 
 ##used to parse the claim-annotation Corpus
