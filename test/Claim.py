@@ -8,7 +8,6 @@ class Word(object):
         self.sentenceId = sentenceId
         self.subjective = subjective
 
-
 class Annotation(object):
     def __init__(self,annotation):
         stripped_annotation = annotation.split(',')
@@ -52,3 +51,7 @@ class Claim_data(object):
         for s in self.sent_list:
             if(s.id == id):
                 return s
+
+    def view(self):
+        print('sent_list:', len(self.sent_list))
+

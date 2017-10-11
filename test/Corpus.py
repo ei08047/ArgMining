@@ -13,15 +13,19 @@ class Corpus:
         self.path_anti_doc_list = str(self.dataPath + '/' + self.corpusPath + '/doclist_healthcare_train_anti.txt')
         self.path_pro_doc_list = str(self.dataPath + '/' + self.corpusPath + '/doclist_healthcare_train_pro.txt')
         self.path_to_training = str(self.dataPath + '/' + self.corpusPath  + name)
-        ##self.corpus = CategorizedPlaintextCorpusReader(self.path, ".*")
+        self.corpus = PlaintextCorpusReader(self.path, ".*.txt$")
+
+        self.pro_list = self.parse_doc_list('pro')
+        self.anti_list = self.parse_doc_list('anti')
+
+        self.all_list = self.anti_list + self.pro_list
+
 
     def list_files(self,corpus):
-
         files = corpus.fileids()
         print('listing files: ')
         for f in files:
             print(f)
-
 
     def parse_doc_list(self,sel):
         print('parsing ', sel , 'doclist')
@@ -32,31 +36,48 @@ class Corpus:
             with open(self.path_anti_doc_list,'r') as open_anti:
                 for anti in open_anti.readlines():
                     if(not anti.__contains__('#')):
-                        temp.append(anti)
+                        anti=anti.replace('.xml','.txt')
+                        temp.append(anti.rstrip())
+            print('temp anti len', len(temp))
         else:
             print('path_pro_doc_list::',self.path_pro_doc_list)
             print('pro exists:' ,os.path.exists(self.path_pro_doc_list))
             with open(self.path_pro_doc_list,'r') as open_pro:
                 for pro in open_pro.readlines():
                     if(not pro.__contains__('#')):
-                        temp.append(pro)
-            return temp
+                        pro=pro.replace('.xml','.txt')
+                        temp.append(pro.rstrip())
+            print('temp pro len', len(temp))
+        return temp
 
     def read_me(self):
         corpus = PlaintextCorpusReader(self.path, ".*")
         print('enter read_me')
         print( corpus.raw('readme.txt'))
 
+    def view(self):
+        print('info on:', self.name)
+        print('num pro:', len(self.pro_list))
+        print( 'num anti:', len(self.anti_list))
+        print('all::', len(self.all_list))
+
+        words = self.corpus.words(self.all_list)
+        unique = set(words)
+        lexical_diversity = len(unique)/len(words)
+        print('words:', len(words), ' || set:', len(unique), ' || lexical diversity::',lexical_diversity)
+
 
 ##used to parse the claim-annotation Corpus
 class Corpus_csv:
     def __init__(self,dataPath,corpusPath,name):
-        ##name == livejournal or wikipedia
+        self.name = name
         self.dataPath = dataPath
         self.corpusPath=corpusPath
+        self.path = str(self.dataPath + self.corpusPath)
         self.path_text = str(self.dataPath + '/' + self.corpusPath + '/'+ name+ '_text.csv')
         self.path_claim = str(self.dataPath + '/' + self.corpusPath + '/'+ name + '_claim.csv')
         self.path_annotation = str(self.dataPath + '/' + self.corpusPath + '/'+ name + '_annotation.csv')
+        self.corpus = PlaintextCorpusReader(self.path, '.*'+name+'_text.csv$')
 
     def read_text(self):
         text_list = []
@@ -93,6 +114,21 @@ class Corpus_csv:
             row = row[:len(row)-1]
             annotation_list.append(row)
         return annotation_list
+
+    def list_files(self,corpus):
+        files = corpus.fileids()
+        print('listing files: ')
+        for f in files:
+            print(f)
+
+    def view(self):
+        print('view:', self.name)
+        words = self.corpus.words(self.name+'_text.csv')
+        unique = set(words)
+        print( 'len words:: ',len(words), '|| unique::' , len(unique),' || lexical_diversity :' , len(unique)/len(words))
+        sentences = self.corpus.sents(self.name+'_text.csv')
+        print('||sentences:' , len(sentences))
+
 
 ##used to parse the comArg corpus
 class Corpus_xml:
