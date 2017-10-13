@@ -18,6 +18,8 @@ class Config:
             return '/sara/claim-annotations/train'
         if(name == 'arguing_corpus'):
             return '/arguing_corpus'
+        if(name == 'mpqa'):
+            return '/database.mpqa.3.0'
         elif(name):
             return '/path/file.xml'
 

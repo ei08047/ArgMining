@@ -42,16 +42,22 @@ class Sentence(object):
         print(self.text , '##' , self.claim, '##', self.annotations)
 
 class Claim_data(object):
-    def __init__(self,texts,claims,annotations):
+    def __init__(self,name,texts,claims,annotations):
+        self.name = name
         self.sent_list = []
         for t,c,a in zip(texts,claims,annotations):
             s = Sentence(t,c,a)
             self.sent_list.append(s)
+        self.num_claims = len([sent for sent in self.sent_list if sent.claim == 1 ])
+        self.num_non_claims = len([sent for sent in self.sent_list if sent.claim == 0])
+
     def getCommentById(self,id):
         for s in self.sent_list:
             if(s.id == id):
                 return s
 
     def view(self):
+        print('Info on:', self.name)
         print('sent_list:', len(self.sent_list))
+        print('claims:', self.num_claims, '|| non-claims:', self.num_non_claims)
 

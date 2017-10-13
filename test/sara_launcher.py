@@ -37,7 +37,7 @@ t = wikipedia_corpus.read_text()
 c = wikipedia_corpus.read_claim()
 a = wikipedia_corpus.read_annotation()
 
-wikipedia = Claim_data(t,c,a)
+wikipedia = Claim_data('wikipedia',t,c,a)
 wikipedia.view()
 
 print('reading live_journal corpus')
@@ -47,7 +47,7 @@ t = live_journal_corpus.read_text()
 c = live_journal_corpus.read_claim()
 a = live_journal_corpus.read_annotation()
 
-live_journal = Claim_data(t,c,a)
+live_journal = Claim_data('livejournal',t,c,a)
 live_journal.view()
 
 

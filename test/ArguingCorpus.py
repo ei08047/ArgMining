@@ -25,8 +25,6 @@ print('reading arguing_corpus corpus')
 arguing_corpus = Corpus(config.data_path, config.getCorpusPath(config.corpusList[0]), '/training')
 
 
-#arguing_corpus.read_me()
-
 
 arguing_corpus.view()
 

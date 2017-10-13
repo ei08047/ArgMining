@@ -10,6 +10,7 @@ import nltk.metrics
 import logging
 
 logging.basicConfig(format='%(asctime)s', level=logging.INFO)
+
 data = {'GM' : 'ComArg', 'UGIP':'ComArg'}
 
 def saveToFile(obj,name):
@@ -34,6 +35,8 @@ config.run()
 
 
 if(not os.path.exists("data/ComArg/GM.obj")):
+
+
     print('2:reading corpus')
     gm_corpus = Corpus.Corpus_xml(config.data_path, config.getCorpusPath(config.corpusList[0]))
     gm_corpus.readCorpus()
@@ -63,7 +66,7 @@ if(not os.path.exists("data/ComArg/UGIP.obj")):
     ugip.getAllItems()
     all = ugip.getAllItems()
     ugip.aggregateItems(all)
-    #UGIP.view()
+
     print('4:saving to file')
     saveToFile(ugip, 'UGIP')
 else:
@@ -79,7 +82,6 @@ if(False):
     labeled_comments = [(com.id,com.stance) for com in comments]
     random.shuffle(labeled_comments)
 
-    ## gm: 198 comments
     train_comments = labeled_comments[50:]
     devtest_comments = labeled_comments[25:50]
     test_comments = labeled_comments[:25]

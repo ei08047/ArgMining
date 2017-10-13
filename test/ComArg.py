@@ -96,7 +96,6 @@ class ComArg(object):
                 TempItem = Item(tempUnit.getId(), item.tag, stanceNode.text, textNode.text)
                 ##pre process
                 TempItem.preprocess()
-
                 tempUnit.addItem(TempItem)
             self.unitList.append(tempUnit)
     def getAllItems(self):
@@ -121,7 +120,7 @@ class ComArg(object):
                     temp_comments.append(item)
         self.comments = temp_comments
         self.pro_coments = [com for com in self.comments if com.stance=='Pro']
-
+        self.con_coments = [com for com in self.comments if com.stance == 'Con']
         #self.arguments = [item for item in allItems if item.type == 'argument']
         #self.proComments = [comment for comment in self.comments if comment.stance == 'Pro']
         #self.conComments = [comment for comment in self.comments if comment.stance == 'Con']
@@ -133,8 +132,7 @@ class ComArg(object):
         return self.sents
     def view(self):
         print('     ComArg info:::','num units:', len(self.unitList))
-        #print('    Arguments', len(self.arguments),'|| pro',len(self.proArguments), '|| con:',len(self.conArguments) )
-        #print('    Comments', len(self.comments), '|| pro', len(self.proComments), '|| con:', len(self.conComments))
+        print('    Comments: ', len(self.comments),'|| pro: ',len(self.pro_coments), '|| con: ',len(self.con_coments) )
 
 
 
