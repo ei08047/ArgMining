@@ -1,0 +1,14 @@
+hc028_hc028.txt_5226_5231	neutral
+hc028_hc028.txt_5281_5287	neutral
+hc028_hc028.txt_5291_5295	neutral
+hc028_hc028.txt_5296_5300	negative
+hc028_hc028.txt_5307_5311	neutral
+hc028_hc028.txt_5312_5323	negative
+hc028_hc028.txt_5327_5329	neutral
+hc028_hc028.txt_5383_5391	neutral
+hc028_hc028.txt_5393_5398	neutral
+hc028_hc028.txt_5424_5430	neutral
+hc028_hc028.txt_5442_5446	neutral
+hc028_hc028.txt_5504_5511	neutral
+hc028_hc028.txt_5608_5619	neutral
+hc028_hc028.txt_5623_5627	neutral

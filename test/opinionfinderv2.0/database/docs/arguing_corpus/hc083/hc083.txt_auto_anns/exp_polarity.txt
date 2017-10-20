@@ -1,0 +1,5 @@
+hc083_hc083.txt_7123_7132	neutral
+hc083_hc083.txt_7140_7150	neutral
+hc083_hc083.txt_7158_7163	neutral
+hc083_hc083.txt_7164_7169	positive
+hc083_hc083.txt_7239_7244	negative

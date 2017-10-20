@@ -1,0 +1,9 @@
+hc067_hc067.txt_3801_3808	positive
+hc067_hc067.txt_3826_3833	neutral
+hc067_hc067.txt_3878_3882	negative
+hc067_hc067.txt_3887_3891	neutral
+hc067_hc067.txt_3892_3900	neutral
+hc067_hc067.txt_3910_3919	neutral
+hc067_hc067.txt_3923_3929	neutral
+hc067_hc067.txt_3934_3940	negative
+hc067_hc067.txt_3941_3948	negative

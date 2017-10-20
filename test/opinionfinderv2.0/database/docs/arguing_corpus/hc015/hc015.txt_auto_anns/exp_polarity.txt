@@ -1,0 +1,15 @@
+hc015_hc015.txt_2820_2826	neutral
+hc015_hc015.txt_3093_3097	neutral
+hc015_hc015.txt_3115_3121	neutral
+hc015_hc015.txt_3179_3186	neutral
+hc015_hc015.txt_3192_3199	neutral
+hc015_hc015.txt_3326_3331	neutral
+hc015_hc015.txt_3333_3342	neutral
+hc015_hc015.txt_3358_3364	neutral
+hc015_hc015.txt_3365_3370	neutral
+hc015_hc015.txt_3371_3375	positive
+hc015_hc015.txt_3414_3423	neutral
+hc015_hc015.txt_3433_3444	neutral
+hc015_hc015.txt_3453_3458	positive
+hc015_hc015.txt_3470_3477	neutral
+hc015_hc015.txt_3505_3515	neutral

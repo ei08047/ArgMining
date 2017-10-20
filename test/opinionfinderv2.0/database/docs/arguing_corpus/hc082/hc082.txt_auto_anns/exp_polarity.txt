@@ -1,0 +1,7 @@
+hc082_hc082.txt_3041_3045	neutral
+hc082_hc082.txt_3046_3054	negative
+hc082_hc082.txt_3055_3062	negative
+hc082_hc082.txt_3109_3115	neutral
+hc082_hc082.txt_3140_3146	neutral
+hc082_hc082.txt_3155_3160	neutral
+hc082_hc082.txt_3168_3176	neutral

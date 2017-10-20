@@ -1,0 +1,17 @@
+hc075_hc075.txt_8501_8505	neutral
+hc075_hc075.txt_8506_8510	neutral
+hc075_hc075.txt_8537_8539	neutral
+hc075_hc075.txt_8540_8548	neutral
+hc075_hc075.txt_8575_8581	negative
+hc075_hc075.txt_8582_8591	negative
+hc075_hc075.txt_8618_8623	neutral
+hc075_hc075.txt_8628_8637	negative
+hc075_hc075.txt_8658_8665	neutral
+hc075_hc075.txt_8753_8758	neutral
+hc075_hc075.txt_8780_8787	neutral
+hc075_hc075.txt_8810_8815	positive
+hc075_hc075.txt_8816_8823	positive
+hc075_hc075.txt_8824_8830	neutral
+hc075_hc075.txt_8831_8837	positive
+hc075_hc075.txt_8868_8875	positive
+hc075_hc075.txt_8876_8880	neutral

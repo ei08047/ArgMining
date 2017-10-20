@@ -1,0 +1,7 @@
+hc045_hc045.txt_3530_3535	neutral
+hc045_hc045.txt_3541_3549	positive
+hc045_hc045.txt_3662_3673	negative
+hc045_hc045.txt_3710_3714	neutral
+hc045_hc045.txt_3732_3738	neutral
+hc045_hc045.txt_3742_3746	neutral
+hc045_hc045.txt_3771_3777	neutral

@@ -1,0 +1,5 @@
+hc066_hc066.txt_6210_6217	neutral
+hc066_hc066.txt_6230_6241	neutral
+hc066_hc066.txt_6273_6282	neutral
+hc066_hc066.txt_6312_6316	neutral
+hc066_hc066.txt_6328_6337	neutral

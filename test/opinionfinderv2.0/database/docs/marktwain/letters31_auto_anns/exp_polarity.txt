@@ -1,0 +1,6 @@
+marktwain_letters31_43074_43081	negative
+marktwain_letters31_43082_43091	positive
+marktwain_letters31_43097_43101	positive
+marktwain_letters31_43107_43116	neutral
+marktwain_letters31_43131_43139	neutral
+marktwain_letters31_43205_43209	negative

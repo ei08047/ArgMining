@@ -1,0 +1,49 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">On health care reform, listen to Joe Baker
+By Doug Bates, The Oregonian 
+ If health reform legislation pending in the U.S. House of Representatives becomes law, people with Medicare stand to benefit from improved coverage of prescription drugs and preventive services.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Says who?</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">None other than Joe Baker, president of the Medicare Rights Center, the nation's preeminent advocacy group for people on Medicare.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Baker, testifying Tuesday before a hearing of the New York State Senate Committee on Aging, also debunked rumors and falsehoods that have been used to frighten older adults into opposing health reform legislation.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Here are a few excerpts from what he told the panel about House Resolution 3200, "America's Affordable Health Choices Act" and its impact on senior citizens:
+ "There has been a considerable effort to misinform and scare senior citizens into opposing health care reform, and your efforts to provide accurate information and informed debate are to be commended.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">HR 3200, which is the product of three committees in the House of Representatives ... provides a number of improvements to Medicare coverage for older adults and people with disabilities.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">While there is a lot of talk about so-called "cuts" to Medicare, the untold story of reform is the approximately $320 million that HR 3200 invests in Medicare.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">There are three major ways in which this legislation will benefit people with Medicare.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The legislation works to make prescription drugs more affordable, improves access to primary and preventive care and broadens access to benefits for people with Medicare who have low incomes."</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Baker is right.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The bill includes a gradual shrinking and eventual elimination of the dreaded "doughnut hole" -- the coverage gap in Medicare Part D prescription drug coverage.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">This gap will begin to narrow in 2011, and people who are in the doughnut hole will benefit from a new mandatory 50 percent discount on brand-name drugs required by the bill.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">More from Baker:
+ "This provision will remove one of the concerns we hear most frequently through our work with people with Medicare -- the high cost of prescription drugs during the Part D doughnut hole.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Currently, over 3.4 million people with Medicare hit this Part D coverage gap each year and must pay the full price for their medicines.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="subj">We frequently receive calls on our consumer hotlines from individuals who must skip doses, split their pills, or forgo medications altogether because of the high out-of-pocket costs of prescription drugs when they are in the doughnut hole."</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Baker is also correct in asserting that the bill would make a sizable investment in primary and preventive care, which is precisely the kind of care that seniors and people with disabilities with Medicare need to be active members of their communities.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Said Baker:
+ "People with Medicare will benefit from provisions that will remove obstacles, such as high out-of-pocket payments, that prevent them from accessing wellness and prevention services covered by Medicare.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The bill waives deductibles and cost-sharing for preventive benefits.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">For instance, Medicare currently covers 80 percent of the cost of a hepatitis B vaccine after the deductible is met, and the patient is responsible for the remaining 20 percent.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">HR 3200 would have Medicare cover the full cost, with no deductible.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">In fact, this bill helps to ensure that people with Medicare are able to get all necessary and federally recommended vaccines, including the relatively new shingles vaccine, by having Medicare Part B pay for them in full.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Other preventive care, such as glaucoma screening and diabetes self-management training, would also be covered in full.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">HR 3200 will also increase reimbursements to doctors who provide primary care, thereby offering them incentives to enter this practice area.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The bill also provides incentives to those doctors or groups of doctors who provide a "medical home" to patients wherein they coordinate the care that those patients receive from a variety of providers."</MPQASENT>
+ <MPQASENT autoclass1="subj" autoclass2="subj">Yeah, you say, but what about the matter of those so-called "cuts" that many opponents of the bill mention in trying to drum up opposition to it?</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">Listen to Baker:
+ "These 'cuts' are actually savings that providers like hospitals have already agreed can be made in order to trim Medicare's budget and contribute to health care reform without affecting access to care for people with Medicare.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">To the extent that some providers disagree about the level of these savings, that is a legitimate debate that we can have, but all agree that they can contribute something.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Secondly, and perhaps most importantly, there are no cuts to the actual benefits that seniors and people with disabilities with Medicare will actually receive, nor are there increased costs imposed upon them by this bill."</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Baker had more, <MPQAPOL autoclass="neutral">much</MPQAPOL> more, to say on the subject, and anyone on Medicare or nearing Medicare eligibility <MPQAPOL autoclass="neutral">ought</MPQAPOL> to read the <MPQAPOL autoclass="neutral">full</MPQAPOL> text of his <MPQAPOL autoclass="neutral">comments</MPQAPOL>, available here.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The Medicare Rights Center, by the way, is a national, <MPQAPOL autoclass="neutral">independent</MPQAPOL>, nonprofit consumer service organization that works to <MPQAPOL autoclass="neutral">ensure</MPQAPOL> access to <MPQAPOL autoclass="neutral">affordable</MPQAPOL> health care for older adults and people with disabilities through individual counseling and <MPQAPOL autoclass="neutral">advocacy</MPQAPOL>, <MPQAPOL autoclass="neutral">educational</MPQAPOL> programs and public policy initiatives.</MPQASENT> 
+<MPQASENT autoclass1="obj" autoclass2="obj">- Doug Bates, associate editor; dougbates@news.oregonian.com</MPQASENT>

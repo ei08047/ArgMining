@@ -1,0 +1,73 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Workers to House Republicans: "Health Care Reform Works"
+
+ In Florida, Gloria's daughter like so many young people today, returned home from college, "with a BA degree and no job."</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But her daughter does have health care coverage-and Gloria has peace of mind-because the new health care reform law allows young adults to remain on their parents' health care plans until they are 26.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">"Having that alone makes life better for my family," Gloria writes.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">"This [health care reform plan] told me someone in government is working for our future and our children.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Now my daughter has time to get a job with benefits within the next two years-the health care plan is working."</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Gloria is one of the than 400 people who have responded to our AFL-CIO online survey, telling us how the Affordable Care Act-which House Republicans vow to repeal-is working for them.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">(Click here to share your story and read and comment on others.)</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">While not all of the health care reform provisions have gone into effect, several key benefits are already helping working families.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">(See what's in effect now and when other provisions will kick in here.)</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Pam in Ohio says the Affordable Care Act's rule that prohibits health insurance companies from putting a lifetime cap on benefits or dropping coverage when people become sick, means her brother can receive care and treatment for his cancer.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">My brother has a form of metastatic cancer.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">With medication he may live for years, but will likely always need treatment-unless by some miracle a cure is discovered soon!</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But, in a sense, the new healthcare law has already worked one miracle for him and many other cancer patients by doing away with annual and lifetime limits.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">This change will ensure my brother never need fear being told that his coverage has ended because he has reached their lifetime limit.</MPQASENT>
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">The health care reform law is closing the infamous Medicare prescription drug "donut hole," the gap in coverage when seniors must pay full price for their needed medications.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Last year, seniors who found themselves in the donut hole received a $250 rebate and this year, they will receive a 50 percent discount on prescription drugs.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">Tauni from Kansas says that closing the donut hole will make a big difference for her parents who "did everything the Republicans said to do.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">My father went to school and received a degree in architecture-He worked hard.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">They saved money for retirement.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">They invested the money.</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="obj">They did not spend recklessly."</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Then the stock market crashed, and they lost a good percentage of the money they worked so hard for.</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="obj">My father was diagnosed with Parkinson's approximately three years ago.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">The disease is slowly robbing him of his ability to perform tasks without medication.</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The medications he must take to function on a daily basis are so expensive, and he takes enough that he ends up in the doughnut hole.</MPQASENT>  
+ <MPQASENT autoclass1="subj" autoclass2="subj">Thanks to the new healthcare bill, affording the medication will be easier and maybe they can enjoy their retirement a little more.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">One small business owner says the new law's tax credits to help small business owners provide health insurance for their employees is working.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Also, one of his employees will be able to fight her cancer without being dropped from coverage.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">I own a small assisted living facility, and employ 16 people.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">Between 2004 and 2007, our insurance premiums for our employees have risen 42 percent.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">We really believe that we have an obligation to our employees to provide this care.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">Health care reform has given us a 35 percent tax credit on these costs.</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="subj">We really need this.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Also, our manager has had cancer, and under reform, she cannot be cut or capped for care.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">These are the real Americans.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Going to work every day, and doing the tough jobs.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">The Affordable Care Act requires insurance companies to cover preventative care such as mammograms, annual physicals and cancer screenings without deductibles or co-pays.</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="subj">As Dianna in Tennessee says, "This new rule means I am not going to be hit with deductibles or outrageous lab fees when I have my physical this year."</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">Last year my insurance refused to pay for my physical and I was hit with an $89 lab fee for my PAP smear.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The hospital charged over $700 bucks for the lab work associated with my physical.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Preventative care WORKS!</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">About time we have it.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Marva from Indiana says that while she's benefited from the no-cost preventative services and tests-"This reduces my risk for stroke, heart attack, regiments of drug therapies, and a healthier life"- health care reform means much more.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">This is a better scenario for me and the American people.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">We pay lots of money for health care into insurance companies and they should be about the business of serving their clients, not playing games with our hard earned dollars to pay their high premiums.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It is criminal for them to be using our money on lobbying and electing candidates to go against the American people.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It is time for a ground swell from the grassroots American people.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">We have made too many rich people giving them free money and getting very little in return.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Health care must abound in this country for everyone!</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">By 2020, the Affordable Care Act will bring health care coverage to nearly 30 million Americans.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Dr. Brad Cotton, from Circleville, Ohio, sees first hand what lack of health coverage means today and what health care reform will mean in the future.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">As an emergency physician I am face to face with the unspeakable suffering of the uninsured and under-insured everyday.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">While the [Affordable Care Act]  is not <MPQAPOL autoclass="neutral">far-reaching</MPQAPOL> <MPQAPOL autoclass="neutral">enough</MPQAPOL>, it will bring the <MPQAPOL autoclass="neutral">security</MPQAPOL> and safety of insurance to millions of working folks.</MPQASENT>
+

@@ -1,0 +1,8 @@
+marktwain_letters46_40970_40975	positive
+marktwain_letters46_40976_40984	positive
+marktwain_letters46_41034_41040	positive
+marktwain_letters46_41089_41093	negative
+marktwain_letters46_41124_41127	negative
+marktwain_letters46_41131_41136	positive
+marktwain_letters46_41174_41182	positive
+marktwain_letters46_41205_41214	neutral

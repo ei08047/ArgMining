@@ -1,0 +1,13 @@
+hc079_hc079.txt_0_261	unknown
+hc079_hc079.txt_265_501	unknown
+hc079_hc079.txt_505_581	obj
+hc079_hc079.txt_585_669	obj
+hc079_hc079.txt_670_842	obj
+hc079_hc079.txt_846_1048	obj
+hc079_hc079.txt_1052_1143	unknown
+hc079_hc079.txt_1144_1361	unknown
+hc079_hc079.txt_1362_1417	unknown
+hc079_hc079.txt_1421_1510	unknown
+hc079_hc079.txt_1511_1708	unknown
+hc079_hc079.txt_1712_1827	unknown
+hc079_hc079.txt_1828_2006	obj

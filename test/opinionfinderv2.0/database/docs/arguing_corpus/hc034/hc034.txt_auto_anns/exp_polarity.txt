@@ -1,0 +1,10 @@
+hc034_hc034.txt_1055_1063	neutral
+hc034_hc034.txt_1089_1099	neutral
+hc034_hc034.txt_1103_1109	neutral
+hc034_hc034.txt_1113_1120	neutral
+hc034_hc034.txt_1135_1141	neutral
+hc034_hc034.txt_1149_1154	neutral
+hc034_hc034.txt_1229_1239	neutral
+hc034_hc034.txt_1279_1289	negative
+hc034_hc034.txt_1290_1298	negative
+hc034_hc034.txt_1348_1354	neutral

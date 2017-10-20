@@ -1,0 +1,7 @@
+hc032_hc032.txt_0_224	subj
+hc032_hc032.txt_226_399	subj
+hc032_hc032.txt_402_551	obj
+hc032_hc032.txt_554_777	obj
+hc032_hc032.txt_779_981	obj
+hc032_hc032.txt_984_1104	subj
+hc032_hc032.txt_1107_1302	subj

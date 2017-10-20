@@ -1,0 +1,6 @@
+hc049_hc049.txt_7446_7451	neutral
+hc049_hc049.txt_7504_7509	neutral
+hc049_hc049.txt_7575_7582	negative
+hc049_hc049.txt_7711_7724	negative
+hc049_hc049.txt_7732_7737	neutral
+hc049_hc049.txt_7741_7750	neutral

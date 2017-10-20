@@ -1,0 +1,16 @@
+hc032_hc032.txt_319_322	neutral
+hc032_hc032.txt_323_330	positive
+hc032_hc032.txt_345_349	neutral
+hc032_hc032.txt_385_391	neutral
+hc032_hc032.txt_641_647	neutral
+hc032_hc032.txt_779_784	neutral
+hc032_hc032.txt_810_816	positive
+hc032_hc032.txt_820_825	neutral
+hc032_hc032.txt_924_930	neutral
+hc032_hc032.txt_989_997	negative
+hc032_hc032.txt_1016_1026	positive
+hc032_hc032.txt_1035_1040	neutral
+hc032_hc032.txt_1059_1068	neutral
+hc032_hc032.txt_1122_1126	negative
+hc032_hc032.txt_1239_1246	positive
+hc032_hc032.txt_1295_1301	negative

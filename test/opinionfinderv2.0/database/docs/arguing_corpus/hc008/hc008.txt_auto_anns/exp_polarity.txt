@@ -1,0 +1,6 @@
+hc008_hc008.txt_3716_3720	positive
+hc008_hc008.txt_3721_3725	neutral
+hc008_hc008.txt_3738_3745	neutral
+hc008_hc008.txt_3746_3751	neutral
+hc008_hc008.txt_3759_3767	neutral
+hc008_hc008.txt_3791_3799	positive

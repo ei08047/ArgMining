@@ -1,0 +1,6 @@
+hc003_hc003.txt_7233_7237	neutral
+hc003_hc003.txt_7241_7245	neutral
+hc003_hc003.txt_7327_7333	neutral
+hc003_hc003.txt_7359_7365	positive
+hc003_hc003.txt_7375_7382	neutral
+hc003_hc003.txt_7397_7404	neutral

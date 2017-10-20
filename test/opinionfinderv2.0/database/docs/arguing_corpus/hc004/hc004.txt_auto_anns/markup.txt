@@ -1,0 +1,66 @@
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">Health Care Reform, at Last
+ Published: March 21, 2010  
+ The process was wrenching, and tainted to the 11th hour by narrow political obstructionism, 
+but the year-long struggle over health care reform came to an end on Sunday night with a triumph for countless Americans who have been victimized or neglected by their dysfunctional health care system.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Barack Obama put his presidency on the line for an accomplishment of historic proportions.</MPQASENT>   
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The bill, which was approved by the Senate in December and by the House on Sunday, represents a national commitment to reform the worst elements of the current system.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It will provide coverage to tens of millions of uninsured Americans, prevent the worst insurance company abuses, and begin to wrestle with relentlessly rising costs
+ - while slightly reducing future deficits.</MPQASENT>   
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Amendments approved by the House and awaiting approval in the Senate would provide additional coverage 
+and make somewhat deeper reductions in the deficit.</MPQASENT>  
+ <MPQASENT autoclass1="subj" autoclass2="subj">All of this was managed despite the fact that not a single Republican in the House or Senate was willing to vote for the bill.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Efforts by the White House and Congressional Democrats to draft bipartisan legislation were met by demagoguery.</MPQASENT> 
+  <MPQASENT autoclass1="unknown" autoclass2="obj">That is not likely to end now.</MPQASENT>   
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Republican leaders, who see opportunities to gain seats in the elections, have made clear that they will continue to peddle fictions about a government takeover of the health care system and about costs too high to bear.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Mr. Obama took too long to get into the fight, but came on strong in the end and will have to keep pushing back so all Americans understand the benefits of reform.</MPQASENT>  
+  <MPQASENT autoclass1="unknown" autoclass2="obj">Most Americans - those who already have employer-based insurance - will not see much change for a while and certainly not in the seven months before the elections.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">They will get one important benefit quickly: for an additional fee, parents will be able to keep adult dependent children on their policy through age 26.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">That is good news when so many young people are struggling to find jobs during the recession.</MPQASENT>   
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The biggest difference for Americans who have employer-based insurance is the security of knowing that, starting in 2014, if they lose their job and have to buy their own policy, they cannot be denied coverage or charged high rates because of pre-existing conditions.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Before then, the chronically ill could gain temporary coverage from enhanced high-risk pools and chronically ill children are guaranteed coverage.</MPQASENT>  
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The focus of the reform is on improving the dysfunctional and hugely expensive insurance markets for individuals and small businesses, and on expanding Medicaid coverage for the poor.</MPQASENT> 
+
+  <MPQASENT autoclass1="unknown" autoclass2="obj">The big expansion of coverage will start in 2014, but some reforms start quickly, like tax credits to help small businesses provide coverage.</MPQASENT>   
+  <MPQASENT autoclass1="unknown" autoclass2="subj">Over time the reforms could bring about sweeping changes in the way medical care is delivered and paid for.</MPQASENT> 
+  <MPQASENT autoclass1="unknown" autoclass2="obj">They could ultimately rival Social Security and Medicare in historic importance.</MPQASENT>
+  <MPQASENT autoclass1="unknown" autoclass2="obj">NEAR-UNIVERSAL COVERAGE  
+ The United States is the only advanced industrial nation that does not provide or guarantee health care coverage for virtually all of its citizens.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">It is a moral obligation to end this indefensible neglect of hard-working Americans.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The bill does not quite reach full universality, but by 2019, fully 94 to 95 percent of American citizens and legal residents below Medicare age will have coverage.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The bill achieves that by requiring most Americans to obtain health insurance, providing subsidies to help the middle classes buy policies on new competitive exchanges, and expanding Medicaid coverage of the poor to include childless adults and others not currently eligible.</MPQASENT>
+  <MPQASENT autoclass1="unknown" autoclass2="obj">INSURANCE REFORMS  
+    The legislation would rein in many of the insurance industry's worst practices.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Insurers would no longer be able to reject applicants with "pre-existing conditions" or charge them exorbitant rates.</MPQASENT> 
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">They could not rescind policies on specious grounds after people become sick (that becomes effective immediately) or cap the amount they are willing to pay toward a beneficiary's illnesses in any given year or over a lifetime.</MPQASENT>   
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The most important reform - forcing insurers to accept all applicants regardless of their health status - cannot be achieved unless nearly all Americans are required to have coverage, so the costs can be spread among the healthy and the sick.</MPQASENT>
+
+  <MPQASENT autoclass1="unknown" autoclass2="subj">A START AT COST CONTROL  
+ The legislation won't quickly bend the cost curve for medical care or insurance premiums - no one has yet found a surefire way to do that - but the reform will make an important start.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Some experts believe it will lay the structural framework to mount the most serious effort ever made to control medical inflation.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">It will create competitive insurance exchanges that should help lower premiums for individuals and small businesses by offering an array of private policies and rates comparable to large group coverage.</MPQASENT>  
+
+  <MPQASENT autoclass1="subj" autoclass2="subj">The legislation will impose an excise tax in 2018 designed to drive employers and their workers away from the highest-cost insurance policies, which typically provide generous benefits at little out-of-pocket cost to the workers.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Health economists consider the excise tax a very strong cost-control measure, because if workers have to pay more of the cost themselves, they and their doctors are apt to think more carefully about whether a test or procedure is really needed.</MPQASENT> 
+
+  <MPQASENT autoclass1="unknown" autoclass2="obj">The impact of the excise tax gets increasingly strong as the years pass.</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The legislation creates an array of pilot programs within Medicare, to test other innovative cost-reduction strategies.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">They include encouraging new medical groups to better coordinate care of the chronically ill, and paying doctors and medical institutions based on the quality, not quantity, of services they deliver.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The reform measure will establish an independent board to push approaches that work into widespread use in Medicare and ultimately, by force of example, the private sector.</MPQASENT>  
+
+  <MPQASENT autoclass1="unknown" autoclass2="subj">With so many mechanisms available to hold down medical costs, it's hard to believe that they won't bear fruit, if not in the next several years then in the decade thereafter.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Just as Social Security grew from a modest start in 1935 to become a bedrock of the nation's retirement system, this is a start on health care reform, not the end.</MPQASENT> 
+  <MPQASENT autoclass1="unknown" autoclass2="subj">A lot will depend on whether future presidents and Congresses stick to the savings and deficit targets set in this legislation; on how aggressively states administer the new exchanges; on how health care professionals and institutions respond to the challenge of changing their ways; and on how the public responds to the mandate that everyone obtain insurance or pay a penalty.</MPQASENT>   
+ <MPQASENT autoclass1="subj" autoclass2="subj">Our <MPQAPOL autoclass="positive">hope</MPQAPOL> and <MPQAPOL autoclass="neutral">belief</MPQAPOL> is that this <MPQAPOL autoclass="neutral">reform</MPQAPOL> will in the end <MPQAPOL autoclass="neutral">accomplish</MPQAPOL> its <MPQAPOL autoclass="positive">great</MPQAPOL> objectives.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Right now, the <MPQAPOL autoclass="positive">good</MPQAPOL> news for all Americans is that <MPQAPOL autoclass="neutral">despite</MPQAPOL> all the politics and the obstructionism, the process has <MPQAPOL autoclass="neutral">finally</MPQAPOL> begun.</MPQASENT>    

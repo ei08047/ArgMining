@@ -1,0 +1,4 @@
+hc009_hc009.txt_3754_3759	negative
+hc009_hc009.txt_3789_3800	neutral
+hc009_hc009.txt_3853_3857	neutral
+hc009_hc009.txt_3975_3981	neutral

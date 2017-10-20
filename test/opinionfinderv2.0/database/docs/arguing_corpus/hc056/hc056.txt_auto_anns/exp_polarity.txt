@@ -1,0 +1,2 @@
+hc056_hc056.txt_8804_8808	neutral
+hc056_hc056.txt_8815_8821	positive

@@ -1,0 +1,781 @@
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">The author, J. Howard Moore, sent a copy of his book, The Universal
+     Kinship, with a letter in which he said: "Most humorists have no
+     anxiety except to glorify themselves and add substance to their
+     pocket-books by making their readers laugh.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">You have shown, on many
+     occasions, that your mission is not simply to antidote the
+     melancholy of a world, but includes a real and intelligent concern
+     for the general welfare of your fellowman."</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">The Universal Kinship was the kind of a book that Mark Twain
+     appreciated, as his acknowledgment clearly shows.</MPQASENT>
+
+
+                         <MPQASENT autoclass1="unknown" autoclass2="obj">To Mr. J. Howard Moore:
+
+                                                       Feb. 2, '07.</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">DEAR MR. MOORE, The book has furnished me several days of deep pleasure
+and satisfaction; it has compelled my gratitude at the same time, since
+it saves me the labor of stating my own long-cherished opinions and
+reflections and resentments by doing it lucidly and fervently and
+irascibly for me.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">There is one thing that always puzzles me: as inheritors of the mentality
+of our reptile ancestors we have improved the inheritance by a thousand
+grades; but in the matter of the morals which they left us we have gone
+backward as many grades.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">That evolution is strange, and to me
+unaccountable and unnatural.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">Necessarily we started equipped with their
+perfect and blemishless morals; now we are wholly destitute; we have no
+real, morals, but only artificial ones--morals created and preserved by
+the forced suppression of natural and hellish instincts.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Yet we are dull
+enough to be vain of them.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">Certainly we are a sufficiently comical
+invention, we humans.</MPQASENT>
+                         <MPQASENT autoclass1="unknown" autoclass2="obj">Sincerely Yours,
+                                   S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="subj" autoclass2="subj">Mark Twain's own books were always being excommunicated by some
+     librarian, and the matter never failed to invite the attention and
+     amusement of the press, and the indignation of many correspondents.</MPQASENT>
+     <MPQASENT autoclass1="subj" autoclass2="subj">Usually the books were Tom Sawyer and Huck Finn, the morals of which
+     were not regarded as wholly exemplary.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">But in 1907 a small library,
+     in a very small town, attained a day's national notoriety by putting
+     the ban on Eve's Diary, not so much on account of its text as for
+     the chaste and exquisite illustrations by Lester Ralph.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">When the
+     reporters came in a troop to learn about it, the author said: "I
+     believe this time the trouble is mainly with the pictures.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I did
+     not draw them.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I wish I had--they are so beautiful."</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">Just at this time, Dr. William Lyon Phelps, of Yale, was giving a
+     literary talk to the Teachers' Club, of Hartford, dwelling on the
+     superlative value of Mark Twain's writings for readers old and
+     young.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Mrs. F. G. Whitmore, an old Hartford friend, wrote Clemens
+     of the things that Phelps had said, as consolation for Eve's latest
+     banishment.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">This gave him a chance to add something to what he had
+     said to the reporters.</MPQASENT>
+
+
+                      <MPQASENT autoclass1="unknown" autoclass2="obj">To Mrs. Whitmore, in Hartford:
+
+                                                       Feb. 7, 1907.</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">DEAR MRS. WHITMORE,--But the truth is, that when a Library expels a book
+of mine and leaves an unexpurgated Bible lying around where unprotected
+youth and age can get hold of it, the deep unconscious irony of it
+delights me and doesn't anger me.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">But even if it angered me such words
+as those of Professor Phelps would take the sting all out.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Nobody
+attaches weight to the freaks of the Charlton Library, but when a man
+like Phelps speaks, the world gives attention.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Some day I hope to meet
+him and thank him for his courage for saying those things out in public.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">Custom is, to think a handsome thing in private but tame it down in the
+utterance.</MPQASENT>
+
+<MPQASENT autoclass1="subj" autoclass2="subj">I hope you are all well and happy; and thereto I add my love.</MPQASENT>
+                              <MPQASENT autoclass1="unknown" autoclass2="obj">Sincerely yours,
+                                        S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">In May, 1907, Mark Twain was invited to England to receive from
+     Oxford the degree of Literary Doctor.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It was an honor that came to
+     him as a sort of laurel crown at the end of a great career, and
+     gratified him exceedingly.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">To Moberly Bell, of the London Times,
+     he expressed his appreciation.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Bell had been over in April and
+     Clemens believed him concerned in the matter.</MPQASENT>
+
+
+                       <MPQASENT autoclass1="obj" autoclass2="obj">To Moberly Bell, in London:
+
+                                        21 FIFTH AVENUE, May 3, '07
+DEAR MR. BELL,--Your hand is in it!</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">and you have my best thanks.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">Although I wouldn't cross an ocean again for the price of the ship that
+carried me, I am glad to do it for an Oxford degree.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">I shall plan to
+sail for England a shade before the middle of June, so that I can have a
+few days in London before the 26th.</MPQASENT>
+                                   <MPQASENT autoclass1="obj" autoclass2="obj">Sincerely,
+                                        S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="unknown" autoclass2="subj">He had taken a house at Tuxedo for the summer, desiring to be near
+     New York City, and in the next letter he writes Mr. Rogers
+     concerning his London plans.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">We discover, also, in this letter that
+     he has begun work on the Redding home and the cost is to come
+     entirely out of the autobiographical chapters then running in the
+     North American Review.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">It may be of passing interest to note here
+     that he had the usual house-builder's fortune.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">He received thirty
+     thousand dollars for the chapters; the house cost him nearly double
+     that amount.</MPQASENT>
+
+
+                      <MPQASENT autoclass1="obj" autoclass2="obj">To H. H. Rogers, in New York:
+
+                                                            TUXEDO PARK,
+                                                            May 29, '07.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">DEAR ADMIRAL,--Why hang it, I am not going to see you and Mrs. Rogers at
+all in England!</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It is a great disappointment.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I leave there a month
+from now--June 29.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">No, I shall see you; for by your itinerary you are
+most likely to come to London June 21st or along there.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">So that is very
+good and satisfactory.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">I have declined all engagements but two--Whitelaw
+Reid (dinner) June 21, and the Pilgrims (lunch), June 25.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">The Oxford
+ceremony is June 26.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">I have paid my return passage in the Minne-
+something, but it is just possible that I may want to stay in England a
+week or two longer--I can't tell, yet.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">I do very much want to meet up
+with the boys for the last time.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">I have signed the contract for the building of the house on my
+Connecticut farm and specified the cost limit, and work has been begun.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="obj">The cost has to all come out of a year's instalments of Autobiography in
+the N. A. Review.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">Clara, is winning her way to success and distinction with sure and steady
+strides.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">By all accounts she is singing like a bird, and is not afraid
+on the concert stage any more.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">Tuxedo is a charming place; I think it hasn't its equal anywhere.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">Very best wishes to you both.</MPQASENT>
+                                   <MPQASENT autoclass1="obj" autoclass2="obj">S. L. C.
+
+
+     The story of Mark Twain's extraordinary reception and triumph in
+     England has been told.<MPQASENT autoclass1="obj" autoclass2="obj">--[Mark Twain; A Biography, chaps.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">cclvi-
+     cclix]--It was, in fact, the crowning glory of his career.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">Perhaps
+     one of the most satisfactory incidents of his sojourn was a dinner
+     given to him by the staff of Punch, in the historic offices at 10
+     Bouverie Street where no other foreign visitor had been thus
+     honored--a notable distinction.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">When the dinner ended, little joy
+     Agnew, daughter of the chief editor, entered and presented to the
+     chief guest the original drawing of a cartoon by Bernard Partridge,
+     which had appeared on the front page of Punch.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">In this picture the
+     presiding genius of the paper is offering to Mark Twain health, long
+     life, and happiness from "The Punch Bowl."</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="subj">A short time after his return to America he received a pretty
+     childish letter from little Miss Agnew acknowledging a photograph he
+     had sent her, and giving a list of her pets and occupations.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Such a
+     letter always delighted Mark Twain, and his pleasure in this one is
+     reflected in his reply.</MPQASENT>
+
+
+                      <MPQASENT autoclass1="unknown" autoclass2="obj">To Miss Joy Agnew, in London:
+
+                                                  TUXEDO PARK, NEW YORK.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">Unto you greetings and salutation and worship, you dear, sweet little
+rightly-named Joy!</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">I can see you now almost as vividly as I saw you that
+night when you sat flashing and beaming upon those sombre swallow-tails.</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="subj">"Fair as a star when only one
+     Is shining in the sky."</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">Oh, you were indeed the only one--there wasn't even the remotest chance
+of competition with you, dear!</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Ah, you are a decoration, you little
+witch!</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">The idea of your house going to the wanton expense of a flower garden!<MPQASENT autoclass1="obj" autoclass2="obj">--
+aren't you enough?</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">And what do you want to go and discourage the other
+flowers for?</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Is that the right spirit?</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">is it considerate?</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">is it kind?</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">How do you suppose they feel when you come around--looking the way you
+look?</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">And you so pink and sweet and dainty and lovely and supernatural?</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">Why, it makes them feel embarrassed and artificial, of course; and in my
+opinion it is just as pathetic as it can be.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Now then you want to
+reform--dear--and do right.</MPQASENT>
+
+<MPQASENT autoclass1="subj" autoclass2="subj">Well certainly you are well off, Joy:
+
+3 bantams;
+3 goldfish;
+3 doves;
+6 canaries;
+2 dogs;
+1 cat;
+
+All you need, now, to be permanently beyond the reach of want, is one
+more dog--just one more good, gentle, high principled, affectionate,
+loyal dog who wouldn't want any nobler service than the golden privilege
+of lying at your door, nights, and biting everything that came along--and
+I am that very one, and ready to come at the dropping of a hat.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">Do you think you could convey my love and thanks to your "daddy" and Owen
+Seaman and those other oppressed and down-trodden subjects of yours, you
+darling small tyrant?</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">On my knees!</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">These--with the kiss of fealty from your other subject--
+
+                                                  MARK TWAIN
+
+
+     Elinor Glyn, author of Three Weeks and other erotic tales, was in
+     America that winter and asked permission to call on Mark Twain.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">An
+     appointment was made and Clemens discussed with her, for an hour or
+     more, those crucial phases of life which have made living a complex
+     problem since the days of Eve in Eden.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Mrs. Glyn had never before
+     heard anything like Mark Twain's wonderful talk, and she was anxious
+     to print their interview.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">She wrote what she could remember of it
+     and sent it to him for approval.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">If his conversation had been
+     frank, his refusal was hardly less so.</MPQASENT>
+
+
+                    <MPQASENT autoclass1="unknown" autoclass2="obj">To Mrs. Elinor Glyn, in New York:
+
+                                                       Jan. 22, '08.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">DEAR MRS. GLYN, It reads pretty poorly--I get the sense of it, but it is
+a poor literary job; however, it would have to be that because nobody can
+be reported even approximately, except by a stenographer.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="obj">Approximations, synopsized speeches, translated poems, artificial flowers
+and chromos all have a sort of value, but it is small.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">If you had put
+upon paper what I really said it would have wrecked your type-machine.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">I said some fetid, over-vigorous things, but that was because it was a
+confidential conversation.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I said nothing for print.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">My own report of
+the same conversation reads like Satan roasting a Sunday school.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">It, and
+certain other readable chapters of my autobiography will not be published
+until all the Clemens family are dead--dead and correspondingly
+indifferent.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">They were written to entertain me, not the rest of the
+world.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">I am not here to do good--at least not to do it intentionally.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">You must pardon me for dictating this letter; I am sick a-bed and not
+feeling as well as I might.</MPQASENT>
+                              <MPQASENT autoclass1="unknown" autoclass2="obj">Sincerely Yours,
+                                             S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">Among the cultured men of England Mark Twain had no greater admirer,
+     or warmer friend, than Andrew Lang.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">They were at one on most
+     literary subjects, and especially so in their admiration of the life
+     and character of Joan of Arc.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Both had written of her, and both
+     held her to be something almost more than mortal.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">When, therefore,
+     Anatole France published his exhaustive biography of the maid of
+     Domremy, a book in which he followed, with exaggerated minuteness
+     and innumerable footnotes, every step of Joan's physical career at
+     the expense of her spiritual life, which he was inclined to cheapen,
+     Lang wrote feelingly, and with some contempt, of the performance,
+     inviting the author of the Personal Recollections to come to the
+     rescue of their heroine.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">"Compare every one of his statements with
+     the passages he cites from authorities, and make him the laughter of
+     the world" he wrote.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">"If you are lazy about comparing I can make
+     you a complete set of what the authorities say, and of what this
+     amazing novelist says that they say.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">When I tell you that he thinks
+     the Epiphany (January 6, Twelfth Night) is December 25th--Christmas
+     Day-you begin to see what an egregious ass he is.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Treat him like
+     Dowden, and oblige"--a reference to Mark Twain's defense of Harriet
+     Shelley, in which he had heaped ridicule on Dowden's Life of the
+     Poet--a masterly performance; one of the best that ever came from
+     Mark Twain's pen.</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">Lang's suggestion would seem to have been a welcome one.</MPQASENT>
+
+
+                        <MPQASENT autoclass1="unknown" autoclass2="obj">To Andrew Lang, in London:
+
+                                        NEW YORK, April 25, 1908.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">DEAR MR. LANG,--I haven't seen the book nor any review of it, but only
+not very-understandable references to it--of a sort which discomforted
+me, but of course set my interest on fire.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">I don't want to have to read
+it in French--I should lose the nice shades, and should do a lot of gross
+misinterpreting, too.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">But there'll be a translation soon, nicht wahr?</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">I will wait for it.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">I note with joy that you say: "If you are lazy about
+comparing, (which I most certainly am), I can make you a complete set of
+what the authorities say, and of what this amazing novelist says that
+they say."</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">Ah, do it for me!</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Then I will attempt the article, and (if I succeed in
+doing it to my satisfaction,) will publish it.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">It is long since I
+touched a pen (3 1/2 years), and I was intending to continue this happy
+holiday to the gallows, but--there are things that could beguile me to
+break this blessed Sabbath.</MPQASENT>
+                    <MPQASENT autoclass1="unknown" autoclass2="subj">Yours very sincerely,
+                                   S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="subj" autoclass2="subj">Certainly it is an interesting fact that an Englishman--one of the
+     race that burned Joan--should feel moved to defend her memory
+     against the top-heavy perversions of a distinguished French author.</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">But Lang seems never to have sent the notes.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">The copying would have
+     been a tremendous task, and perhaps he never found the time for it.</MPQASENT>
+     <MPQASENT autoclass1="unknown" autoclass2="subj">We may regret to-day that he did not, for Mark Twain's article on
+     the French author's Joan would have been at least unique.</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">Samuel Clemens could never accustom himself to the loss of his wife.</MPQASENT>
+     <MPQASENT autoclass1="unknown" autoclass2="subj">From the time of her death, marriage-which had brought him his
+     greatest joy in life-presented itself to him always with the thought
+     of bereavement, waiting somewhere just behind.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">The news of an
+     approaching wedding saddened him and there was nearly always a
+     somber tinge in his congratulations, of which the following to a
+     dear friend is an example:
+
+
+                   To Father Fitz-Simon, in Washington:
+
+                                                  June 5, '08.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="obj">DEAR FATHER FITZ-SIMON,--Marriage--yes, it is the supreme felicity of
+life, I concede it.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">And it is also the supreme tragedy of life.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">The
+deeper the love the surer the tragedy.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">And the more disconsolating when
+it comes.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">And so I congratulate you.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Not perfunctorily, not lukewarmly, but with a
+fervency and fire that no word in the dictionary is strong enough to
+convey.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">And in the same breath and with the same depth and sincerity,
+I grieve for you.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Not for both of you and not for the one that shall go
+first, but for the one that is fated to be left behind.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">For that one
+there is no recompense.<MPQASENT autoclass1="unknown" autoclass2="obj">--For that one no recompense is possible.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">There are times--thousands of times--when I can expose the half of my
+mind, and conceal the other half, but in the matter of the tragedy of
+marriage I feel too deeply for that, and I have to bleed it all out or
+shut it all in.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">And so you must consider what I have been through, and
+am passing through and be charitable with me.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">Make the most of the sunshine!</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="subj">and I hope it will last long--ever so
+long.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">I do not really want to be present; yet for friendship's sake and because
+I honor you so, I would be there if I could.</MPQASENT>
+                         <MPQASENT autoclass1="unknown" autoclass2="obj">Most sincerely your friend,
+                                             S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">The new home at Redding was completed in the spring of 1908, and on
+     the 18th of June, when it was entirely fitted and furnished, Mark
+     Twain entered it for the first time.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">He had never even seen the
+     place nor carefully examined plans which John Howells had made for
+     his house.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">He preferred the surprise of it, and the general
+     avoidance of detail.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">That he was satisfied with the result will be
+     seen in his letters.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">He named it at first "Innocence at Home";
+     later changing this title to "Stormfield."</MPQASENT>
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">The letter which follows is an acknowledgment of an interesting
+     souvenir from the battle-field of Tewksbury (1471), and some relics
+     of the Cavalier and Roundhead Regiments encamped at Tewksbury in
+     1643.</MPQASENT>
+
+
+                          <MPQASENT autoclass1="obj" autoclass2="obj">To an English admirer:
+
+                              INNOCENCE AT HOME, REDDING, CONNECTICUT,
+                                                  Aug. 15, '08.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">DEAR SIR,--I highly prize the pipes, and shall intimate to people that
+"Raleigh" smoked them, and doubtless he did.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">After a little practice I
+shall be able to go further and say he did; they will then be the most
+interesting features of my library's decorations.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">The Horse-shoe is
+attracting a good deal of attention, because I have intimated that the
+conqueror's horse cast it; it will attract more when I get my hand in and
+say he cast it, I thank you for the pipes and the shoe; and also for the
+official guide, which I read through at a single sitting.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">If a person
+should say that about a book of mine I should regard it as good evidence
+of the book's interest.</MPQASENT>
+                              <MPQASENT autoclass1="unknown" autoclass2="obj">Very truly yours,
+                                   S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">In his philosophy, What Is Man?<MPQASENT autoclass1="unknown" autoclass2="obj">, and now and again in his other
+     writings, we find Mark Twain giving small credit to the human mind
+     as an originator of ideas.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">The most original writer of his time, he
+     took no credit for pure invention and allowed none to others.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">The
+     mind, he declared, adapted, consciously or unconsciously; it did not
+     create.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">In a letter which follows he elucidates this doctrine.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">The
+     reference in it to the "captain" and to the kerosene, as the reader
+     may remember, have to do with Captain "Hurricane" Jones and his
+     theory of the miracles of "Isaac and of the prophets of Baal," as
+     expounded in Some Rambling Notes of an Idle Excursion.</MPQASENT>
+
+     <MPQASENT autoclass1="subj" autoclass2="subj">By a trick of memory Clemens gives The Little Duke as his suggestion
+     for The Prince and the Pauper; he should have written The Prince and
+     the Page, by the same author.</MPQASENT>
+
+
+                    <MPQASENT autoclass1="unknown" autoclass2="obj">To Rev. F. Y. Christ, in New York:
+
+                                        REDDING, CONN., Aug., '08.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">DEAR SIR,--You say "I often owe my best sermons to a suggestion received
+in reading or from other exterior sources."</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Your remark is not quite in
+accordance with the facts.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">We must change it to--"I owe all my thoughts,
+sermons and ideas to suggestions received from sources outside of myself."</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">The simplified English of this proposition is--"No man's brains ever
+originated an idea."</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It is an astonishing thing that after all these
+ages the world goes on thinking the human brain machinery can originate a
+thought.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">It can't.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">It never has done it.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">In all cases, little and big, the
+thought is born of a suggestion; and in all cases the suggestions come to
+the brain from the outside.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">The brain never acts except from exterior
+impulse.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">A man can satisfy himself of the truth of this by a single process,--let
+him examine every idea that occurs to him in an hour; a day; in a week
+--in a lifetime if he please.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">He will always find that an outside
+something suggested the thought, something which he saw with his eyes or
+heard with his ears or perceived by his touch--not necessarily to-day,
+nor yesterday, nor last year, nor twenty years ago, but sometime or
+other.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Usually the source of the suggestion is immediately traceable,
+but sometimes it isn't.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">However, if you will examine every thought that occurs to you for the
+next two days, you will find that in at least nine cases out of ten you
+can put your finger on the outside suggestion--And that ought to convince
+you that No. 10 had that source too, although you cannot at present hunt
+it down and find it.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">The idea of writing to me would have had to wait a long time if it waited
+until your brain originated it.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It was born of an outside suggestion--
+Sir Thomas and my old Captain.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">The hypnotist thinks he has invented a new thing--suggestion.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">This is
+very sad.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I don't know where my captain got his kerosene idea.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">(It was
+forty-one years ago, and he is long ago dead.)</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">But I know that it didn't
+originate in his head, but it was born from a suggestion from the
+outside.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">Yesterday a guest said, "How did you come to think of writing 'The Prince
+and the Pauper?'"</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">I didn't.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">The thought came to me from the outside--
+suggested by that pleasant and picturesque little history-book, Charlotte
+M. Yonge's "Little Duke," I doubt if Mrs. Burnett knows whence came to
+her the suggestion to write "Little Lord Fauntleroy," but I know; it came
+to her from reading "The Prince and the Pauper."</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">In all my life I have
+never originated an idea, and neither has she, nor anybody else.</MPQASENT>
+
+<MPQASENT autoclass1="subj" autoclass2="subj">Man's mind is a clever machine, and can work up materials into ingenious
+fancies and ideas, but it can't create the material; none but the gods
+can do that.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">In Sweden I saw a vast machine receive a block of wood, and
+turn it into marketable matches in two minutes.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It could do everything
+but make the wood.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">That is the kind of machine the human mind is.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Maybe
+this is not a large compliment, but it is all I can afford.....
+                         Your friend and well-wisher
+                                             S. L. CLEMENS.</MPQASENT>
+
+
+                <MPQASENT autoclass1="unknown" autoclass2="obj">To Mrs. H. H. Rogers, in Fair Hawn, Mass.:
+
+                                        REDDING, CONN, Aug. 12, 1908.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">DEAR MRS. ROGERS, I believe I am the wellest man on the planet to-day,
+and good for a trip to Fair Haven (which I discussed with the Captain of
+the New Bedford boat, who pleasantly accosted me in the Grand Central
+August 5) but the doctor came up from New York day before yesterday, and
+gave positive orders that I must not stir from here before frost.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">It is
+because I was threatened with a swoon, 10 or 12 days ago, and went to New
+York a day or two later to attend my nephew's funeral and got horribly
+exhausted by the heat and came back here and had a bilious collapse.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">In
+24 hours I was as sound as a nut again, but nobody believes it but me.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">This is a prodigiously satisfactory place, and I am so glad I don't have
+to go back to the turmoil and rush of New York.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">The house stands high
+and the horizons are wide, yet the seclusion is perfect.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">The nearest
+public road is half a mile away, so there is nobody to look in, and I
+don't have to wear clothes if I don't want to.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">I have been down stairs
+in night-gown and slippers a couple of hours, and have been photographed
+in that costume; but I will dress, now, and behave myself.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">That doctor had half an idea that there is something the matter with my
+brain.  .  .</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Doctors do know so little and they do charge so much for
+it.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">I wish Henry Rogers would come here, and I wish you would come with
+him.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">You can't rest in that crowded place, but you could rest here, for
+sure!</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">I would learn bridge, and entertain you, and rob you.</MPQASENT>
+                         <MPQASENT autoclass1="unknown" autoclass2="subj">With love to you both,
+                                        Ever yours,
+                                                  S.  L.  C.
+
+
+     In the foregoing letter we get the first intimation of Mark Twain's
+     failing health.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">The nephew who had died was Samuel E. Moffett, son
+     of Pamela Clemens.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Moffett, who was a distinguished journalist--an
+     editorial writer on Collier's Weekly, a man beloved by all who knew
+     him--had been drowned in the surf off the Jersey beach.</MPQASENT>
+
+
+                 <MPQASENT autoclass1="obj" autoclass2="obj">To W. D. Howells, Kittery Point, Maine:
+
+                                                       Aug. 12, '08.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">DEAR HOWELLS,--Won't you and Mrs. Howells and Mildred come and give us as
+many days as you can spare, and examine John's triumph?</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It is the most
+satisfactory house I am acquainted with, and the most satisfactorily
+situated.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">But it is no place to work in, because one is outside of it all the time,
+while the sun and the moon are on duty.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Outside of it in the loggia,
+where the breezes blow and the tall arches divide up the scenery and
+frame it.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">It's a ghastly long distance to come, and I wouldn't travel such a
+distance to see anything short of a memorial museum, but if you can't
+come now you can at least come later when you return to New York, for the
+journey will be only an hour and a half per express-train.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Things are
+gradually and steadily taking shape inside the house, and nature is
+taking care of the outside in her ingenious and wonderful fashion--and
+she is competent and asks no help and gets none.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">I have retired from New
+York for good, I have retired from labor for good, I have dismissed my
+stenographer and have entered upon a holiday whose other end is in the
+cemetery.</MPQASENT>
+                    <MPQASENT autoclass1="unknown" autoclass2="obj">Yours ever,
+                                   MARK.</MPQASENT>
+
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">From a gentleman in Buffalo Clemens one day received a letter
+     inclosing an incompleted list of the world's "One Hundred Greatest
+     Men," men who had exerted "the largest visible influence on the life
+     and activities of the race."</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">The writer asked that Mark Twain
+     examine the list and suggest names, adding "would you include Jesus,
+     as the founder of Christianity, in the list?"</MPQASENT>
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">To the list of statesmen Clemens added the name of Thomas Paine; to
+     the list of inventors, Edison and Alexander Graham Bell.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">The
+     question he answered in detail.</MPQASENT>
+
+
+                      <MPQASENT autoclass1="obj" autoclass2="obj">To-----------, Buffalo, N.  Y.
+
+                              Private.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">REDDING, CONN, Aug. 28, '08.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">DEAR SIR,--By "private," I mean don't print any remarks of mine.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">I like your list.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">The "largest visible influence."</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">These terms require you to add Jesus.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">And they doubly and trebly require
+you to add Satan.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">From A.D. 350 to A.D. 1850 these gentlemen exercised a
+vaster influence over a fifth part of the human race than was exercised
+over that fraction of the race by all other influences combined.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Ninety-
+nine hundredths of this influence proceeded from Satan, the remaining
+fraction of it from Jesus.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">During those 1500 years the fear of Satan and
+Hell made 99 Christians where love of God and Heaven landed one.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">During
+those 1500 years, Satan's influence was worth very nearly a hundred times
+as much to the business as was the influence of all the rest of the Holy
+Family put together.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">You have asked me a question, and I have answered it seriously and
+sincerely.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">You have put in Buddha--a god, with a following, at one time,
+greater than Jesus ever had: a god with perhaps a little better evidence
+of his godship than that which is offered for Jesus's.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">How then, in
+fairness, can you leave Jesus out?</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">And if you put him in, how can you
+logically leave Satan out?</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Thunder is good, thunder is impressive; but
+it is the lightning that does the work.</MPQASENT>
+                              <MPQASENT autoclass1="unknown" autoclass2="obj">Very truly yours,
+                                        S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">The "Children's Theatre" of the next letter was an institution of
+     the New York East Side in which Mark Twain was deeply interested.</MPQASENT>
+     <MPQASENT autoclass1="unknown" autoclass2="subj">The children were most, if not all, of Hebrew parentage, and the
+     performances they gave, under the direction of Alice M. Herts, were
+     really remarkable.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">It seemed a pity that lack of funds should have
+     brought this excellent educational venture to an untimely end.</MPQASENT>
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">The following letter was in reply to one inclosing a newspaper
+     clipping reporting a performance of The Prince and the Pauper, given
+     by Chicago school children.</MPQASENT>
+
+
+                       <MPQASENT autoclass1="unknown" autoclass2="obj">To Mrs. Hookway, in Chicago:
+                                                  Sept., 1908.</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">DEAR MRS. HOOKWAY,--Although I am full of the spirit of work this
+morning, a rarity with me lately--I must steal a moment or two for a word
+in person: for I have been reading the eloquent account in the Record-
+Herald and am pleasurably stirred, to my deepest deeps.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">The reading
+brings vividly back to me my pet and pride.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">The Children's Theatre of
+the East side, New York.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">And it supports and re-affirms what I have so
+often and strenuously said in public that a children's theatre is easily
+the most valuable adjunct that any educational institution for the young
+can have, and that no otherwise good school is complete without it.</MPQASENT>
+
+<MPQASENT autoclass1="subj" autoclass2="subj">It is much the most effective teacher of morals and promoter of good
+conduct that the ingenuity of man has yet devised, for the reason that
+its lessons are not taught wearily by book and by dreary homily, but by
+visible and enthusing action; and they go straight to the heart, which is
+the rightest of right places for them.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Book morals often get no further
+than the intellect, if they even get that far on their spectral and
+shadowy pilgrimage: but when they travel from a Children's Theatre they
+do not stop permanently at that halfway house, but go on home.</MPQASENT>
+
+<MPQASENT autoclass1="subj" autoclass2="subj">The children's theatre is the only teacher of morals and conduct and high
+ideals that never bores the pupil, but always leaves him sorry when the
+lesson is over.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">And as for history, no other teacher is for a moment
+comparable to it: no other can make the dead heroes of the world rise up
+and shake the dust of the ages from their bones and live and move and
+breathe and speak and be real to the looker and listener: no other can
+make the study of the lives and times of the illustrious dead a delight,
+a splendid interest, a passion; and no other can paint a history-lesson
+in colors that will stay, and stay, and never fade.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is my conviction that the children's theatre is one of the very, very
+great inventions of the twentieth century; and that its vast educational
+value--now but dimly perceived and but vaguely understood--will presently
+come to be recognized.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">By the article which I have been reading I find
+the same things happening in the Howland School that we have become
+familiar with in our Children's Theatre (of which I am President, and
+sufficiently vain of the distinction.)</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">These things among others;
+
+1.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">The educating history-study does not stop with the little players,
+but the whole school catches the infection and revels in it.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">2.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">And it doesn't even stop there; the children carry it home and infect
+the family with it--even the parents and grandparents; and the whole
+household fall to studying history, and bygone manners and customs and
+costumes with eager interest.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">And this interest is carried along to the
+studying of costumes in old book-plates; and beyond that to the selecting
+of fabrics and the making of clothes.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Hundreds of our children learn,
+the plays by listening without book, and by making notes; then the
+listener goes home and plays the piece--all the parts!</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">to the family.</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">And the family are glad and proud; glad to listen to the explanations and
+analyses, glad to learn, glad to be lifted to planes above their dreary
+workaday lives.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Our children's theatre is educating 7,000 children--and
+their families.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">When we put on a play of Shakespeare they fall to
+studying it diligently; so that they may be qualified to enjoy it to the
+limit when the piece is staged.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">3.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Your Howland School children do the construction-work, stage-
+decorations, etc.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">That is our way too.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Our young folks do everything
+that is needed by the theatre, with their own hands; scene-designing,
+scene-painting, gas-fitting, electric work, costume-designing--costume
+making, everything and all things indeed--and their orchestra and its
+leader are from their own ranks.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">The article which I have been reading, says--speaking of the historical
+play produced by the pupils of the Howland School--
+
+"The question naturally arises, What has this drama done for those who so
+enthusiastically took part?<MPQASENT autoclass1="subj" autoclass2="subj">--The touching story has made a year out of
+the Past live for the children as could no chronology or bald statement
+of historical events; it has cultivated the fancy and given to the
+imagination strength and purity; work in composition has ceased to be
+drudgery, for when all other themes fall flat a subject dealing with some
+aspect of the drama presented never fails to arouse interest and a rapid
+pushing of pens over paper."</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">That is entirely true.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">The interest is not confined to the drama's
+story, it spreads out all around the period of the story, and gives to
+all the outlying and unrelated happenings of that period a fascinating
+interest--an interest which does not fade out with the years, but remains
+always fresh, always inspiring, always welcome.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">History-facts dug by the
+job, with sweat and tears out of a dry and spiritless text-book--but
+never mind, all who have suffered know what that is.  .  .</MPQASENT>
+                                   <MPQASENT autoclass1="obj" autoclass2="obj">I remain, dear madam,
+                                             Sincerely yours,
+                                                       S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">Mark Twain had a special fondness for cats.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">As a boy he always
+     owned one and it generally had a seat beside him at the table.</MPQASENT>
+     <MPQASENT autoclass1="obj" autoclass2="obj">There were cats at Quarry Farm and at Hartford, and in the house at
+     Redding there was a gray mother-cat named Tammany, of which he was
+     especially fond.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Kittens capering about were his chief delight.</MPQASENT>
+     <MPQASENT autoclass1="obj" autoclass2="obj">In a letter to a Chicago woman he tells how those of Tammany
+     assisted at his favorite game.</MPQASENT>
+
+
+               <MPQASENT autoclass1="unknown" autoclass2="obj">To Mrs. Mabel Larkin Patterson, in Chicago:
+
+                                             REDDING, CONNECTICUT,
+                                                       Oct. 2, '08.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">DEAR MRS. PATTERSON,--The contents of your letter are very pleasant and
+very welcome, and I thank you for them, sincerely.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">If I can find a
+photograph of my "Tammany" and her kittens, I will enclose it in this.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">One of them likes to be crammed into a corner-pocket of the billiard
+table--which he fits as snugly as does a finger in a glove and then he
+watches the game (and obstructs it) by the hour, and spoils many a shot
+by putting out his paw and changing the direction of a passing ball.</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">Whenever a ball is in his arms, or so close to him that it cannot be
+played upon without risk of hurting him, the player is privileged to
+remove it to anyone of the 3 spots that chances to be vacant.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">Ah, no, my lecturing days are over for good and all.</MPQASENT>
+                                        <MPQASENT autoclass1="obj" autoclass2="obj">Sincerely yours,
+                                                  S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">The letter to Howells which follows was written a short time before
+     the passage of the copyright extension bill, which rendered Mark
+     Twain's new plan, here mentioned, unneeded--at least for the time.</MPQASENT>
+
+
+                      <MPQASENT autoclass1="obj" autoclass2="obj">To W. D. Howells, in New York:
+
+                                             Monday, Oct. 26, '08.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Oh, I say!</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Where are you hiding, and why are you hiding?</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">You promised
+to come here and you didn't keep your word.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">(This sounds like
+astonishment--but don't be misled by that.)</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">Come, fire up again on your fiction-mill and give us another good
+promise.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">And this time keep it--for it is your turn to be astonished.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Come and stay as long as you possibly can.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I invented a new copyright
+extension scheme last Friday, and sat up all night arranging its details.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="obj">It will interest you.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Yesterday I got it down on paper in as compact a
+form as I could.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Harvey and I have examined the scheme, and to-morrow or
+next day he will send me a couple of copyright-experts to arrange about
+getting certain statistics for me.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">Authors, publishers and the public have always been damaged by the
+copyright laws.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">The proposed amendment will advantage all three--the
+public most of all.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I think Congress will pass it and settle the vexed
+question permanently.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">I shall need your assent and the assent of about a dozen other authors.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Also the assent of all the large firms of the 300 publishers.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">These
+authors and publishers will furnish said assent I am sure.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">Not even the
+pirates will be able to furnish a serious objection, I think.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">Come along.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">This place seemed at its best when all around was summer-
+green; later it seemed at its best when all around was burning with the
+autumn splendors; and now once more it seems at its best, with the trees
+naked and the ground a painter's palette.</MPQASENT>
+                                   <MPQASENT autoclass1="unknown" autoclass2="obj">Yours ever,
+                                             MARK.</MPQASENT>
+
+
+     <MPQASENT autoclass1="obj" autoclass2="obj">Clemens was a great admirer of the sea stories of W. W. Jacobs and
+     generally kept one or more of this author's volumes in reach of his
+     bed, where most of his reading was done.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">The acknowledgment that
+     follows was sent when he had finished Salthaven.</MPQASENT>
+
+
+                       <MPQASENT autoclass1="obj" autoclass2="obj">To W. W. Jacobs, in England:
+
+                                                       REDDING, CONN,
+                                                       Oct. 28, '08.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">DEAR MR. JACOBS,--It has a delightful look.</MPQASENT>  <MPQASENT autoclass1="subj" autoclass2="subj">I will not venture to say
+how delightful, because the words would sound extravagant, and would
+thereby lose some of their strength and to that degree misrepresent me.</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">It is my conviction that Dialstone Lane holds the supremacy over all
+purely humorous books in our language, but I feel about Salthaven as the
+Cape Cod poet feels about Simon Hanks:
+
+               "The Lord knows all things, great and small,
+               With doubt he's not perplexed:
+               'Tis Him alone that knows it all
+               But Simon Hanks comes next."</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">The poet was moved by envy and malice and jealousy, but I am not: I place
+Salthaven close up next to Dialstone because I think it has a fair and
+honest right to that high position.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">I have kept the other book moving;
+I shall begin to hand this one around now.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">And many thanks to you for remembering me.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">This house is out in the solitudes of the woods and the hills, an hour
+and a half from New York, and I mean to stay in it winter and summer the
+rest of my days.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">I beg you to come and help occupy it a few days the
+next time you visit the U.S.
+                         Sincerely yours,
+                                   S. L. CLEMENS.</MPQASENT>
+
+
+     <MPQASENT autoclass1="unknown" autoclass2="obj">One of the attractions of Stormfield was a beautiful mantel in the
+     billiard room, presented by the Hawaiian Promotion Committee.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It
+     had not arrived when the rest of the house was completed, but came
+     in time to be set in place early in the morning of the owner's
+     seventy-third birthday.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">It was made of a variety of Hawaiian woods,
+     and was the work of a native carver, F. M. Otremba.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj">Clemens was
+     deeply touched by the offering from those "western isles"--the
+     memory of which was always so sweet to him.</MPQASENT>
+
+
+                         <MPQASENT autoclass1="unknown" autoclass2="obj">To Mr. Wood, in Hawaii:
+
+                                                       Nov. 30, '08.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">DEAR MR. WOOD,--The beautiful mantel was put in its place an hour ago,
+and its friendly "Aloha" was the first uttered greeting my 73rd birthday
+received.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">It is rich in color, rich in quality, and rich in decoration,
+therefore it exactly harmonizes with the taste for such things which was
+born in me and which I have seldom been able to indulge to my content.</MPQASENT>
+<MPQASENT autoclass1="subj" autoclass2="subj">It will be a <MPQAPOL autoclass="positive">great</MPQAPOL> <MPQAPOL autoclass="positive">pleasure</MPQAPOL> to me, daily renewed, to have under my eye
+this <MPQAPOL autoclass="positive">lovely</MPQAPOL> reminder of the loveliest fleet of islands that <MPQAPOL autoclass="negative">lies</MPQAPOL> anchored
+in any ocean, and I <MPQAPOL autoclass="negative">beg</MPQAPOL> to <MPQAPOL autoclass="positive">thank</MPQAPOL> the Committee for providing me that
+<MPQAPOL autoclass="positive">pleasure</MPQAPOL>.</MPQASENT>
+                    <MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">Sincerely</MPQAPOL> Yours,
+                              S. L. CLEMENS.</MPQASENT>
+

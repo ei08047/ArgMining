@@ -1,0 +1,4 @@
+hc013_hc013.txt_3810_3821	neutral
+hc013_hc013.txt_3853_3857	neutral
+hc013_hc013.txt_3864_3869	neutral
+hc013_hc013.txt_3878_3882	negative

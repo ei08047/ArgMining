@@ -1,0 +1,3 @@
+hc073_hc073.txt_5347_5353	neutral
+hc073_hc073.txt_5357_5363	negative
+hc073_hc073.txt_5415_5420	neutral

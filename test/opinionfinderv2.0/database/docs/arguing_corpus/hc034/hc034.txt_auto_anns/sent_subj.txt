@@ -1,0 +1,11 @@
+hc034_hc034.txt_0_252	obj
+hc034_hc034.txt_255_371	obj
+hc034_hc034.txt_372_555	obj
+hc034_hc034.txt_556_649	obj
+hc034_hc034.txt_651_800	obj
+hc034_hc034.txt_803_917	obj
+hc034_hc034.txt_920_982	obj
+hc034_hc034.txt_985_1143	subj
+hc034_hc034.txt_1145_1169	obj
+hc034_hc034.txt_1172_1329	obj
+hc034_hc034.txt_1332_1355	obj

@@ -1,0 +1,3 @@
+hc030_hc030.txt_1276_1280	neutral
+hc030_hc030.txt_1288_1296	negative
+hc030_hc030.txt_1305_1313	neutral

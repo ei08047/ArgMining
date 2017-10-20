@@ -1,0 +1,2 @@
+hc005_hc005.txt_2402_2406	neutral
+hc005_hc005.txt_2407_2411	positive

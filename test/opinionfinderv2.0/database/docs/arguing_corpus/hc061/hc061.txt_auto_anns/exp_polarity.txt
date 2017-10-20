@@ -1,0 +1,5 @@
+hc061_hc061.txt_2802_2808	neutral
+hc061_hc061.txt_2826_2830	neutral
+hc061_hc061.txt_2847_2857	negative
+hc061_hc061.txt_2898_2909	negative
+hc061_hc061.txt_2910_2914	negative

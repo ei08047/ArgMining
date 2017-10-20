@@ -1,0 +1,49 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">A bad omen on Obamacare: Fears about health reform's costs are coming true
+BY GRACE-MARIE TURNER
+Thursday, June 17th 2010, 4:00 AM
+ Shortly after President Obama signed the health overhaul law, several major corporations reported it would take a bite out of their future earnings.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">This group included AT&T, Caterpillar, John Deere, Verizon and several other large employers.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Convinced these businesses were cooking their books to cast the new law in a bad light, House Energy and Commerce Committee Chairman Henry Waxman (D-Calif.)</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">promptly subpoenaed documents and demanded executives testify to defend their announcements.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But after combing through 1,100 pages of corporate documents and e-mails, Waxman's staff canceled the hearing - and announced that "the companies acted properly and in accordance with accounting standards."</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">In other words, even though some lawmakers don't want to believe it, Obamacare is already proving costly to American businesses.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And ironically, the new law could cause many workers to lose the health benefits they get through their jobs.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">So what's driving up costs for America's employers?</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">For starters, there's the new tax on retiree drug coverage.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">When lawmakers created the Medicare drug benefit in 2003, they wanted to make sure that employers who already provided prescription drug coverage to their retirees didn't shift those costs to taxpayers.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">So Congress decided to reimburse these employers for 28% of the cost of their plans through a tax-free subsidy.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">This would be generous enough for employers to continue to provide the retiree coverage, but cheaper than having taxpayers foot the full bill.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Under Obamacare, that subsidy will be taxed.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">Over the next decade, according to the consulting firm Towers Watson, this will cost employers $14 billion.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">In addition, the health overhaul law requires private employers to allow employees to add their 26-year-old "children" to their insurance for the policy year starting this September.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">This requirement will push up the cost of health insurance.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Caterpillar alone estimates the mandate will raise its health insurance costs by $20 million each year.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">The new law also imposes billions of dollars in new fees and excise taxes and prohibits many of the tools that insurance companies have used to keep costs down, like caps on coverage and co-payments on preventive care.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Without factoring in the new health overhaul, large companies had predicted that insurance costs would increase between 6.5% and 7% next year.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Obamacare could send average health insurance cost increases for major employers into double-digit territory.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Indeed, it's no longer inconceivable that some large companies may decide to drop health insurance altogether as many may conclude it's cheaper and less risky to pay fines to the government than offer insurance to their workers.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Under the new law, every employer with more than 50 workers will be required to either offer health insurance or pay an annual penalty of $2,000 per full-time worker.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">If they offer coverage and it doesn't meet certain tests, they could face fines of $3,000 per worker.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Paying a penalty will be much less expensive than paying for insurance.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Consider AT&T, a company that spends $2.4 billion a year on employee health coverage.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">If AT&T decided not to cover its workers, it would be on the hook for only $600 million in fines.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">If employers stop offering health insurance, taxpayers will wind up picking up the cost of coverage for millions more Americans.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">The cost of Obamacare will skyrocket, as will our deficit and our taxes.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">It's becoming clear that the health overhaul may well have disastrous consequences for the economy.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Americans now realize this; a recent survey from Rasmussen Reports found that 58% of voters favor repeal of the new law.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The American people <MPQAPOL autoclass="negative">opposed</MPQAPOL> passage of Obamacare and the more they learn about it, the more their <MPQAPOL autoclass="negative">opposition</MPQAPOL> grows.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">Grace-Marie Turner is president of the Galen Institute, a nonprofit research organization focusing on patient-centered solutions to health <MPQAPOL autoclass="neutral">reform</MPQAPOL>.</MPQASENT>

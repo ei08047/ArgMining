@@ -1,0 +1,7 @@
+hc032_hc032.txt_0_224	unknown
+hc032_hc032.txt_226_399	unknown
+hc032_hc032.txt_402_551	unknown
+hc032_hc032.txt_554_777	obj
+hc032_hc032.txt_779_981	unknown
+hc032_hc032.txt_984_1104	unknown
+hc032_hc032.txt_1107_1302	unknown

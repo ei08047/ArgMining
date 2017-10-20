@@ -1,0 +1,7 @@
+hc037_hc037.txt_3778_3787	positive
+hc037_hc037.txt_3788_3794	neutral
+hc037_hc037.txt_3811_3814	neutral
+hc037_hc037.txt_3853_3860	neutral
+hc037_hc037.txt_3936_3940	neutral
+hc037_hc037.txt_4021_4026	neutral
+hc037_hc037.txt_4035_4045	neutral

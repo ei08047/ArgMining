@@ -1,0 +1,8 @@
+hc084_hc084.txt_2720_2724	neutral
+hc084_hc084.txt_2736_2744	positive
+hc084_hc084.txt_2749_2759	positive
+hc084_hc084.txt_2760_2767	neutral
+hc084_hc084.txt_2801_2809	neutral
+hc084_hc084.txt_2813_2820	neutral
+hc084_hc084.txt_2825_2834	neutral
+hc084_hc084.txt_2869_2874	positive

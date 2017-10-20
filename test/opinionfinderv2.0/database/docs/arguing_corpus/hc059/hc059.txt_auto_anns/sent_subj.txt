@@ -1,0 +1,16 @@
+hc059_hc059.txt_0_414	obj
+hc059_hc059.txt_418_572	obj
+hc059_hc059.txt_573_653	obj
+hc059_hc059.txt_657_862	subj
+hc059_hc059.txt_863_1015	obj
+hc059_hc059.txt_1016_1122	subj
+hc059_hc059.txt_1126_1336	obj
+hc059_hc059.txt_1340_1534	obj
+hc059_hc059.txt_1535_1739	obj
+hc059_hc059.txt_1743_1930	obj
+hc059_hc059.txt_1934_2106	obj
+hc059_hc059.txt_2107_2221	obj
+hc059_hc059.txt_2225_2321	obj
+hc059_hc059.txt_2322_2549	obj
+hc059_hc059.txt_2550_2734	obj
+hc059_hc059.txt_2738_2918	obj

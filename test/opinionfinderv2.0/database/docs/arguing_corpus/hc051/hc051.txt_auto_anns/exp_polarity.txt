@@ -1,0 +1,13 @@
+hc051_hc051.txt_9444_9449	neutral
+hc051_hc051.txt_9468_9474	negative
+hc051_hc051.txt_9482_9489	negative
+hc051_hc051.txt_9490_9496	neutral
+hc051_hc051.txt_9600_9612	negative
+hc051_hc051.txt_9658_9666	neutral
+hc051_hc051.txt_9686_9693	neutral
+hc051_hc051.txt_9997_10005	neutral
+hc051_hc051.txt_10006_10010	neutral
+hc051_hc051.txt_10108_10119	neutral
+hc051_hc051.txt_10133_10143	neutral
+hc051_hc051.txt_10273_10278	neutral
+hc051_hc051.txt_10282_10288	negative

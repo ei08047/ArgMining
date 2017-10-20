@@ -1,0 +1,13 @@
+hc012_hc012.txt_4229_4233	neutral
+hc012_hc012.txt_4247_4253	neutral
+hc012_hc012.txt_4307_4312	neutral
+hc012_hc012.txt_4338_4344	neutral
+hc012_hc012.txt_4405_4409	neutral
+hc012_hc012.txt_4422_4428	neutral
+hc012_hc012.txt_4445_4450	neutral
+hc012_hc012.txt_4521_4525	neutral
+hc012_hc012.txt_4545_4553	neutral
+hc012_hc012.txt_4579_4588	neutral
+hc012_hc012.txt_4595_4599	neutral
+hc012_hc012.txt_4600_4604	neutral
+hc012_hc012.txt_4686_4691	neutral

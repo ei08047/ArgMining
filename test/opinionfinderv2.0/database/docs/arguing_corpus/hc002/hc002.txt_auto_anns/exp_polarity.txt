@@ -1,0 +1,6 @@
+hc002_hc002.txt_5282_5292	neutral
+hc002_hc002.txt_5293_5302	positive
+hc002_hc002.txt_5337_5341	neutral
+hc002_hc002.txt_5354_5358	neutral
+hc002_hc002.txt_5407_5409	neutral
+hc002_hc002.txt_5451_5458	neutral

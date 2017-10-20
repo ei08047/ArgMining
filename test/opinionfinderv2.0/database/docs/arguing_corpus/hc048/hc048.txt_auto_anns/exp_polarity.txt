@@ -1,0 +1,8 @@
+hc048_hc048.txt_1107_1112	neutral
+hc048_hc048.txt_1136_1142	neutral
+hc048_hc048.txt_1152_1157	neutral
+hc048_hc048.txt_1221_1225	neutral
+hc048_hc048.txt_1250_1255	neutral
+hc048_hc048.txt_1279_1285	neutral
+hc048_hc048.txt_1300_1305	neutral
+hc048_hc048.txt_1439_1447	positive

@@ -1,0 +1,46 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Health care debate brings out politics, perks at their worst
+By Kathleen Parker - Washington Post Writers Group columnist
+ Skipping through the Candy Land of the health care bill, one is tempted to hum "Let Me Call You Sweetheart."</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">What a deal.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">For deal-makers.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Not so much for American taxpayers, who have been misled into thinking that the sweetheart deals have been excised.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Not only are the deals still there, but they're bigger and worser, as the bard gave us permission to say.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And the health care "reform" bill is, consequently, costlier by billions.</MPQASENT>
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">Yes, gone (sort of) is the so-called "Cornhusker kickback," extended to Nebraska Sen. Ben Nelson when his 60th vote needed a bit of coaxing.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Meaning, Nelson is no longer special.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Now, everyone is.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">All states now will get their own Cornhusker kickbacks.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Originally, Nelson had secured 100 percent federal funding for Nebraska's Medicaid expansion -- in perpetuity -- among other hidden prizes to benefit locally based insurance companies.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">When other states complained about the unfair treatment, President Obama and Congress "fixed" it by increasing the federal share of Medicaid to all states through 2017, after which all amounts are supposed to decrease.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Nelson's deal might have escaped largely unnoticed, if not for his pivotal role in the Senate vote last December.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The value of what he originally negotiated for Nebraska -- about $100 million -- wasn't that much in the trillion-dollar scheme of things, but the cost of the "fix" runs in the tens of billions.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">Other sweetheart provisions that remain in the bill include special perks for Florida ("Gatorade"), Louisiana ("The Louisiana Purchase"), Nevada, Montana, Wyoming, North Dakota and Utah ("The Frontier States").</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Wearily, one might concede that this is, well, politics as usual.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But whither the transparency of the Promised Land?</MPQASENT>
+ <MPQASENT autoclass1="subj" autoclass2="subj">During last month's health care summit, Sen. John McCain had the audacity to raise -- "with respect" -- the specter of opaque and "unsavory" deal-making, whereupon Obama reminded his former presidential foe that the campaign was over.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">To his credit, Obama conceded McCain's point in a post-summit letter to Congress, noting that some provisions had been added that shouldn't have been.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">His proposal does not include the Medicare Advantage provision mentioned by McCain that allowed extras for Florida and other states.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">The president also mentioned that his plan eliminates the Nebraska yum-yum (not his term), "replacing it with additional federal financing to all states for the expansion of Medicaid."</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">More fair?</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">Sure, but at mind-boggling cost to taxpayers.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">To correct a $100 million mistake, we'll spend tens of billions.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Throughout the health care process, the Democrats' modus operandi has been to offer a smarmy deal and then, when caught, to double down rather than correct course.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The proposed tax on "Cadillac" insurance policies is another case in point.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Pushed by the president, and initially passed by the Senate, the tax was broadly viewed as an effective way to bend the cost curve down.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">But then labor objected, and the tax was postponed until 2018.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And the cost of the union compromise?</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">According to the Congressional Budget Office, the original Cadillac tax would have saved the Treasury $149 billion between 2013 and 2019.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Under the postponed tax, the savings will likely plunge to just $65 billion, or a net loss to the Treasury of $84 billion.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">A spoonful of sugar may <MPQAPOL autoclass="neutral">indeed</MPQAPOL> <MPQAPOL autoclass="positive">help</MPQAPOL> the medicine go down, but <MPQAPOL autoclass="neutral">even</MPQAPOL> King Kandy and the Gingerbread People can <MPQAPOL autoclass="neutral">choke</MPQAPOL> on <MPQAPOL autoclass="neutral">too</MPQAPOL> many sweets.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">kathleenparker@washpost.com</MPQASENT>
+

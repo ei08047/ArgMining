@@ -1,0 +1,5 @@
+marktwain_forward_1086_1090	neutral
+marktwain_forward_1126_1132	neutral
+marktwain_forward_1170_1174	positive
+marktwain_forward_1196_1206	neutral
+marktwain_forward_1208_1216	positive

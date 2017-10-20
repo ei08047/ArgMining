@@ -1,0 +1,43 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Medicare cuts and other D.C. fairy tales: Obama's so-called 'savings' are pure political fantasy
+
+BY DR. DAVID GRATZER
+Thursday, December 3rd 2009, 4:00 AM
+ It's that time of year again: Washington is talking about cuts to Medicare.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">President Obama's health-care reforms depend on them - up to $400 billion worth over 10 years.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">As a psychiatrist, I'll break the bad news gently: Medicare cuts are like Santa Claus and his flying reindeers - often talked about, never actually seen.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">The federal government has long fought to control Medicare spending.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Today's Medicare program costs taxpayers twice what it did 10 years ago.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But whenever lawmakers from either party agree to savings, Congress reverses course, fearing cuts will anger voters on Election Day.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Congress reversed planned cuts in 1999.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">And 2005.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">And 2004.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">And 2006.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">In fact, since 1997, when members of both parties agreed to automatic cuts if spending rose faster than population and economic growth, the program has been cut just once, in 2002.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">At one point, Congress voted to postpone a 10% cut in Medicare doctors' fees from December 2007 until mid-summer 2008.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Just weeks later, House Speaker Nancy Pelosi attacked the rescheduled savings as "exactly the wrong medicine."</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">So come July 2008, despite massive deficit projections, Congress voted to abandon the planned savings altogether.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">President George Bush vetoed that decision - only to have Congress, both parties, override him.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Turns out, there are only two ways to credibly cut Medicare costs.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Option one: reengineer the program with a focus on cutting demand by improving the overall wellness of beneficiaries.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">This is a vital, longer-term project that so far nobody is touching with a 10-foot pole.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Option two: cut supply by rationing care, which makes patients - namely, politically active elderly voters - angry.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">So it's no surprise that the cycle of cuts and reversals has continued with almost comic certainty.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">In fact, just days ago, the House of Representatives passed a bill reversing Medicare cuts slated for 2010, with White House support.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="subj">Yet as you read this, President Obama and Democrats in Congress insist they can pay for half of Obamacare's new spending on health care with . . . you guessed it: future, unspecified, scheduled cuts to Medicare doctors' fees, drug payments and hospital reimbursements.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Pelosi has put aside last year's worries; now she believes Washington can find $400 billion over 10 years - without the likes of herself interfering.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">How?</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Obamacare is built on a gimmick.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The White House apparently believes America's grandmothers won't mind hundreds of billions of dollars worth of Medicare cuts if a committee of health-care bureaucrats is in charge, deflecting responsibility for ruthless decisions that politicians and doctors can't be trusted to make.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">In the Senate bill, the committee is called the Independent Medicare Advisory Board.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">This strategy has already failed in Britain, where politicians desperate to tame rising health costs created a National Institute for Health and Clinical Effectiveness.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Several NICE rulings to cut coverage for expensive treatments have since been challenged or reversed.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And as a result, health inflation lives on in Britain, because their officials, just like ours, don't have the guts to tell millions of grandmothers to suffer just to balance a budget.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And so, supporters of Obama-care who think their plan is paid for with Medicare savings, beware.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Don't <MPQAPOL autoclass="negative">worry</MPQAPOL> about leaving the milk and cookies out: He's not coming, and neither are the cuts.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Gratzer, a physician, is a senior fellow at the Manhattan Institute and author of "Why Obama's Government Takeover of Health Care Will Be a <MPQAPOL autoclass="neutral">Disaster</MPQAPOL>."</MPQASENT>

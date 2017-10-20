@@ -1,0 +1,6 @@
+marktwain_letters11_9965_9969	neutral
+marktwain_letters11_10001_10005	positive
+marktwain_letters11_10047_10049	neutral
+marktwain_letters11_10153_10157	neutral
+marktwain_letters11_10420_10427	neutral
+marktwain_letters11_10460_10464	neutral

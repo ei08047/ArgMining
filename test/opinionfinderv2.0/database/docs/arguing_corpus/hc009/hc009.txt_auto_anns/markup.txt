@@ -1,0 +1,49 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">How health care 'reforms' will mess with your coverage 
+				 By  Betsy Mccaughey 					   
+ Sen. Edward Kennedy 's health proposal, the Affordable Health Choices Act, is now being marked up in committee, a first step toward a vote.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Critics are mounting a battle against the bill's public insurance option.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">But for patients, there's a bigger danger: a mandate that will limit your choice of health plans and restrict when you can see a specialist.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">You may be compelled to pay 10% or more of your income for insurance you don't want.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Let me address a few big questions you may have.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">Does the bill require you to have health insurance?</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">Yes.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">There is a lot of  Washington  double-talk in the bill - for example, it states, "No individual shall be compelled to enroll in a 'qualified' health plan" (sec.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">3101).</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">But if you file a tax return and fail to attach proof of your qualifying health plan, the  IRS , in coordination with the expanded federal office on electronic medical records and a new state bureaucracy called a Gateway, will find you, notify you of your default and fine you (sec.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">59).</MPQASENT>  
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">How big a fine?</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">That's left up to the secretary of health and human services, but it will be big enough to ". . . accomplish the goal of enhancing participation."</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Of course, people on  Medicare ,  Medicaid  and other government programs are exempt.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">But the outrage is that members of Congress are exempting themselves (sec.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">3116).</MPQASENT>  
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">What is a "qualified" health plan?</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The bill doesn't detail what this term means, but the language suggests you will be limited to a managed-care-style plan.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Patients will have their care coordinated in a "medical home" - this decade's term for your primary care provider - and will not be allowed to see a specialist or get a test whenever they want to.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Their care will be "coordinated."</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Doctors will be paid with "incentives" or hit with penalties to encourage cost-effective care.</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="obj">One such method is capitation, which means doctors get paid a flat fee per month per patient.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">With capitation, the fewer tests and referrals you're allowed, the more your doctor makes (sec.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">2707).</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">How much will a "qualified" plan cost?</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">There are no prices in the bill, but it does make clear that there will be sliding-scale subsidies for individuals buying plans and temporary subsidies for small businesses covering workers.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">The bill says a family of four with a household income of $110,250 will not have to lay out more than 10% of its modified adjusted gross income (sec.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">3111).</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Ten percent is a lot, but you might have to pay even more.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Senators are looking for ways to trim costs, including allowing only families in lower-income groups to get subsidies.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Will this plan affect you if you get your health insurance from a large company?</MPQASENT>  
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Yes.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">The bill leaves blank precisely what employers' obligations will be (sec.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="subj">163), but you will need to prove that you are enrolled in a "qualified" plan.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Negotiations in the coming days will determine whether your employer must contribute to the cost of that plan and what the tax treatment will be.</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">What about the "public plan" everyone is discussing?</MPQASENT>  
+ <MPQASENT autoclass1="obj" autoclass2="obj">The bill mentions that there will be a public plan, but offers no details (sec.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">3101 and 3116).</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The importance of the public plan has been exaggerated.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Its opponents warn that the public option will drive out private insurance, but that will happen anyway.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The bill gives the health and human services secretary power to limit profit margins, which makes it iffy how long insurance companies will be able to survive (sec.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">2704).</MPQASENT>  
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">That's another reason  President Obama 's promise yesterday that he's "not going to mess" with your plan is unconvincing.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">No one <MPQAPOL autoclass="negative">likes</MPQAPOL> insurance companies, but the <MPQAPOL autoclass="neutral">indications</MPQAPOL> are that faceless bureaucrats in Washington will be <MPQAPOL autoclass="neutral">even</MPQAPOL> stingier when it comes to doling out your medical care.</MPQASENT> 
+
+  <MPQASENT autoclass1="obj" autoclass2="obj">McCaughey is chair of the  Committee to Reduce Infection <MPQAPOL autoclass="neutral">Deaths</MPQAPOL>  and a former lieutenant governor of  New York State .</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">She can be emailed at    betsy@hospitalinfection.org   .</MPQASENT>  

@@ -1,0 +1,3 @@
+marktwain_letters36_26705_26711	neutral
+marktwain_letters36_26754_26760	negative
+marktwain_letters36_26762_26767	positive

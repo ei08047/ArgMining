@@ -1,0 +1,3 @@
+hc069_hc069.txt_2318_2326	neutral
+hc069_hc069.txt_2332_2338	neutral
+hc069_hc069.txt_2376_2380	positive

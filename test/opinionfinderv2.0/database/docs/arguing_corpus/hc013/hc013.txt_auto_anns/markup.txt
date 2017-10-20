@@ -1,0 +1,44 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Health care bill the first step, not the last
+ Eugene Robinson - Washington Post Writers Group
+ When all is said and done -- and, yes, there is a bit more saying and doing to endure, which means that anything can happen -- the health care reform legislation that President Obama now seems likely to sign into law, while an unlovely mess, will be remembered as a landmark accomplishment.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The bill making its way through the Senate by the slimmest of margins is imperfect, to say the least.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But before listing its many flaws, let's consider the measure's one great virtue: 
+ For the first time, we will enshrine the principle that all Americans deserve access to medical care regardless of their ability to pay.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">No longer will it be the policy and practice of our nation to ration health according to wealth.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">When you blow away all the smoke, that's what this fight is about.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The Senate bill lacks a public health insurance option, the House bill is burdened by gratuitous abortion restrictions, and the final product of a House-Senate conference will probably have both those failings.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But once the idea of universal health care is signed into law, it will be all but impossible to erase.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Over time, that idea will be made into reality.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The loose ends are so many and varied, in fact, that it will probably be necessary to revisit the health care issue sooner rather than later.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Even if it takes years to get it right, eventually is better than never.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">History suggests that major new social initiatives have to be perfected over time -- and that basic entitlements, once established, are rarely taken away.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Progressives who argue for killing the Senate bill and starting over should explain their position to the 30 million Americans without health insurance who would be covered under this insufficiently progressive legislation.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">For anyone who believes it is shameful that the richest, most powerful nation in the world cares so little about the health and welfare of its citizens, this is the moment.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It should be seized, not squandered.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Is it ridiculous that the Senate bill essentially bribes Sen. Ben Nelson with special Medicaid reimbursements for Nebraska alone?</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">Yes.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Is it galling that the public option and the idea of a Medicare buy-in fell victim to Sen. Joe Lieberman's whims?</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">Supremely so.</MPQASENT> 
+<MPQASENT autoclass1="obj" autoclass2="obj">But our eyes should be kept on the prize.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">The bill has been described as a gift to the health insurance companies since it provides them with 30 million new customers and no competition from a public plan.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">I don't believe it's a coincidence that the stock prices of health insurers are soaring.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But I also don't believe the main point of this exercise was to stick it to the insurance companies, however satisfying that might be.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Someday, perhaps, we will deal with the perversity of having for-profit health insurance companies.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Executives of those firms have a duty to maximize value for shareholders, which gives them the incentive to behave badly -- rejecting those who are most in need of health care, denying reasonable claims, raising premiums whenever possible.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">If health care is a fundamental right and a societal good, then why should its allocation be mediated by the private sector?</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But this is not the debate we've just had.</MPQASENT>
+ <MPQASENT autoclass1="subj" autoclass2="subj">This isn't the end of a process that leads to a rational, sustainable, more efficient health care system.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It's the beginning.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But when a reform bill passes, as now seems likely, Obama and congressional leaders will have achieved a goal that progressives have sought for decades.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">They will have established that quality health care should be for all, not just for those who can afford it.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">We have a system now in which Americans go bankrupt trying to pay doctors and hospitals to keep them alive.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">When you have the <MPQAPOL autoclass="neutral">opportunity</MPQAPOL> to change this, you take it -- <MPQAPOL autoclass="neutral">even</MPQAPOL> if it <MPQAPOL autoclass="neutral">means</MPQAPOL> winning <MPQAPOL autoclass="negative">ugly</MPQAPOL>.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">eugenerobinson@washpost.com</MPQASENT>

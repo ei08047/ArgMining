@@ -1,0 +1,9 @@
+hc025_hc025.txt_4885_4889	neutral
+hc025_hc025.txt_4974_4979	neutral
+hc025_hc025.txt_4992_4996	neutral
+hc025_hc025.txt_5009_5017	neutral
+hc025_hc025.txt_5091_5102	neutral
+hc025_hc025.txt_5158_5164	neutral
+hc025_hc025.txt_5175_5185	neutral
+hc025_hc025.txt_5278_5286	neutral
+hc025_hc025.txt_5288_5299	neutral

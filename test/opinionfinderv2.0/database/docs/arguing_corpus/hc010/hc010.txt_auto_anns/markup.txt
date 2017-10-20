@@ -1,0 +1,51 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Jason Lewis: Government health care is on the way 
+Jason Lewis: Government health care is on the way 
+By JASON LEWIS September 30, 2010 
+ There's an elephant in the living room of the health care debate that no one seems remotely ready to acknowledge.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Not the Democrats, who put it there.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And not the Republicans, who, if their recent "Pledge" is any indication, continue to look the other way.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The problem is, quite simply, the centerpiece of the entire health care overhaul -- guaranteed coverage for so-called "preexisting" conditions.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">As long as both parties insist on this, the national discussion over real health care reform is going nowhere.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">First things first -- guaranteed coverage for an existing condition ("preexisting" is a redundancy) is not health insurance.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">No insurance model I know of grants coverage for existing conditions.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Try waiting until your house is on fire to buy a homeowners policy.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Call your auto insurer after an accident to increase your coverage.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Both are "preexisting" conditions, but no one expects to get coverage after the fact.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">However, if health insurers must issue a policy without being able to charge a price commensurate with the risk, I'll just wait until I get sick to buy it, thank you.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The obvious result will be an insurance pool made up of the sickest customers, which of course is no pool at all.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">President Obama insists that his legislation's individual mandate to purchase insurance (of questionable constitutionality) will offset the gargantuan costs of a "preexisting" mandate and other mandates.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Would that it were true.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The penalties, taxes (or whatever they're calling them these days) that will be levied on individuals and businesses for not buying in, are no match for the freebies that Democrats seem intent on handing out.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">For the insurance requirement to be effective, penalties would have to mirror the cost of today's premiums, which of course defeats the purpose of the entire enterprise: free health care.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The dirty little secret is that most (perhaps not all) existing conditions can find coverage already -- for a price.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Federal law already imposes portability requirements on group plans (though the coverage is costly) and state-run high-risk pools offer more expensive coverage.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The entitlement mentality over health care is now so firmly ingrained that many Americans apparently don't believe they should have to pay a higher premium for filing more claims (something every other form of insurance requires).</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">If the nation really feels this way, then the costs of such a health care safety net should be honestly reflected in an ever expanding welfare state.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The left rejects such transparency because the real goal of the health care overhaul was to enact the largest entitlement program in history and blame the cost of it on the insurance industry.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">To be fair, the sad fact that much of the industry (as well as the GOP) seems reluctant to point this out doesn't exactly qualify as a profile in courage.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Instead, they will merely find other lines of business.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Just last week, on the eve of the new health care rules taking effect, at least three major insurers decided to stop offering "child-only" policies, due to the "preexisting" mandate.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Government-only health care here we come.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Undeterred, Sen. Al Franken continues his business-bashing ways ("Health reform has made a difference for Minnesotans," Sept. 23), claiming that higher "medical loss ratios" (the ratio of the claims paid to total premium revenue) required in the health care bill will reduce wasteful private sector overhead to the levels of that most efficient of bureaucracies, Medicare.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">You may want to ask the growing number of health care providers who are opting out of treating Medicare patients about that one.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Besides, the comparisons are off the mark.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Medicare has higher medical costs per beneficiary, thus artificially reducing administrative costs as a portion of total spending.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Moreover, insurance companies must pay for collecting revenue with sales agents, commissions and the like.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Medicare counts none of these expenses because the cost of collecting taxes is not included in its overhead.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Liberals like Franken continue whistling past the graveyard of Obamacare.</MPQASENT> 
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">They note with <MPQAPOL autoclass="negative">simplistic</MPQAPOL> <MPQAPOL autoclass="neutral">glee</MPQAPOL> that the <MPQAPOL autoclass="neutral">top</MPQAPOL> five health insurers made $12 billion in <MPQAPOL autoclass="neutral">profits</MPQAPOL> last year.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">So</MPQAPOL> there <MPQAPOL autoclass="neutral">must</MPQAPOL> be <MPQAPOL autoclass="neutral">enough</MPQAPOL> cash <MPQAPOL autoclass="negative">lying</MPQAPOL> around, eh?</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Well</MPQAPOL>, by the administration's own reckoning, the health care tab for covering another 34 million is going to be at <MPQAPOL autoclass="neutral">least</MPQAPOL> $1 trillion.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Great, we're only $988 billion short.</MPQASENT>

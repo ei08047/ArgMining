@@ -1,0 +1,5 @@
+hc020_hc020.txt_3724_3731	neutral
+hc020_hc020.txt_3736_3740	neutral
+hc020_hc020.txt_3772_3776	positive
+hc020_hc020.txt_3781_3785	neutral
+hc020_hc020.txt_3828_3832	neutral

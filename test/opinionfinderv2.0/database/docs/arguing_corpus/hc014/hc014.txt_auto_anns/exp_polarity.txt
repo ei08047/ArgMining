@@ -1,0 +1,5 @@
+hc014_hc014.txt_3496_3502	neutral
+hc014_hc014.txt_3503_3507	positive
+hc014_hc014.txt_3534_3538	neutral
+hc014_hc014.txt_3581_3586	neutral
+hc014_hc014.txt_3590_3593	neutral

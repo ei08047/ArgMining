@@ -1,0 +1,10 @@
+hc030_hc030.txt_0_113	obj
+hc030_hc030.txt_116_252	unknown
+hc030_hc030.txt_255_374	unknown
+hc030_hc030.txt_377_602	unknown
+hc030_hc030.txt_605_654	unknown
+hc030_hc030.txt_658_893	obj
+hc030_hc030.txt_896_977	obj
+hc030_hc030.txt_981_1058	obj
+hc030_hc030.txt_1062_1173	obj
+hc030_hc030.txt_1176_1329	obj

@@ -1,0 +1,7 @@
+hc041_hc041.txt_0_189	obj
+hc041_hc041.txt_191_417	obj
+hc041_hc041.txt_421_558	obj
+hc041_hc041.txt_561_761	subj
+hc041_hc041.txt_765_871	subj
+hc041_hc041.txt_874_1152	subj
+hc041_hc041.txt_1155_1315	obj

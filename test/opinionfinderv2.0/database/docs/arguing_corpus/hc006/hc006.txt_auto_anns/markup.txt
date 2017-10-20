@@ -1,0 +1,52 @@
+    <MPQASENT autoclass1="unknown" autoclass2="obj">Health care reform is good for the economy 				 By  David Culter  and  Judy Feder 					   
+                  Friday, March 19th 2010,  8:02 AM  
+ As the health debate enters its final stages, the "Army of No" is trying to scare Americans about reform.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Health care reform will take away our precious rights and upset the status quo.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">It is socialism come to the  U.S.  
+The playbook for the Army is the same one that was used in the 1950s, 1970s and 1990s.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="obj">But this time is different; it's not going to work.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">What Americans consistently recognize - despite polls that show a wide range of opinions on descriptions of different bills - is that we need a health reform law for our health and economic security.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Without reform, 15 million more Americans may lose their coverage over the next decade and go without health care when they need it.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">With reform, lives will be longer and healthier.</MPQASENT> 
+
+<MPQASENT autoclass1="obj" autoclass2="obj">The Army of No has no answer to the health care case.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="obj">The economic case is just as compelling.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The biggest threat to American economic growth in the next decade is not rising oil prices or the recent financial meltdown: It is the increasing cost of health care.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The employers who cover 160 million non-elderly Americans have seen their premiums nearly double since 2000, and premiums are expected to double again in the coming decade.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="subj">Workers who have given up wages already will be asked to give up even more, and still health costs will eat away at business profits and government budgets.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="subj">With reform, we can lay the groundwork for a sustainable middle class recovery.</MPQASENT> 
+<MPQASENT autoclass1="obj" autoclass2="obj">The reforms on the verge of being passed through Congress will address our economic situation in two ways.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">First, they will promote entrepreneurship and innovation by guaranteeing coverage outside as well as inside the workplace.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Today, millions of people don't leave their jobs or start a business because they're desperately holding onto a health plan.</MPQASENT> 
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">Small businesses fail to grow in part because of high insurance costs.</MPQASENT> 
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">If health reform passes, this will change dramatically.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Alongside job-based coverage, the new state exchanges would enable Americans to buy affordable and effective health insurance coverage on their own - 
+ without the risk of discrimination based on pre-existing conditions, denials or cancellations of coverage, or exorbitant premium hikes that are experienced today.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And alongside an end to these unacceptable practices, health reform's new marketplaces for insurance will lower administrative costs and give Americans more choices.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Those predicting negative economic effects for the country either aren't paying attention what's in the bill or are willfully distorting its provisions.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Second, health reform will provide the tools we need to rein in unsustainable health cost growth.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Experts from the left and the right agree that about a third of the more than $2 trillion the U.S. currently spends every year on health care doesn't improve our health.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="obj">That's got to change - and health reform puts that change in motion.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Reform starts with  Medicare , which, just like private insurers, keeps spending too much for too little value.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Through a series of requirements and incentives, the legislation would replace Medicare's outmoded payment systems with programs that reward value and encourage efficient care.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Wherever Medicare has led, private payers have followed.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Our research shows that if today's "best practices" in medicine - emphasizing prevention, avoiding hospitalizations, and managing chronic illness - become common, we can lower premiums by more than 12%.</MPQASENT> 
+
+<MPQASENT autoclass1="obj" autoclass2="obj">Lest that sound implausible, note that it requires nothing more than health care achieving the same level of productivity growth that every other U.S. industry has accomplished in recent years.</MPQASENT> 
+<MPQASENT autoclass1="obj" autoclass2="obj">With lower costs will come more jobs.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">Our research shows that slowing the growth of insurance premiums can create an estimated 250,000-400,000 new jobs every year over the next decade.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="obj">At the same time, lowering health care cost growth is the single most important  step that can be taken to balance the federal budget.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Even the  Congressional Budget Office , which uses very conservative projections, says that the bill Congress is about to pass would reduce the deficit by $130 billion over the next ten years and $1.2 trillion in the ten years after that.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Our own forecast, which factors in other likely cost reductions, is that the total budgetary savings from now until 2030 will total around $6.5 trillion.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="obj">Change can be scary.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="obj">But there is no scenario for middle class economic growth that does not ultimately involve successful health care reform.</MPQASENT> 
+<MPQASENT autoclass1="unknown" autoclass2="subj">The Army of No may <MPQAPOL autoclass="positive">like</MPQAPOL> things as they are; the <MPQAPOL autoclass="neutral">vast</MPQAPOL> bulk of Americans <MPQAPOL autoclass="positive">prefer</MPQAPOL> and <MPQAPOL autoclass="positive">deserve</MPQAPOL> something <MPQAPOL autoclass="neutral">better</MPQAPOL>.</MPQASENT> 
+<MPQASENT autoclass1="obj" autoclass2="obj">Cutler, a professor of economics at  Harvard  and Feder, a professor of public policy at  Georgetown , are senior fellows at the  Center for American Progress .</MPQASENT> 
+<MPQASENT autoclass1="obj" autoclass2="obj">Both have consulted with the  White House  and Congress on health care <MPQAPOL autoclass="neutral">reform</MPQAPOL>.</MPQASENT> 

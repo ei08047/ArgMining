@@ -1,0 +1,17 @@
+hc005_hc005.txt_1_241	unknown
+hc005_hc005.txt_249_465	unknown
+hc005_hc005.txt_469_482	unknown
+hc005_hc005.txt_483_760	unknown
+hc005_hc005.txt_764_896	unknown
+hc005_hc005.txt_902_1013	unknown
+hc005_hc005.txt_1017_1184	unknown
+hc005_hc005.txt_1187_1278	obj
+hc005_hc005.txt_1281_1314	obj
+hc005_hc005.txt_1317_1499	unknown
+hc005_hc005.txt_1502_1649	unknown
+hc005_hc005.txt_1652_1757	unknown
+hc005_hc005.txt_1761_2032	subj
+hc005_hc005.txt_2035_2117	unknown
+hc005_hc005.txt_2120_2226	unknown
+hc005_hc005.txt_2229_2387	unknown
+hc005_hc005.txt_2391_2412	obj

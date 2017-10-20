@@ -1,0 +1,6 @@
+hc006_hc006.txt_4701_4705	positive
+hc006_hc006.txt_4730_4734	neutral
+hc006_hc006.txt_4753_4759	positive
+hc006_hc006.txt_4764_4771	positive
+hc006_hc006.txt_4782_4788	neutral
+hc006_hc006.txt_5024_5030	neutral

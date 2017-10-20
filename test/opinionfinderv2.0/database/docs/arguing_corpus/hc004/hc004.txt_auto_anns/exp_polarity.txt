@@ -1,0 +1,8 @@
+hc004_hc004.txt_6796_6800	positive
+hc004_hc004.txt_6805_6811	neutral
+hc004_hc004.txt_6825_6831	neutral
+hc004_hc004.txt_6848_6858	neutral
+hc004_hc004.txt_6863_6868	positive
+hc004_hc004.txt_6898_6902	positive
+hc004_hc004.txt_6934_6941	neutral
+hc004_hc004.txt_6999_7006	neutral

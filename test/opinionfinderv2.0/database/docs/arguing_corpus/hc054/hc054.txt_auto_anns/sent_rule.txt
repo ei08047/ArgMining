@@ -1,0 +1,15 @@
+hc054_hc054.txt_0_210	unknown
+hc054_hc054.txt_212_218	unknown
+hc054_hc054.txt_220_303	unknown
+hc054_hc054.txt_305_393	unknown
+hc054_hc054.txt_395_525	obj
+hc054_hc054.txt_526_648	unknown
+hc054_hc054.txt_649_766	unknown
+hc054_hc054.txt_767_827	unknown
+hc054_hc054.txt_828_936	unknown
+hc054_hc054.txt_937_987	unknown
+hc054_hc054.txt_991_1074	unknown
+hc054_hc054.txt_1078_1148	unknown
+hc054_hc054.txt_1150_1286	subj
+hc054_hc054.txt_1287_1398	unknown
+hc054_hc054.txt_1400_1486	unknown

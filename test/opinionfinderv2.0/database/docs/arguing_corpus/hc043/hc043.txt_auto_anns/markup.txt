@@ -1,0 +1,68 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Why Obamacare is sinking: The President's grand promises have run smack into the real world
+CHARLES KRAUTHAMMER
+Thursday, July 23rd 2009, 4:35 PM
+ What happened to Obamacare?</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Rhetoric met reality.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">As both candidate and President, the master rhetorician could conjure a world in which he bestows upon you health care nirvana: more coverage, less cost.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But you can't fake it in legislation.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Once you commit your fantasies to words and numbers, the Congressional Budget Office comes along and declares that the emperor has no clothes.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">President Obama premised the need for reform on the claim that medical costs are destroying the economy.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">True.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But now we learn - surprise!</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">- that universal coverage increases costs.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The congressional Democrats' health care plans, says the CBO, increase costs in the range of $1 trillion plus.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">In response, the President retreated to a demand that any bill he sign be revenue neutral.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But that's classic misdirection: If the fierce urgency of health care reform is to radically reduce costs that are producing budget-destroying deficits, revenue neutrality (by definition) leaves us on precisely the same path to insolvency that Obama himself declares unsustainable.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The Democratic proposals are worse still.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Because they do increase costs, revenue neutrality means countervailing tax increases.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">It's not just that it is crazily anti-stimulatory to saddle a deeply depressed economy with an income tax surcharge that falls squarely on small business and the investor class.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">It's that health care reform ends up diverting for its own purposes a source of revenue that might otherwise be used to close the yawning structural budget deficit that is such a threat to the economy and to the dollar.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">These blindingly obvious contradictions are why the Democratic health plans are collapsing under their own weight - at the hands of Democrats.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It's Max Baucus, Democratic chairman of the Senate Finance Committee, who called Obama unhelpful for ruling out taxing employer-provided health insurance as a way to pay for expanded coverage.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It's the Blue Dog Democrats in the House who wince at skyrocketing health-reform costs just weeks after having swallowed hemlock for Obama on a ruinous cap-and-trade carbon tax.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The President is therefore understandably eager to make this a contest between progressive Democrats and reactionary Republicans.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">He seized on Republican Sen. Jim DeMint's comment that stopping Obama on health care would break his presidency to protest, with perfect disingenuousness, that "this isn't about me.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">This isn't about politics."</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">It's all about him.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Health care is his signature reform.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">He knows that if he produces nothing, he forfeits the mystique that both propelled him to the presidency and has sustained him through a difficult first six months.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Which is why Obama's red lines are constantly shifting.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Universal coverage?</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Maybe not.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">No middle-class tax hit?</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Well, perhaps, but only if they don't "primarily" bear the burden.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Because it's about him, Obama is quite prepared to sign anything as long as it is titled "health care reform."</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">This is not about politics?</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">Then why is it, to take but the most egregious example, that in this grand health care debate we hear not a word about one of the worst sources of waste in American medicine: the insane cost and arbitrary rewards of our malpractice system?</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">When a neurosurgeon pays $200,000 a year for malpractice insurance before he even turns on the light in his office or hires his first nurse, who do you think pays?</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Patients, in higher doctor fees to cover the insurance.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">And with jackpot justice that awards one claimant zillions while others get nothing - and one-third of everything goes to the lawyers - where do you think that money comes from?</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The insurance companies, who then pass it on to you in higher premiums.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">But the greatest waste is the hidden cost of defensive medicine: tests and procedures that doctors order for no good reason other than to protect themselves from lawsuit.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Every doctor knows, as I did when I practiced years ago, how much unnecessary medical cost is incurred with an eye not on medicine but on the law.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Tort reform would yield tens of billions in savings.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Yet you cannot find it in the Democratic bills.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">And Obama breathed not a word about it in the full hour of his health care news conference.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Why?</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">No mystery.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The Democrats are parasitically dependent on huge donations from trial lawyers.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Didn't Obama promise a new politics that puts people over special interests?</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Sure.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">And now he promises expanded, portable, secure, higher-quality medical care - at lower cost!</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The only thing he hasn't promised is to extirpate <MPQAPOL autoclass="negative">evil</MPQAPOL> from the human heart.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">That legislation will be introduced next week.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">letters@charleskrauthammer.com</MPQASENT>

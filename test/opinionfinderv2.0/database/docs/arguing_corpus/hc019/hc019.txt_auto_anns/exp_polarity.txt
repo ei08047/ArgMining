@@ -1,0 +1,6 @@
+hc019_hc019.txt_4292_4297	neutral
+hc019_hc019.txt_4332_4338	neutral
+hc019_hc019.txt_4342_4348	neutral
+hc019_hc019.txt_4365_4377	negative
+hc019_hc019.txt_4410_4421	negative
+hc019_hc019.txt_4422_4429	neutral

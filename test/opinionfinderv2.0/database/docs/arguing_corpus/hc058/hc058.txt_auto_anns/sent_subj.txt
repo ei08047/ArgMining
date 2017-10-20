@@ -1,0 +1,12 @@
+hc058_hc058.txt_0_205	obj
+hc058_hc058.txt_206_299	obj
+hc058_hc058.txt_303_482	obj
+hc058_hc058.txt_483_644	obj
+hc058_hc058.txt_648_766	obj
+hc058_hc058.txt_767_908	obj
+hc058_hc058.txt_912_985	obj
+hc058_hc058.txt_989_1216	obj
+hc058_hc058.txt_1220_1303	obj
+hc058_hc058.txt_1307_1385	obj
+hc058_hc058.txt_1386_1611	subj
+hc058_hc058.txt_1613_1655	obj

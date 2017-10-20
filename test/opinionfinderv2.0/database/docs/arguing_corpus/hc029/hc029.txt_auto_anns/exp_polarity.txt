@@ -1,0 +1,12 @@
+hc029_hc029.txt_1331_1337	neutral
+hc029_hc029.txt_1343_1349	neutral
+hc029_hc029.txt_1396_1402	neutral
+hc029_hc029.txt_1465_1470	neutral
+hc029_hc029.txt_1474_1487	neutral
+hc029_hc029.txt_1585_1589	neutral
+hc029_hc029.txt_1617_1628	negative
+hc029_hc029.txt_1653_1659	neutral
+hc029_hc029.txt_1665_1670	negative
+hc029_hc029.txt_1680_1694	neutral
+hc029_hc029.txt_1698_1703	neutral
+hc029_hc029.txt_1707_1714	neutral

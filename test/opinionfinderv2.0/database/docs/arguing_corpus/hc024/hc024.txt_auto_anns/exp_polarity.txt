@@ -1,0 +1,13 @@
+hc024_hc024.txt_862_864	neutral
+hc024_hc024.txt_872_884	neutral
+hc024_hc024.txt_914_917	neutral
+hc024_hc024.txt_928_935	positive
+hc024_hc024.txt_980_986	negative
+hc024_hc024.txt_1091_1102	negative
+hc024_hc024.txt_1134_1142	neutral
+hc024_hc024.txt_1178_1187	negative
+hc024_hc024.txt_1276_1283	neutral
+hc024_hc024.txt_1284_1288	neutral
+hc024_hc024.txt_1363_1371	neutral
+hc024_hc024.txt_1372_1382	neutral
+hc024_hc024.txt_1414_1421	neutral

@@ -1,0 +1,14 @@
+hc090_hc090.txt_2871_2876	negative
+hc090_hc090.txt_2919_2927	negative
+hc090_hc090.txt_2947_2953	negative
+hc090_hc090.txt_3000_3005	neutral
+hc090_hc090.txt_3006_3014	neutral
+hc090_hc090.txt_3018_3028	neutral
+hc090_hc090.txt_3029_3042	positive
+hc090_hc090.txt_3053_3060	neutral
+hc090_hc090.txt_3062_3072	neutral
+hc090_hc090.txt_3099_3103	neutral
+hc090_hc090.txt_3109_3115	neutral
+hc090_hc090.txt_3136_3145	positive
+hc090_hc090.txt_3150_3157	positive
+hc090_hc090.txt_3167_3171	neutral

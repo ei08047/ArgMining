@@ -1,0 +1,10 @@
+hc010_hc010.txt_4319_4329	negative
+hc010_hc010.txt_4330_4334	neutral
+hc010_hc010.txt_4344_4347	neutral
+hc010_hc010.txt_4389_4396	neutral
+hc010_hc010.txt_4410_4412	neutral
+hc010_hc010.txt_4419_4423	neutral
+hc010_hc010.txt_4427_4433	neutral
+hc010_hc010.txt_4439_4444	negative
+hc010_hc010.txt_4457_4461	neutral
+hc010_hc010.txt_4572_4577	neutral

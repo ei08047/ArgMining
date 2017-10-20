@@ -1,0 +1,8 @@
+marktwain_letters16_42435_42443	neutral
+marktwain_letters16_42481_42488	neutral
+marktwain_letters16_42518_42522	neutral
+marktwain_letters16_42527_42531	neutral
+marktwain_letters16_42546_42550	positive
+marktwain_letters16_42572_42576	neutral
+marktwain_letters16_42591_42595	positive
+marktwain_letters16_42767_42773	neutral

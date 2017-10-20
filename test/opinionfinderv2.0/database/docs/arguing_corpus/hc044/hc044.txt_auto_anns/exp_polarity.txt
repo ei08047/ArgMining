@@ -1,0 +1,8 @@
+hc044_hc044.txt_4789_4799	neutral
+hc044_hc044.txt_4818_4825	neutral
+hc044_hc044.txt_4861_4865	neutral
+hc044_hc044.txt_4892_4897	neutral
+hc044_hc044.txt_4901_4905	neutral
+hc044_hc044.txt_4916_4932	neutral
+hc044_hc044.txt_4956_4961	neutral
+hc044_hc044.txt_4980_4991	neutral

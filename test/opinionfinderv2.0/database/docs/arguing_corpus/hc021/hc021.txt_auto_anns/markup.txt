@@ -1,0 +1,41 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">GOP Attack on Health Care Reform Is a Fight Against Racial Justice
+ House Republicans are making good on their pledge to repeal every provision of the new law in a vote next week.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And while it's a long shot that the GOP's effort will make it through both houses of Congress, what's clear is that less than 72 hours after assuming power Republicans are already breaking their own promises and potentially putting the lives of millions of poor and uninsured people of color at risk.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">First, let's break down the fight.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The attempt to repeal the health care law is primarily about attacking one of the Obama administration's biggest accomplishments, thereby setting the stage for the 2012 presidential elections.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Republicans are set to vote on their repeal of the health insurance bill, formally known as the Affordable Care Act next Wednesday, and for all that effort they still haven't managed to come up with a better name for it other than, "Repealing the Job-Killing Health Care Law Act."</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Since they already control the House, the bill's expected to pass fairly easily.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Though it faces considerably more challenging odds in the Democratic-controlled Senate, President Obama said Thursday that he'll veto any repeal measure that reaches his desk.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">In the president's promise to veto the repeal effort, the White House cited new data from the Congressional Budget Office that showed just how much is at stake if Republicans get their way.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The CBO found that if Republicans do get their repeal, an additional 32 million people would be left uninsured, bringing the total amount of non-elderly adults without coverage to 17 percent, a number that's roughly equivalent to what it is today.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Perhaps more noteworthy, though, is the office's estimate that a repeal would add $320 billion to the federal deficit over the next decade.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">Coincidently, that's exactly what the party promised to avoid doing in the first place.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Of course, House leadership already knows this.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">So they've simply decided to change their own rules and continue lying to the public about what repealing the law would really mean.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">This week Majority Leader Eric Cantor defended the party's apparent disregard for their own mantra of fiscal responsibility.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">"About the budget implications, I think most people understand that the CBO did the job it was asked to do by the then-Democrat majority, and it was really comparing apples to oranges," Cantor told the New York Times.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">"It talked about 10 years' worth of tax hikes and six years' worth of benefits.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Everyone knows beyond the 10-year window, this bill has the potential to bankrupt this federal government as well as the states."</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">Ezra Klein points out at the Washington Post that Cantor's views and comparisons simply have no merit.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Perhaps more importantly, Cantor's lies have helped push his party's agenda at the expense of raising the public's awareness.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">For instance, a Kaiser Health Tracking poll released last spring found that while 46 percent of the American public favored reforming the law, that view was based largely on the uninformed belief that it would add to the federal deficit.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And that was as untrue one year ago as it will be for the next two decades.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But if the health care bill were to be repealed, people of color and many of the country's poorest residents stand to lose the most.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">According to Leslie Russell at the Center for American Progress, people of color are more likely to be left uninsured and suffer disproportionately from health disparities.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Some of the estimates show that while 12 percent of white residents are uninsured, those numbers are nearly double for African-Americans.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The numbers are about the same for Latinos and American Indians, whose rates of uninsured total about 32 percent.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Even for those people of color who are insured, they're more likely to get substandard care.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And it's well documented that people of color face much higher rates of cancer, obesity, diabetes, and heart disease.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Conservatives have gone to great lengths to portray the bill as a "job killer," when really it's an effort to catch up to every other industrialized nation in the world in offering affordable public health insurance to working people.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">According to many liberal observers, such a move could free a large swath of the public from the jaws of over zealous private insurers.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">So</MPQAPOL> the <MPQAPOL autoclass="neutral">fight</MPQAPOL> to maintain the health care law is as <MPQAPOL autoclass="neutral">much</MPQAPOL> a battle for racial <MPQAPOL autoclass="neutral">justice</MPQAPOL> and health equity as it is one of maintaining one of the <MPQAPOL autoclass="neutral">Democratic</MPQAPOL> party's landmark <MPQAPOL autoclass="neutral">victories</MPQAPOL> of the past two years.</MPQASENT>

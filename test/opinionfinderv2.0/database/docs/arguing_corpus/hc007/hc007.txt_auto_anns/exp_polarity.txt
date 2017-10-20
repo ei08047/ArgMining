@@ -1,0 +1,10 @@
+hc007_hc007.txt_4336_4342	positive
+hc007_hc007.txt_4397_4405	positive
+hc007_hc007.txt_4454_4461	negative
+hc007_hc007.txt_4495_4501	positive
+hc007_hc007.txt_4519_4525	negative
+hc007_hc007.txt_4529_4538	negative
+hc007_hc007.txt_4557_4564	negative
+hc007_hc007.txt_4569_4574	positive
+hc007_hc007.txt_4579_4587	negative
+hc007_hc007.txt_4588_4592	negative

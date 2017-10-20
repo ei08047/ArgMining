@@ -1,0 +1,14 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Sicker by the day: Health care reform gets a little weaker with each ugly deal
+
+ Deal by deal, favor by favor, the White House and congressional Democrats are making an ever more unsavory hash of health care reform.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The latest maneuver severely weakened one of the best features of the bill that passed the Senate: an end to the tax exemption on so-called Cadillac health insurance plans.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The legislation called for taxing the most expensive coverage plans as a way to raise revenue and, more importantly, put a brake on rising health costs.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">In the words of MIT economist Jonathan Gruber: "It's generally viewed as one of the very few things we know can actually help with health care cost control, which is an important goal of this bill."</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But now organized labor has muscled the Obama administration and congressional leaders into gutting the provision <MPQAPOL autoclass="neutral">so</MPQAPOL> that - <MPQAPOL autoclass="neutral">outrageously</MPQAPOL> - unionized workers who have <MPQAPOL autoclass="neutral">top</MPQAPOL> plans get <MPQAPOL autoclass="positive">special</MPQAPOL> treatment over employees who have similarly <MPQAPOL autoclass="negative">costly</MPQAPOL> coverage but are not union members.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Asterisk by asterisk, alteration by alteration, the Democrats are <MPQAPOL autoclass="negative">undermining</MPQAPOL> the goals of cost containment, <MPQAPOL autoclass="neutral">fairness</MPQAPOL> and economic feasibility in a last <MPQAPOL autoclass="negative">desperate</MPQAPOL> push to get a bill done.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">That's what happened when Nebraska Sen. Ben Nelson wangled a <MPQAPOL autoclass="neutral">special</MPQAPOL> <MPQAPOL autoclass="neutral">deal</MPQAPOL> for his state that hammered New York.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="subj">And that's what happened when labor <MPQAPOL autoclass="neutral">demanded</MPQAPOL> <MPQAPOL autoclass="neutral">protection</MPQAPOL> for its members as the tab for <MPQAPOL autoclass="neutral">support</MPQAPOL>.</MPQASENT>
+

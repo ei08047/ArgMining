@@ -1,0 +1,6 @@
+hc033_hc033.txt_3612_3620	neutral
+hc033_hc033.txt_3625_3632	neutral
+hc033_hc033.txt_3652_3656	neutral
+hc033_hc033.txt_3657_3667	neutral
+hc033_hc033.txt_3686_3692	neutral
+hc033_hc033.txt_3764_3775	neutral

@@ -1,0 +1,11 @@
+hc048_hc048.txt_0_268	subj
+hc048_hc048.txt_269_439	unknown
+hc048_hc048.txt_440_560	unknown
+hc048_hc048.txt_564_698	unknown
+hc048_hc048.txt_699_816	unknown
+hc048_hc048.txt_820_1017	unknown
+hc048_hc048.txt_1018_1080	unknown
+hc048_hc048.txt_1081_1308	unknown
+hc048_hc048.txt_1312_1344	unknown
+hc048_hc048.txt_1345_1471	obj
+hc048_hc048.txt_1472_1596	obj

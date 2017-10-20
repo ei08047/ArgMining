@@ -1,0 +1,8 @@
+marktwain_letters41_24618_24626	neutral
+marktwain_letters41_24627_24634	positive
+marktwain_letters41_24653_24657	neutral
+marktwain_letters41_24666_24670	neutral
+marktwain_letters41_24673_24677	neutral
+marktwain_letters41_24691_24696	neutral
+marktwain_letters41_24756_24766	positive
+marktwain_letters41_24815_24819	neutral

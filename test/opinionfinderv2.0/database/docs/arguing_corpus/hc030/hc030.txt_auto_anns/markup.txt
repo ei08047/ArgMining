@@ -1,0 +1,20 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">ObamaCare: The ruse exposed ...
+Saturday, June 19, 2010
+ Enacting a law is one thing; implementing it is another.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And early indications about ObamaCare's implementation via new regulations suggest this law will validate its critics' dire predictions.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The president repeatedly promised Americans that they'd be able to keep their existing health coverage under ObamaCare.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Yet an early regulatory draft -- of his administration's own making -- predicts that in just three years, changes that employers will have to make will put 51 percent of workers into plans subject to new federal requirements.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Those changes will raise -- not rein in -- costs.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">And employers will have to keep modifications to deductibles, co-payments and benefits within a narrow range -- defined by unelected bureaucrats -- or lose their "grandfathered" plans' exemptions from those otherwise mandatory changes.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">As costs and regulations rise, fewer of those "grandfathered" plans will survive.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">They'll cover fewer workers -- and government-designed plans will cover more.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Apparently, bureaucrats will do what the ObamaCare law didn't to ensure that government takes over health care.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">If the administration holds to the regulatory course it's setting, ObamaCare in practice will be an <MPQAPOL autoclass="neutral">even</MPQAPOL> bigger <MPQAPOL autoclass="negative">disaster</MPQAPOL> than it <MPQAPOL autoclass="neutral">appeared</MPQAPOL> to be on paper.</MPQASENT>
+

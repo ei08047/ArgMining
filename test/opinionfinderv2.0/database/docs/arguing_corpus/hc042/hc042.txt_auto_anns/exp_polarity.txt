@@ -1,0 +1,2 @@
+hc042_hc042.txt_3512_3517	negative
+hc042_hc042.txt_3741_3749	neutral

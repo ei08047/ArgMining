@@ -1,0 +1,13 @@
+hc092_hc092.txt_3951_3962	neutral
+hc092_hc092.txt_4045_4058	neutral
+hc092_hc092.txt_4103_4107	positive
+hc092_hc092.txt_4113_4121	negative
+hc092_hc092.txt_4130_4140	positive
+hc092_hc092.txt_4150_4155	neutral
+hc092_hc092.txt_4209_4213	neutral
+hc092_hc092.txt_4221_4225	neutral
+hc092_hc092.txt_4243_4248	neutral
+hc092_hc092.txt_4306_4311	neutral
+hc092_hc092.txt_4312_4316	neutral
+hc092_hc092.txt_4441_4445	neutral
+hc092_hc092.txt_4587_4594	neutral

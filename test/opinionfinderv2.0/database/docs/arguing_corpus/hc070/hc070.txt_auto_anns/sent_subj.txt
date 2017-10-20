@@ -1,0 +1,7 @@
+hc070_hc070.txt_0_307	subj
+hc070_hc070.txt_308_376	subj
+hc070_hc070.txt_384_535	obj
+hc070_hc070.txt_543_705	obj
+hc070_hc070.txt_713_847	obj
+hc070_hc070.txt_848_976	obj
+hc070_hc070.txt_980_1030	obj

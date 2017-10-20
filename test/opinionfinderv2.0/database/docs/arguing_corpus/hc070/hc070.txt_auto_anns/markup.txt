@@ -1,0 +1,17 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Monday, December 19, 2011
+How "Obamacare" is helping small business - tax cuts, baby
+By John Aravosis on 12/19/2011 05:30:00 PM
+
+| Reddit | Facebook | Digg | FARK
+
+Heritage.com:
+
+    With the economy still in a slump, small business owners like me are doing everything we can to keep our costs down.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="subj">A particularly troublesome cost for my business is health insurance.</MPQASENT>
+
+    <MPQASENT autoclass1="obj" autoclass2="obj">However, I recently learned there are tax credits in the new healthcare law specifically for small businesses that will help us pocket some extra cash.</MPQASENT>
+
+    <MPQASENT autoclass1="obj" autoclass2="obj">In Michigan, 85.1 percent, or 126,300 small businesses were eligible for a credit in 2010; 39,600 small businesses qualified for the maximum tax credit that year.</MPQASENT>
+
+    <MPQASENT autoclass1="obj" autoclass2="obj">Unfortunately, I saw a survey from Small Business Majority that said 57 percent of small business owners don't know about the credits.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">If more small employers took advantage of this opportunity to save money, there would be more cash circulating in our community.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">More about the health care <MPQAPOL autoclass="neutral">reform</MPQAPOL> tax credit here.</MPQASENT>

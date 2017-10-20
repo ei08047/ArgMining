@@ -1,0 +1,25 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">December 19, 2011 1:10 PM Affordable Care Act, still working
+
+By Steve Benen
+Facebook Twitter Digg Reddit StumbleUpon Delicious
+
+A small business owner in Michigan wrote an interesting piece for his local newspaper the other day, noting how tax credits from the Affordable Care Act are making a real difference, and even helping create jobs.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">That’s good to hear.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">The piece comes, by the way, on the heels of reports that the health care reform law is delivering big savings for seniors on prescription drug costs.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">And that came on the heels of evidence that the ACA is providing treatment options for cancer patients like Spike Dolomite Ward.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">And that came on the heels of news that the law is slowing the growth of Medicare spending.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">Let’s also not overlook the news from last week about the millions of younger Americans who are getting coverage thanks to consumer protections that are now in place.</MPQASENT>
+
+    <MPQASENT autoclass1="obj" autoclass2="obj">President Obama’s health care reforms have allowed 2.5 million young adults to get medical coverage, according to a new analysis that the Obama administration is set to release Wednesday.</MPQASENT>
+
+    <MPQASENT autoclass1="obj" autoclass2="obj">The Obama administration says the dramatic decrease in the number of uninsured young adults is due to the president’s signature health care reforms, reports the AP, which obtained a copy of the analysis.</MPQASENT>
+
+    <MPQASENT autoclass1="unknown" autoclass2="obj">“The increase in coverage among 19- to 25-year-olds can be directly attributed to the Affordable Care Act’s new dependent coverage provision,” said a draft report from the Health and Human Services Department.</MPQASENT>
+
+    <MPQASENT autoclass1="obj" autoclass2="obj">Under the health care reforms, 19- to 25-year-olds can remain on their parents’ health insurance plans until they turn 26, a provision which went into effect last fall.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">Much of the new law won’t take effect until 2014, assuming it survives until then.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">But in the meantime, is it too much to ask that the political world pause to notice that the Affordable Care Act is working?</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="subj">Millions of Americans have health insurance right now who otherwise wouldn’t.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">Millions of seniors can now afford medication they would otherwise struggle to pay for.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">Small businesses are getting tax breaks right now that are helping these enterprises grow and expand.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="subj">These are tangible, real-world benefits, making a meaningful difference.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">And if Republicans repeal the law, all of these <MPQAPOL autoclass="neutral">benefits</MPQAPOL> will <MPQAPOL autoclass="neutral">simply</MPQAPOL> disappear.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">It’s something voters may <MPQAPOL autoclass="positive">want</MPQAPOL> to keep in mind.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Steve Benen is a contributing writer to the Washington Monthly, joining the publication in August, 2008 as chief blogger for the Washington Monthly blog, Political Animal.</MPQASENT> 

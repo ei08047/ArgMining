@@ -1,0 +1,10 @@
+hc060_hc060.txt_3458_3468	neutral
+hc060_hc060.txt_3488_3498	positive
+hc060_hc060.txt_3535_3545	positive
+hc060_hc060.txt_3563_3568	positive
+hc060_hc060.txt_3572_3580	neutral
+hc060_hc060.txt_3581_3585	negative
+hc060_hc060.txt_3606_3613	positive
+hc060_hc060.txt_3623_3631	positive
+hc060_hc060.txt_3636_3641	neutral
+hc060_hc060.txt_3665_3678	neutral

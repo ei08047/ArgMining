@@ -1,0 +1,45 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Death panels?</MPQASENT> <MPQASENT autoclass1="subj" autoclass2="subj">No, but bad medicine anyway: Obamacare's end-of-life mistake
+BY DR. MARC SIEGEL
+Sunday, January 2nd 2011, 4:00 AM
+ Last week I saw my patient Sandy for a routine physical.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">He is in his early 80s, has high blood pressure, back and leg pain and high cholesterol, but is otherwise built like a truck.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Beginning this year, Medicare will begin to reimburse me for a yearly preventive physical, including a discussion of end-of-life options.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But since Sandy was already in the office, I decided not to wait.</MPQASENT>
+ <MPQASENT autoclass1="subj" autoclass2="subj">We decided together that he would want "everything done" unless he were brain damaged, in a coma with little hope of waking up or had metastatic cancer that was resistant to all treatment.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Afterward I asked him how often he would like to have this discussion.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">"Once in a lifetime is enough," he said.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">"What would you think if I tried to bring it up every year?"</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">I asked.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">"I'd think I was about to die," he replied.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Like many physicians, I talk to my patients about how aggressive they want me to be if and when they are dying.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">But I don't see a role for the government incentivizing this kind of planning session on a regular basis except as a way of advancing their own agenda, which clearly is decreasing end-of-life care.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Financially, one can understand why the government wants to attack this area of care.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Last year alone, Medicare paid $55 billion just for doctors' and hospital bills connected to the last two months of patients' lives.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">If you want to "bend the cost curve," you can't ignore this spending, particularly with the baby boomers aging.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">But the practice of medicine is about saving people, not pinching pennies.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And in the real world of medical care, "advanced directives" have a limited value when a life-threatening illness actually comes.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Dying is almost never as envisioned; people who are sure they would want to give up often wind up being the biggest fighters against death.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">In the fight against disease, it is morally difficult for both doctors and patients to shut down the machines when there is still hope left.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">My job as a doctor is much more about conducting a war against disease than it is about planning for withdrawing care.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Dr. Donald Berwick, the new administrative head of Medicare and Medicaid services, sees things far differently than I do.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">He has said that "using unwanted procedures in terminal illness is a form of assault."</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But for practicing doctors like me, "terminal" is rarely an accurate term.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">With the latest techniques of medical care - which are advancing by the year - most illnesses are not terminal, but treatable until very late in the game.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">This is why I and other doctors protested against the proposed provision in the health care law that sought to establish end-of-life advisory panels in the first place.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">It is mindboggling that Berwick ignored this wildly unpopular provision, which was deleted from the final bill, and is now instituting a regulation that will pay for voluntary end-of-life planning discussions yearly.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">I have no problem with Medicare providing an incentive for end-of-life discussions, but offering this incentive yearly will lead to excessive use.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Having too frequent end-of-life discussions sends an unfortunate message to the patient that death could be imminent.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">How much angst and excess worry will result from death planning sessions?</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">I anticipate an even more worrisome side effect.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">As the health reform law extends easy-to-overuse insurance to millions more people, this will prove so costly that the administration will make repeated attempts - via regulations - to arbitrarily trim costs.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">These restrictions will directly imperil the technology that gives us a better quality of life as we grow older.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The Medicare-sponsored yearly end-of-life discussion is a clever way of manipulating patients into a mindset of scaling back on this technology's use, even when it may be quite appropriate - just as this technology's medical potential is rapidly accelerating.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">This isn't a "<MPQAPOL autoclass="neutral">death</MPQAPOL> panel," but it isn't <MPQAPOL autoclass="neutral">good</MPQAPOL> medicine, either.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Siegel is an internist practicing in New York and a Fox News Medical Contributor.</MPQASENT>

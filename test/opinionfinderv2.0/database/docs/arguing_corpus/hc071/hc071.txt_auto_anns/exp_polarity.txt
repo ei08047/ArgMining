@@ -1,0 +1,12 @@
+hc071_hc071.txt_2831_2836	neutral
+hc071_hc071.txt_2837_2847	neutral
+hc071_hc071.txt_2848_2860	negative
+hc071_hc071.txt_2902_2911	neutral
+hc071_hc071.txt_2970_2980	negative
+hc071_hc071.txt_3015_3021	neutral
+hc071_hc071.txt_3029_3035	neutral
+hc071_hc071.txt_3091_3095	neutral
+hc071_hc071.txt_3100_3109	positive
+hc071_hc071.txt_3117_3126	neutral
+hc071_hc071.txt_3206_3211	neutral
+hc071_hc071.txt_3264_3270	neutral

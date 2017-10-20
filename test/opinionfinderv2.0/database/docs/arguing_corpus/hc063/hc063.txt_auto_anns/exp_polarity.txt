@@ -1,0 +1,9 @@
+hc063_hc063.txt_3054_3062	neutral
+hc063_hc063.txt_3114_3123	negative
+hc063_hc063.txt_3154_3159	neutral
+hc063_hc063.txt_3232_3241	neutral
+hc063_hc063.txt_3252_3262	neutral
+hc063_hc063.txt_3335_3341	neutral
+hc063_hc063.txt_3364_3370	neutral
+hc063_hc063.txt_3443_3449	neutral
+hc063_hc063.txt_3527_3533	neutral

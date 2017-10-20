@@ -1,0 +1,53 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Al Franken: Health reform has made a difference for Minnesotans
+There's finally security.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">Why would anyone reject that?</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="obj">By AL FRANKEN
+ Just six months after President Obama signed health reform into law, Minnesotans are already beginning to reap its benefits.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">During the health care debate, I met with Minnesotans of all stripes -- doctors, nurses, seniors, small-business owners, middle-class families.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">One thing I heard over and over is that people felt like they were paying more and more for insurance without getting real health security in return.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">It seemed as if the insurance companies always found a way to get out of delivering the benefits they promised -- and that you paid for -- when you needed them.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">The new law is already closing those loopholes.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Some of the worst insurance company practices, like taking away coverage when you get sick or limiting the amount of care you can receive in a lifetime, are now prohibited.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Insurance companies can no longer deny coverage to kids with preexisting conditions.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Young adults can now stay on their parents' insurance through age 26.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">With many college graduates struggling to find work, this is critically important for many Minnesota families.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">One aspect of the law that I worked on -- called "medical loss ratio" -- makes sure that starting this year, at least 80 cents out of every dollar you spend on health insurance will actually go for health care -- not administration, marketing and profits.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Seniors and small-business owners I spoke with were especially concerned about rising costs.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Seniors falling into the Medicare "donut hole" were forced to choose between buying groceries and paying for prescriptions.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Small-business owners were forced to choose between cutting off health benefits and laying off workers.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">The new law is already helping.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Seniors hitting that donut hole are receiving $250 rebate checks (the law will close it entirely by 2020).</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Medicare beneficiaries will now receive free preventive care as part of their coverage.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Nearly 78,000 Minnesota small-business owners are now eligible for tax credits to help cover employees, and many qualify for incentives to help them offer coverage to retirees who haven't yet reached age 65 to qualify for Medicare.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Eventually, reform will slow rising costs for everyone.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Many Minnesotans were surprised to learn that they pay an average of $1,100 a year in higher premiums to cover care for the uninsured.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">As those Americans gain coverage, Minnesotans already with insurance will be relieved of this hidden cost.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And, despite what some would have you believe, the nonpartisan Congressional Budget Office says the new law will decrease the deficit by $130 billion over the next decade.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Of course, some longer-term benefits -- like consumer-friendly exchanges to help you pick the right plan for your family -- won't take effect for a few years.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">So it's perfectly understandable that some skepticism about reform endures.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But those who seek to repeal the law would take away all of the things I've outlined that are already in place.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And those who seek to have our state "opt out" of the law are denying Minnesota its fair share of the benefits.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Already, our state is one of the very few choosing to walk away from federal grant money, a decision the Mayo Clinic says could jeopardize its position as a national standard-bearer for care and as a key driver of jobs and economic growth for Minnesota.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">There are going to be more opportunities to receive federal funding; we can't afford to miss out next time.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Our state has been a leader in health care for decades.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">It would be a real shame to fall behind the curve.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">There's still work to be done.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And I'll keep listening to Minnesotans.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="subj">But I <MPQAPOL autoclass="positive">supported</MPQAPOL> <MPQAPOL autoclass="neutral">reform</MPQAPOL> because I heard <MPQAPOL autoclass="neutral">too</MPQAPOL> many stories about how our system was <MPQAPOL autoclass="neutral">falling</MPQAPOL> short -- stories about Minnesotans driven into bankruptcy because they got <MPQAPOL autoclass="neutral">sick</MPQAPOL> or prevented from starting a small business because their preexisting condition <MPQAPOL autoclass="neutral">would</MPQAPOL> make it <MPQAPOL autoclass="neutral">impossible</MPQAPOL> to find health insurance.</MPQASENT>
+

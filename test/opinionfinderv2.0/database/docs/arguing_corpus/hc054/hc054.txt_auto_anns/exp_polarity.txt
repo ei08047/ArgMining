@@ -1,0 +1,7 @@
+hc054_hc054.txt_1174_1183	negative
+hc054_hc054.txt_1235_1242	negative
+hc054_hc054.txt_1247_1257	positive
+hc054_hc054.txt_1258_1267	negative
+hc054_hc054.txt_1332_1339	neutral
+hc054_hc054.txt_1408_1413	neutral
+hc054_hc054.txt_1458_1462	neutral

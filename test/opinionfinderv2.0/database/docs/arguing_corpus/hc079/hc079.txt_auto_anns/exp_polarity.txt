@@ -1,0 +1,3 @@
+hc079_hc079.txt_1940_1946	neutral
+hc079_hc079.txt_1972_1976	neutral
+hc079_hc079.txt_1991_1999	neutral

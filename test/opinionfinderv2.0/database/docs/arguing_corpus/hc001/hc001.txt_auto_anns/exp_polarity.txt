@@ -1,0 +1,6 @@
+hc001_hc001.txt_2796_2803	neutral
+hc001_hc001.txt_2853_2858	neutral
+hc001_hc001.txt_2859_2862	neutral
+hc001_hc001.txt_2893_2899	neutral
+hc001_hc001.txt_3002_3006	positive
+hc001_hc001.txt_3043_3049	neutral

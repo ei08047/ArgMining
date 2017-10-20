@@ -1,0 +1,3 @@
+hc046_hc046.txt_4486_4490	neutral
+hc046_hc046.txt_4491_4502	positive
+hc046_hc046.txt_4594_4603	neutral

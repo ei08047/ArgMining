@@ -1,0 +1,5 @@
+hc038_hc038.txt_3624_3632	neutral
+hc038_hc038.txt_3647_3654	negative
+hc038_hc038.txt_3655_3663	negative
+hc038_hc038.txt_3695_3699	neutral
+hc038_hc038.txt_3728_3733	negative

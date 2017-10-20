@@ -1,0 +1,64 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Obama's health insurance whopper: He's misleading the country on a key reform proposal
+BY JOHN R. GRAHAM	
+ "As soon as I sign this bill," President Obama promised in his prime-time address to Congress, "it will be against the law for insurance companies to drop your coverage when you get sick."</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Thunderous applause followed.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">It's easy to understand why - no one wants to lose their insurance coverage when they need it most.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But here's a news flash: It's already illegal for insurance companies to drop patients once they become ill.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">It has been for over a decade.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The American people should take note, as President Obama is using this non-existent crisis to justify massive federal intervention in America's health sector.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Since 1997, federal regulations have prohibited insurance companies from raising a person's rates if he develops an illness.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And no matter how sick a customer gets, an insurer can't drop him or refuse to renew his policy - provided he didn't lie on his application or move out of the state where his policy was issued.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Perhaps the President thinks this law isn't being enforced.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">He has repeatedly claimed that "no one holds these companies accountable for these practices."</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">But that's not true.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">State insurance commissioners are charged with enforcing good-faith execution of insurance contracts.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">In fact, that's exactly what Obama's current Health Secretary, Kathleen Sebelius, did for eight years as Kansas state insurance commissioner.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Occasionally, insurers identify customers whom they believe have lied about their health status on their applications and rescind their coverage.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Rescission is an infrequently used but important tool for rooting out fraud.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Health insurers rely on applicants submitting correct information so that their actuaries can estimate what risk they will add to the pool of people covered by the insurer.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Insurers must be confident that applicants are being truthful about their health.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Otherwise, the health insurer will attract only applicants who wait until they become sick to buy health insurance, which could leave it bankrupt.</MPQASENT> 
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">The alternative to recission, investigating an applicant's complete medical history, would be extremely time-consuming and expensive.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">It would also make insurance less affordable and less available.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">And despite the scare stories we've been hearing, rescissions rarely occur.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">WellPoint, one of the country's largest insurers, enrolled approximately 873,000 new customers in 2008.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Less than 0.15% of those customers had their policies rescinded.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Just 0.5% of those covered by Assurant, another health insurer, experienced rescission.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">The figure is similar for Blue Cross of California.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">When insurers have wrongfully rescinded policies, state insurance commissioners have been ruthless about protecting consumers' rights.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Last September, for instance, the California Department of Insurance ordered Health Net Inc. to reinstate 926 policies that had been incorrectly rescinded.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">The company also paid $3.6 million in fines and another $14 million in medical claims.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">In July 2008, Anthem Blue Cross agreed to pay $11 million in hospital claims derived from rescinded policies in California.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Americans know that health reform is needed.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Insurance coverage and medical services get more expensive every year.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">And the rising costs make patients feel powerless.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="subj">But these problems stem from the illogical structure of our health system, not the actions of supposedly heartless insurers.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Because third parties - like insurance companies or the government - pay for just about everything, Americans have no idea how much doctor visits or medical procedures cost.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Returning health-care dollars to individual patients would spur competition and bring down costs.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But President Obama has no interest in this style of reform.</MPQASENT> <MPQASENT autoclass1="unknown" autoclass2="obj">He's interested in putting the government in charge.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">And so, with health-care dollars flowing through either insurers or the government, the President only has two potential villains.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">He obviously can't malign the government as he attempts to put it in charge of American health care.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">So that leaves insurance companies as the target for his ire.</MPQASENT>
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">If Americans buy into Obama's crisis-mongering and the <MPQAPOL autoclass="neutral">myths</MPQAPOL> on which it is based, they may be <MPQAPOL autoclass="neutral">forced</MPQAPOL> to <MPQAPOL autoclass="neutral">accept</MPQAPOL> more government <MPQAPOL autoclass="negative">interference</MPQAPOL> in their health decisions and a <MPQAPOL autoclass="negative">precipitous</MPQAPOL> <MPQAPOL autoclass="neutral">decline</MPQAPOL> in the level of choice, competition and quality of care available to them.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="obj">Graham is Director of Health Care Studies at the Pacific Research Institute.</MPQASENT>

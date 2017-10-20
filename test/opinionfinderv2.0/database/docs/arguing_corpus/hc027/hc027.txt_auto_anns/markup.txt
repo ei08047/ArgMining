@@ -1,0 +1,47 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Editorial: A cynical ploy to derail health reform
+ Abortion opponents wage misinformation campaign.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">No one called President George W. Bush a "baby killer'' when he advocated for "a community health center in every poor county'' during his 2005 State of the Union address.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">For more than 40 years, community health centers have put federal dollars to work in Minnesota and across the nation providing primary care to the poor and uninsured.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Bush campaigned on expanding the number of such centers and, once in office, he delivered.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">During his two terms, the number of center sites grew from 3,798 to more than 7,000.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Federal funding doubled from $1 billion to $2 billion, while the number of patients served rose from 9.4 million to 18.4 million.</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">Nary a complaint was raised about the centers during those years, or in 2009 when the economic stimulus bill provided an additional $2 billion in funding.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">But in 2010, they suddenly came under attack.</MPQASENT> 
+ <MPQASENT autoclass1="subj" autoclass2="subj">Instead of being praised as an alternative to expensive emergency-room care, the nation's federally funded community health centers became the focus of a cynical misinformation campaign led by anti-abortion extremists putting politics before their cause, the welfare of the unborn.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Their claim: that the recently passed federal health care overhaul allows community health centers to perform abortions at taxpayer expense.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">The reality?</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">This is blatant, misleading fear-mongering.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">This isn't about protecting the unborn, who will benefit along with their mothers from reform's greater access to medical care.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">Instead, the intent is to whip up opposition to health care reform in time for the fall elections and to send politicians to Washington, D.C., who will work to repeal the law.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">How in the world is this "prolife?"</MPQASENT>
+ <MPQASENT autoclass1="obj" autoclass2="obj">The health reform legislation provides an additional $11 billion to community health centers; there are 18 such centers in Minnesota.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">None of these centers performs abortions, and the latest expansion of federal dollars isn't going to change that.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">Something else to be noted: Contrary to some anti-abortion opponents' claims, none of the centers eligible for the funds is run by Planned Parenthood.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">The debate over community health centers has centered on whether or not the new $11 billion is subject to the Hyde Amendment, which for 34 years has essentially prohibited the use of federal dollars for abortions.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Some abortion opponents claim that the law will send the money directly to the health centers, allowing them to bypass Hyde restrictions.</MPQASENT>
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">But President Obama signed an executive order in March affirming Hyde restrictions and specifically noting that they apply to community health center funding.</MPQASENT> 
+
+ <MPQASENT autoclass1="obj" autoclass2="obj">In addition, the new funds will be distributed as grants by a U.S. Department of Health and Human Services division.</MPQASENT> 
+ <MPQASENT autoclass1="obj" autoclass2="obj">Not only are HHS funds subject to Hyde restrictions, there are additional longstanding federal regulations that prevent money in programs administered by the HHS division from paying for abortions.</MPQASENT>
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">There are other solid reasons why these centers won't suddenly start doing abortions.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="subj">They rely significantly on private donations and simply don't want to risk this support by wading into the abortion controversy.</MPQASENT> 
+
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Congress has also generously supported funding for the centers over the past decade.</MPQASENT> 
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Providing abortion services would jeopardize that.</MPQASENT>
+ <MPQASENT autoclass1="unknown" autoclass2="obj">Last summer, health reform opponents tried to derail the health reform bill by making wild claims about death panels.</MPQASENT> 
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">The hysterical accusations against community health centers are just death-panel fear-mongering in a different guise.</MPQASENT> 
+
+ <MPQASENT autoclass1="subj" autoclass2="subj">It's <MPQAPOL autoclass="negative">sad</MPQAPOL> that those who call themselves "prolife" don't see that they are working <MPQAPOL autoclass="neutral">against</MPQAPOL> a new law that will <MPQAPOL autoclass="neutral">help</MPQAPOL> millions of mothers and children get the medical care they <MPQAPOL autoclass="neutral">need</MPQAPOL> to lead <MPQAPOL autoclass="positive">healthy</MPQAPOL>, <MPQAPOL autoclass="neutral">productive</MPQAPOL> lives.</MPQASENT>
+

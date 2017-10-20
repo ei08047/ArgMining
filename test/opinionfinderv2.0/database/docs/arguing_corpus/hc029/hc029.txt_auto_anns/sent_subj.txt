@@ -1,0 +1,12 @@
+hc029_hc029.txt_0_415	subj
+hc029_hc029.txt_418_536	subj
+hc029_hc029.txt_540_598	obj
+hc029_hc029.txt_601_771	subj
+hc029_hc029.txt_774_990	subj
+hc029_hc029.txt_993_1114	obj
+hc029_hc029.txt_1118_1184	obj
+hc029_hc029.txt_1185_1286	obj
+hc029_hc029.txt_1290_1471	obj
+hc029_hc029.txt_1474_1609	obj
+hc029_hc029.txt_1612_1629	obj
+hc029_hc029.txt_1630_1754	obj

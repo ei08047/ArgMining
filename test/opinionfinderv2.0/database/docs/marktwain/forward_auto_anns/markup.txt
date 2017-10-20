@@ -1,0 +1,21 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Nowhere is the human being more truly revealed than in his letters.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">Notin literary letters--prepared with care, and the thought of possible
+publication--but in those letters wrought out of the press of
+circumstances, and with no idea of print in mind.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="subj">A collection of such
+documents, written by one whose life has become of interest to mankind at
+large, has a value quite aside from literature, in that it reflects in
+some degree at least the soul of the writer.</MPQASENT>
+
+<MPQASENT autoclass1="unknown" autoclass2="obj">The letters of Mark Twain are peculiarly of the revealing sort.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">He was a
+man of few restraints and of no affectations.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">In his correspondence,
+as in his talk, he spoke what was in his mind, untrammeled by literary
+conventions.</MPQASENT>
+
+<MPQASENT autoclass1="obj" autoclass2="obj">Necessarily such a collection does not constitute a detailed life story,
+but is supplementary to it.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">An extended biography of Mark Twain has
+already been published.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">His letters are here gathered for those who wish
+to pursue the subject somewhat more exhaustively from the strictly
+personal side.</MPQASENT>  <MPQASENT autoclass1="obj" autoclass2="obj">Selections from this correspondence were used in the
+biography mentioned.</MPQASENT>  <MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">Most</MPQAPOL> of these are here reprinted in the <MPQAPOL autoclass="neutral">belief</MPQAPOL> that
+an owner of the "Letters" will <MPQAPOL autoclass="positive">wish</MPQAPOL> the collection to be <MPQAPOL autoclass="neutral">reasonably</MPQAPOL>
+<MPQAPOL autoclass="positive">complete</MPQAPOL>.</MPQASENT>

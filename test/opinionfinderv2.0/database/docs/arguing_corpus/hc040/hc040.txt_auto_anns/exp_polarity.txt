@@ -1,0 +1,8 @@
+hc040_hc040.txt_5006_5012	negative
+hc040_hc040.txt_5067_5073	neutral
+hc040_hc040.txt_5083_5091	neutral
+hc040_hc040.txt_5255_5263	neutral
+hc040_hc040.txt_5394_5401	neutral
+hc040_hc040.txt_5466_5470	positive
+hc040_hc040.txt_5471_5477	positive
+hc040_hc040.txt_5566_5574	positive

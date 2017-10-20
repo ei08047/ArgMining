@@ -1,0 +1,16 @@
+hc082_hc082.txt_0_176	unknown
+hc082_hc082.txt_177_426	unknown
+hc082_hc082.txt_427_663	unknown
+hc082_hc082.txt_665_843	unknown
+hc082_hc082.txt_844_972	obj
+hc082_hc082.txt_974_1367	unknown
+hc082_hc082.txt_1368_1461	unknown
+hc082_hc082.txt_1462_1594	unknown
+hc082_hc082.txt_1596_1859	unknown
+hc082_hc082.txt_1861_2045	obj
+hc082_hc082.txt_2045_2242	unknown
+hc082_hc082.txt_2243_2454	unknown
+hc082_hc082.txt_2456_2594	unknown
+hc082_hc082.txt_2595_2865	unknown
+hc082_hc082.txt_2866_2983	unknown
+hc082_hc082.txt_2984_3198	subj

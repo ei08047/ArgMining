@@ -1,0 +1,8 @@
+hc024_hc024.txt_0_215	subj
+hc024_hc024.txt_218_390	subj
+hc024_hc024.txt_392_544	subj
+hc024_hc024.txt_547_745	subj
+hc024_hc024.txt_748_1022	subj
+hc024_hc024.txt_1025_1212	obj
+hc024_hc024.txt_1215_1326	obj
+hc024_hc024.txt_1327_1422	subj
